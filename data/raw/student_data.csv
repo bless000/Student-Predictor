@@ -1,0 +1,1501 @@
+full_name,matric_number,age,gender,program,level,attendance_pct,test_scores,exam_scores,assignment_scores,gpa,study_hours_per_week,lms_activity,past_academic_record,class_participation,extracurricular,performance_score,performance_category
+Emeka Onwudiwe,STU/2019/0001,22,Male,Undergraduate,100,50.8,64.7,53.2,41.1,2.71,11.5,35.9,57.7,Medium,1 Activity,52.1,Average
+Abdul Chukwu,STU/2018/0002,19,Male,Undergraduate,500,66.0,73.3,64.9,36.0,3.14,12.0,60.7,79.6,Medium,None,61.4,Good
+Mary Okeke,STU/2019/0003,28,Male,Undergraduate,100,100.0,81.0,86.5,71.3,2.27,6.8,18.1,68.4,Low,None,65.7,Good
+Emeka Ofili,STU/2023/0004,26,Female,Undergraduate,300,71.3,53.2,70.2,50.0,3.53,10.9,45.9,55.5,High,2+ Activities,59.6,Average
+Yusuf Bello,STU/2022/0005,23,Male,Postgraduate,100,76.4,25.5,57.8,83.5,2.18,0.1,55.7,61.5,Low,1 Activity,43.5,Pass
+Usman Bakare,STU/2019/0006,28,Female,Postgraduate,100,44.6,62.8,88.5,36.4,3.02,0.0,12.9,11.1,Medium,None,47.8,Pass
+Lanre Onwudiwe,STU/2021/0007,20,Male,Undergraduate,200,74.7,60.3,72.5,81.4,2.79,19.0,69.8,83.9,Low,None,68.7,Good
+Ifeoma Onwudiwe,STU/2019/0008,22,Female,Undergraduate,200,100.0,51.8,40.3,79.0,3.55,0.0,,34.9,Medium,2+ Activities,58.4,Average
+Patience Ibrahim,STU/2022/0009,25,Male,Undergraduate,200,95.2,55.6,94.6,67.0,2.99,17.2,80.3,38.6,Low,None,62.9,Good
+Nkechi Aliyu,STU/2019/0010,18,Male,Undergraduate,300,61.0,60.6,67.8,29.3,2.82,10.0,100.0,51.2,Low,2+ Activities,51.7,Average
+Patience Mohammed,STU/2018/0011,22,Female,Undergraduate,100,64.9,64.5,50.7,35.7,2.28,,65.4,24.1,Medium,1 Activity,47.4,Pass
+Chidinma Onyekwere,STU/2018/0012,26,Male,Undergraduate,100,51.6,63.8,14.6,69.1,3.03,0.2,53.4,69.4,Medium,None,45.9,Pass
+Stella Anikulapo,STU/2023/0013,26,Male,Undergraduate,300,56.7,54.1,27.4,61.0,2.77,18.8,14.9,67.2,Medium,1 Activity,42.9,Pass
+Sola Fashola,STU/2020/0014,23,Female,Undergraduate,200,37.6,64.9,89.0,77.4,2.22,16.7,64.8,50.3,Low,2+ Activities,66.6,Good
+Joy Aliyu,STU/2023/0015,20,Female,Undergraduate,400,70.5,52.9,89.8,63.8,3.14,16.9,69.0,46.4,Medium,1 Activity,64.5,Good
+Bello Eze,STU/2020/0016,19,Male,Undergraduate,300,99.2,69.6,56.7,62.4,3.33,23.0,21.1,46.1,Medium,1 Activity,56.2,Average
+Emeka Lawal,STU/2021/0017,23,Male,Undergraduate,400,78.4,46.7,19.6,23.8,2.7,14.6,49.0,72.3,Medium,1 Activity,47.9,Pass
+Gbemi Adeyemi,STU/2018/0018,23,Female,Undergraduate,300,96.6,59.3,33.3,79.0,3.84,0.0,,28.1,High,2+ Activities,58.1,Average
+Rasheed Fashola,STU/2020/0019,18,Male,Postgraduate,200,91.3,28.8,22.5,54.0,3.24,,68.2,51.8,Medium,1 Activity,49.5,Pass
+Blessing Danjuma,STU/2019/0020,21,Male,Undergraduate,300,62.2,51.3,21.8,58.2,1.84,16.6,76.4,29.4,Medium,None,44.8,Pass
+Ibrahim Garba,STU/2021/0021,20,Male,Undergraduate,200,58.3,68.2,95.5,46.8,4.2,12.0,41.6,75.4,High,None,67.3,Good
+Ifeoma Adeleke,STU/2022/0022,17,Female,Undergraduate,200,59.0,39.4,96.2,38.8,3.69,7.3,60.0,53.3,High,None,56.2,Average
+Amina Bakare,STU/2020/0023,23,Female,HND,400,41.1,52.2,32.6,90.0,3.9,11.1,69.3,70.9,High,None,56.4,Average
+Bello Suleiman,STU/2023/0024,27,Male,Undergraduate,200,72.6,14.7,54.8,78.5,3.36,25.7,50.5,85.0,Medium,None,53.4,Average
+Precious Onwudiwe,STU/2020/0025,29,Male,Undergraduate,400,19.7,33.4,29.3,78.8,0.9,6.6,44.5,85.3,Medium,1 Activity,38.1,Poor
+Mercy Nwachukwu,STU/2023/0026,21,Male,Undergraduate,400,,38.1,54.7,61.3,3.98,0.1,72.8,39.6,Low,None,53.3,Average
+Ahmed Aliyu,STU/2023/0027,17,Female,Postgraduate,400,73.3,59.8,87.8,35.5,3.05,2.3,50.6,66.2,Medium,1 Activity,57.0,Average
+Kola Adeyemi,STU/2018/0028,27,Male,HND,500,80.5,64.0,76.6,100.0,3.32,13.7,25.1,82.4,High,1 Activity,63.4,Good
+Joy Ibrahim,STU/2021/0029,20,Male,Undergraduate,200,91.0,57.0,71.2,72.2,3.49,27.4,89.3,73.9,Medium,None,68.6,Good
+Mercy Ofili,STU/2023/0030,16,Female,HND,200,75.6,51.1,51.1,67.3,4.74,31.6,27.8,75.9,High,None,63.0,Good
+Dauda Garba,STU/2018/0031,27,Male,HND,300,100.0,51.2,80.2,58.9,2.51,19.2,52.6,24.3,Medium,None,67.9,Good
+Ahmed Bakare,STU/2018/0032,25,Female,HND,200,83.2,70.9,67.9,30.2,2.53,,63.0,73.6,Medium,None,58.1,Average
+Sola Adeleke,STU/2023/0033,21,Male,Undergraduate,300,58.4,61.8,63.1,84.4,2.23,,66.4,44.1,High,2+ Activities,55.8,Average
+Anthonia Mohammed,STU/2021/0034,28,Male,Undergraduate,400,67.7,52.0,52.7,47.0,2.04,21.0,,73.3,High,1 Activity,47.8,Pass
+Amina Aliyu,STU/2019/0035,27,Male,Undergraduate,300,31.3,81.3,61.4,74.3,2.05,24.7,0.0,72.9,High,None,56.1,Average
+Stella Nwachukwu,STU/2020/0036,24,Female,Postgraduate,200,55.8,93.1,60.8,78.1,1.33,8.9,37.4,71.8,High,1 Activity,56.2,Average
+Sandra Ibrahim,STU/2018/0037,16,Female,Undergraduate,100,65.1,35.6,44.2,70.7,3.38,25.4,62.4,57.8,Medium,None,50.9,Average
+Femi Aliyu,STU/2020/0038,26,Female,Undergraduate,200,81.8,67.4,39.5,73.0,4.79,12.2,52.3,86.3,Medium,1 Activity,60.6,Good
+Ike Eze,STU/2021/0039,26,Male,Undergraduate,100,58.5,100.0,35.1,87.9,4.85,19.7,67.8,70.2,High,1 Activity,68.8,Good
+Gbenga Anikulapo,STU/2019/0040,25,Female,Postgraduate,400,49.6,63.0,36.3,51.5,2.23,23.2,80.5,66.4,Medium,1 Activity,53.2,Average
+Loveth Chukwu,STU/2022/0041,27,Male,Postgraduate,200,38.0,60.1,51.2,67.8,2.76,2.1,67.7,41.3,Low,None,41.6,Pass
+Ibrahim Fashola,STU/2019/0042,27,Male,Undergraduate,100,61.3,57.0,47.9,61.2,4.11,17.6,36.8,67.9,Medium,None,61.0,Good
+Vivian Ofili,STU/2021/0043,29,Female,Postgraduate,100,100.0,66.8,42.6,33.7,3.39,25.4,41.5,99.6,Medium,1 Activity,57.3,Average
+Emeka Okonkwo,STU/2019/0044,29,Male,Undergraduate,300,76.9,71.6,41.1,69.9,3.12,9.5,95.8,32.2,Low,2+ Activities,56.3,Average
+Kayode Fashola,STU/2022/0045,29,Male,Postgraduate,300,,35.6,60.8,86.3,2.77,5.5,50.5,74.6,Medium,2+ Activities,61.9,Good
+Mary Fashola,STU/2018/0046,18,Male,Undergraduate,200,55.8,57.5,82.6,88.4,4.06,18.0,,77.1,Low,None,66.0,Good
+Rasheed Mohammed,STU/2019/0047,27,Male,Undergraduate,100,43.7,17.1,54.8,96.6,2.03,15.1,67.7,94.5,Medium,1 Activity,46.3,Pass
+Gbemi Okonkwo,STU/2023/0048,22,Male,HND,200,50.0,54.2,53.5,34.8,3.43,11.4,85.9,74.5,High,1 Activity,46.7,Pass
+Adaeze Ofili,STU/2023/0049,19,Female,Undergraduate,200,70.3,41.8,36.3,92.7,3.31,14.0,32.5,60.2,Medium,2+ Activities,57.0,Average
+Vivian Ibrahim,STU/2021/0050,24,Male,Postgraduate,300,,64.1,50.5,68.1,3.04,0.6,42.6,68.5,High,None,54.5,Average
+Nkechi Nwachukwu,STU/2019/0051,18,Female,Undergraduate,300,53.9,28.2,78.8,92.2,3.71,17.2,14.9,54.6,Medium,1 Activity,56.4,Average
+Biodun Okafor,STU/2022/0052,20,Female,Undergraduate,200,61.4,48.8,75.7,58.3,3.03,26.7,47.6,84.4,High,None,64.9,Good
+Stella Onwudiwe,STU/2021/0053,18,Male,Undergraduate,100,48.2,75.4,74.4,56.0,2.52,8.3,69.2,29.0,Low,1 Activity,56.7,Average
+Stella Anikulapo,STU/2019/0054,22,Male,Undergraduate,500,,45.8,73.7,44.3,3.08,7.4,45.9,50.2,Low,1 Activity,53.9,Average
+Sandra Ofili,STU/2021/0055,20,Male,Undergraduate,200,77.2,23.7,63.7,78.2,1.57,15.4,99.0,68.9,High,2+ Activities,51.6,Average
+Blessing Onwudiwe,STU/2023/0056,24,Female,Undergraduate,300,72.8,62.6,63.0,73.7,3.55,36.8,57.9,83.4,High,2+ Activities,63.3,Good
+Joy Aliyu,STU/2022/0057,22,Male,Undergraduate,100,86.0,47.4,59.9,46.0,3.78,22.8,52.4,59.7,Low,1 Activity,55.3,Average
+Patience Nwosu,STU/2018/0058,17,Female,Undergraduate,200,52.0,54.7,46.7,28.2,2.41,13.2,46.2,44.4,High,1 Activity,42.9,Pass
+Ngozi Ibrahim,STU/2022/0059,19,Male,HND,100,85.7,44.9,56.7,72.1,2.19,14.3,21.0,55.8,Medium,None,57.3,Average
+Musa Bello,STU/2018/0060,24,Female,HND,300,99.5,93.5,59.3,74.0,2.44,23.6,52.7,52.7,High,1 Activity,70.0,Good
+Mary Anikulapo,STU/2020/0061,27,Male,Undergraduate,500,76.7,30.0,67.7,48.2,2.94,6.7,64.0,53.6,Medium,1 Activity,48.6,Pass
+Abdul Aliyu,STU/2023/0062,29,Male,Postgraduate,200,61.0,100.0,57.0,44.8,3.19,18.9,52.0,51.3,Medium,None,60.8,Good
+Rasheed Nwosu,STU/2023/0063,17,Female,Undergraduate,100,74.6,51.0,97.1,76.1,4.45,5.1,60.8,51.3,Medium,2+ Activities,67.8,Good
+Amina Onwudiwe,STU/2023/0064,25,Female,Undergraduate,100,60.2,61.3,30.8,96.6,4.34,21.4,38.2,25.7,Medium,None,54.7,Average
+Gbenga Danjuma,STU/2022/0065,24,Male,Postgraduate,200,57.2,47.7,70.1,56.6,3.75,11.6,23.9,66.0,Medium,1 Activity,54.9,Average
+Gbenga Lawal,STU/2018/0066,25,Female,HND,100,84.3,46.9,54.2,50.0,3.11,15.6,52.3,73.5,Medium,2+ Activities,54.7,Average
+Emeka Lawal,STU/2020/0067,20,Male,Undergraduate,100,69.5,43.9,55.0,70.1,2.17,,60.5,90.0,Low,2+ Activities,50.5,Average
+Stella Okonkwo,STU/2020/0068,17,Female,Postgraduate,400,93.7,68.8,38.7,75.8,4.51,19.6,50.8,77.2,Low,2+ Activities,62.0,Good
+Segun Okafor,STU/2020/0069,19,Female,Undergraduate,200,64.0,32.6,75.4,58.8,2.78,12.6,60.1,76.2,Low,None,56.8,Average
+Grace Chukwu,STU/2021/0070,27,Male,HND,200,65.9,64.6,68.1,99.4,3.25,31.3,74.4,65.9,High,2+ Activities,72.4,Good
+Uche Eze,STU/2022/0071,27,Male,Undergraduate,500,61.8,18.7,71.7,80.3,3.56,25.4,74.3,24.7,Medium,None,60.4,Good
+Blessing Chukwu,STU/2022/0072,22,Male,Undergraduate,100,51.8,62.9,58.4,58.5,3.06,3.6,76.4,65.6,High,2+ Activities,55.4,Average
+Uche Okeke,STU/2023/0073,27,Female,Undergraduate,500,86.7,73.3,48.5,37.9,4.04,15.5,80.1,62.2,High,1 Activity,57.1,Average
+Ngozi Eze,STU/2022/0074,28,Female,Undergraduate,200,100.0,35.1,53.7,87.4,3.41,,67.4,80.6,Medium,2+ Activities,61.0,Good
+Nkechi Adeyemi,STU/2022/0075,23,Male,Undergraduate,400,65.1,70.2,63.7,85.3,3.89,10.3,63.9,71.3,High,None,70.4,Good
+Rasheed Okonkwo,STU/2021/0076,18,Male,HND,300,59.8,58.9,14.9,59.9,3.4,23.7,100.0,57.4,Medium,1 Activity,45.5,Pass
+Anthonia Okonkwo,STU/2022/0077,29,Female,Undergraduate,400,58.6,86.8,72.5,71.0,2.97,22.8,74.6,99.2,Low,2+ Activities,74.4,Good
+Mary Anikulapo,STU/2018/0078,16,Female,Undergraduate,500,59.8,42.6,100.0,62.4,3.07,13.3,33.9,77.0,Medium,2+ Activities,56.9,Average
+Oluwaseun Lawal,STU/2020/0079,19,Female,Undergraduate,200,100.0,100.0,64.6,73.9,2.94,21.8,8.4,66.8,Medium,None,72.1,Good
+Patience Onwudiwe,STU/2021/0080,17,Male,Undergraduate,500,59.1,15.0,49.4,47.6,1.84,0.0,49.0,69.1,High,2+ Activities,35.9,Poor
+Uche Anikulapo,STU/2021/0081,23,Male,Undergraduate,200,61.5,52.1,51.8,45.2,2.1,24.9,,61.2,Medium,None,48.0,Pass
+Sola Chukwu,STU/2023/0082,19,Male,Undergraduate,200,49.7,27.4,69.2,78.8,3.67,21.1,79.0,60.3,Low,1 Activity,49.1,Pass
+Sola Fashola,STU/2022/0083,17,Female,Undergraduate,200,77.3,91.3,49.8,80.9,1.87,5.3,23.7,16.6,Medium,1 Activity,64.4,Good
+Ike Nwachukwu,STU/2020/0084,29,Male,Undergraduate,300,70.8,53.3,72.4,56.7,2.64,16.0,73.2,41.7,Medium,None,59.6,Average
+Ike Okafor,STU/2018/0085,21,Female,Undergraduate,100,51.5,54.9,51.5,52.3,2.05,0.0,83.4,49.2,Low,None,49.5,Pass
+Fatima Bello,STU/2020/0086,21,Male,Postgraduate,300,55.9,66.0,89.3,84.5,2.59,7.9,70.2,69.0,Medium,2+ Activities,64.1,Good
+Kayode Garba,STU/2019/0087,25,Female,HND,300,99.6,57.9,88.7,52.8,2.86,22.8,65.4,27.0,High,1 Activity,62.2,Good
+Femi Aliyu,STU/2020/0088,19,Female,Undergraduate,400,72.6,47.3,48.4,65.9,2.63,,51.7,49.6,High,None,55.5,Average
+Ifeoma Nwachukwu,STU/2018/0089,21,Female,Undergraduate,400,73.8,35.4,53.4,63.8,1.71,13.5,43.5,47.0,Medium,2+ Activities,43.4,Pass
+Anthonia Obi,STU/2018/0090,28,Male,Undergraduate,200,73.9,61.0,54.6,40.1,2.83,14.4,74.6,62.3,Medium,2+ Activities,54.6,Average
+Dauda Ibrahim,STU/2018/0091,17,Male,Undergraduate,200,97.1,64.8,54.8,68.3,2.14,13.4,69.6,69.1,Low,1 Activity,54.7,Average
+Kola Ofili,STU/2021/0092,25,Male,Undergraduate,200,53.2,70.5,36.1,66.6,2.43,21.9,46.8,47.1,Medium,None,51.8,Average
+Kola Aliyu,STU/2021/0093,27,Female,Undergraduate,100,64.9,92.4,33.3,71.1,3.67,9.0,,48.5,High,None,54.8,Average
+Ibrahim Mohammed,STU/2019/0094,17,Female,Undergraduate,100,69.0,18.9,80.0,67.7,3.86,17.4,17.3,46.4,Medium,1 Activity,49.1,Pass
+Adaeze Okonkwo,STU/2020/0095,25,Female,Undergraduate,200,41.0,56.8,76.8,100.0,1.82,4.8,49.2,52.2,Low,1 Activity,53.3,Average
+Femi Danjuma,STU/2022/0096,29,Female,Undergraduate,200,55.5,79.5,76.5,84.7,4.41,19.9,35.7,59.0,High,1 Activity,72.8,Good
+Segun Mohammed,STU/2023/0097,19,Female,Postgraduate,500,90.8,55.8,53.6,65.7,2.54,11.4,64.6,86.3,High,2+ Activities,57.7,Average
+Loveth Bello,STU/2019/0098,29,Male,HND,300,85.7,15.9,92.8,67.2,2.46,13.7,6.3,39.8,Medium,1 Activity,57.6,Average
+Grace Bello,STU/2022/0099,23,Female,Undergraduate,200,88.9,34.8,54.6,95.0,2.2,11.1,86.7,95.0,Low,None,64.7,Good
+Ike Bakare,STU/2022/0100,29,Male,Undergraduate,300,61.4,63.9,72.3,79.7,3.05,12.1,80.1,35.3,Low,2+ Activities,61.4,Good
+Ahmed Suleiman,STU/2019/0101,22,Male,HND,100,63.6,63.3,27.2,44.1,4.78,6.0,,79.1,Low,1 Activity,46.7,Pass
+Kola Ofili,STU/2020/0102,27,Male,HND,200,39.8,70.1,50.4,81.1,1.61,16.6,47.2,50.5,Medium,1 Activity,56.3,Average
+Bello Abubakar,STU/2023/0103,24,Male,Undergraduate,300,88.8,43.9,51.9,86.1,1.15,18.4,72.9,41.8,Low,2+ Activities,48.4,Pass
+Kayode Bakare,STU/2022/0104,29,Male,Undergraduate,200,91.7,62.7,53.7,92.5,3.24,3.4,63.2,86.3,High,2+ Activities,62.4,Good
+Blessing Onwudiwe,STU/2021/0105,23,Female,Undergraduate,200,91.5,41.0,28.5,58.2,3.51,9.2,78.8,61.6,High,1 Activity,46.0,Pass
+Blessing Ofili,STU/2021/0106,20,Male,Undergraduate,500,100.0,62.7,69.1,56.9,3.05,14.2,51.9,60.9,Medium,None,66.1,Good
+Stella Aliyu,STU/2019/0107,28,Female,Undergraduate,400,79.6,59.0,75.6,49.0,3.54,9.2,50.5,54.5,Medium,2+ Activities,62.9,Good
+Lanre Abubakar,STU/2023/0108,17,Male,Undergraduate,300,100.0,43.2,40.1,70.2,1.98,12.2,81.9,48.4,Medium,1 Activity,60.0,Good
+Amina Bello,STU/2023/0109,20,Male,Undergraduate,300,68.4,86.0,32.1,77.5,2.15,26.9,70.8,56.5,High,1 Activity,57.9,Average
+Bello Suleiman,STU/2022/0110,23,Male,Undergraduate,300,40.2,27.3,39.6,56.3,3.11,5.9,,0.0,High,1 Activity,37.2,Poor
+Oluwaseun Aliyu,STU/2019/0111,25,Male,Postgraduate,100,87.5,55.5,64.9,62.6,4.58,0.0,64.2,22.9,Low,1 Activity,58.8,Average
+Ifeoma Eze,STU/2023/0112,24,Female,Undergraduate,200,39.5,42.8,43.1,30.1,3.5,9.2,59.6,67.8,Low,2+ Activities,38.6,Poor
+Lanre Okonkwo,STU/2023/0113,27,Male,Undergraduate,100,75.1,91.0,52.3,90.7,3.55,11.4,66.7,83.7,High,1 Activity,75.8,Excellent
+Biodun Nwosu,STU/2021/0114,27,Female,Undergraduate,200,89.2,68.8,33.5,38.4,2.03,10.1,,87.3,Medium,2+ Activities,66.4,Good
+Joy Nwachukwu,STU/2019/0115,27,Male,Undergraduate,300,77.8,46.3,94.6,71.4,3.38,16.2,46.3,40.9,Low,2+ Activities,61.4,Good
+Sandra Okeke,STU/2022/0116,28,Female,HND,100,100.0,53.0,56.5,69.1,1.94,,38.9,63.9,Medium,2+ Activities,58.3,Average
+Chukwuemeka Garba,STU/2022/0117,24,Female,Undergraduate,500,36.6,91.5,78.0,65.8,4.59,4.6,61.8,16.1,High,1 Activity,65.3,Good
+Kola Ofili,STU/2021/0118,28,Female,Undergraduate,500,70.5,41.0,64.9,66.2,2.09,8.6,41.6,53.0,Low,2+ Activities,53.1,Average
+Precious Chukwu,STU/2018/0119,28,Male,Postgraduate,400,72.3,26.2,54.2,47.8,2.28,8.8,32.2,76.5,High,1 Activity,50.0,Average
+Halima Danjuma,STU/2018/0120,16,Male,Undergraduate,300,47.8,63.2,53.1,59.4,1.67,31.0,79.8,59.7,Low,None,48.1,Pass
+Aisha Nwosu,STU/2023/0121,24,Male,HND,400,51.2,63.6,40.5,81.5,3.08,26.4,47.8,53.4,High,2+ Activities,55.5,Average
+Emeka Anikulapo,STU/2020/0122,22,Female,Undergraduate,100,56.8,70.0,46.0,86.5,3.04,0.6,8.3,59.7,Medium,1 Activity,59.0,Average
+Vivian Bello,STU/2021/0123,24,Male,Undergraduate,400,52.2,70.1,34.8,57.8,4.36,0.0,76.2,85.7,Medium,None,57.4,Average
+Mercy Chukwu,STU/2020/0124,23,Male,Undergraduate,100,70.1,89.9,32.7,38.5,3.7,13.3,44.0,55.1,Medium,None,55.8,Average
+Stella Adeyemi,STU/2023/0125,16,Female,Undergraduate,400,61.1,27.1,96.7,51.8,2.29,29.3,69.4,61.5,High,None,59.6,Average
+Ibrahim Obi,STU/2021/0126,27,Male,Postgraduate,200,,36.3,60.6,96.5,3.79,19.3,82.1,90.4,High,2+ Activities,68.9,Good
+Chidinma Adeleke,STU/2022/0127,23,Female,Postgraduate,400,83.7,69.9,84.3,52.8,1.88,13.7,59.7,55.4,Medium,1 Activity,66.1,Good
+Precious Ibrahim,STU/2021/0128,23,Male,Undergraduate,500,,38.1,39.1,63.3,2.35,10.4,4.1,27.3,Medium,None,47.1,Pass
+Precious Bello,STU/2019/0129,26,Male,Undergraduate,100,64.6,31.8,30.0,89.1,3.11,22.6,5.9,87.4,Medium,2+ Activities,49.9,Pass
+Ibrahim Nwosu,STU/2020/0130,18,Female,Postgraduate,200,77.1,91.6,35.4,56.0,1.98,15.4,38.2,80.3,Medium,None,56.4,Average
+Stella Nwachukwu,STU/2021/0131,16,Male,HND,500,90.6,28.8,46.6,62.2,3.96,27.9,53.6,15.7,High,2+ Activities,55.4,Average
+Tunde Onyekwere,STU/2020/0132,23,Female,Undergraduate,200,80.0,51.7,55.7,78.5,5.0,0.5,85.0,57.4,Low,1 Activity,60.8,Good
+Uche Nwosu,STU/2023/0133,18,Male,Undergraduate,400,100.0,56.9,52.0,94.1,2.73,17.4,62.3,59.6,Low,1 Activity,63.1,Good
+Bello Adeleke,STU/2021/0134,18,Male,Undergraduate,300,89.7,81.6,39.5,54.0,2.41,9.5,100.0,87.4,Medium,1 Activity,59.7,Average
+Segun Nwosu,STU/2018/0135,16,Female,HND,200,100.0,24.4,56.8,88.7,2.88,17.3,17.7,59.7,Low,None,48.1,Pass
+Tunde Okafor,STU/2020/0136,26,Female,Undergraduate,200,27.1,65.5,58.5,60.2,2.5,16.0,58.0,63.3,High,2+ Activities,56.3,Average
+Aisha Onyekwere,STU/2022/0137,20,Female,Undergraduate,100,73.7,42.0,69.0,49.9,3.24,18.1,43.9,63.9,Medium,None,58.8,Average
+Sola Obi,STU/2022/0138,25,Male,Postgraduate,400,66.2,69.3,84.4,69.2,1.81,,60.9,50.7,Medium,2+ Activities,65.2,Good
+Sandra Onwudiwe,STU/2021/0139,22,Female,Undergraduate,200,69.8,41.7,47.7,45.3,3.29,25.1,98.8,85.9,High,1 Activity,59.5,Average
+Amina Bello,STU/2022/0140,25,Male,Undergraduate,300,57.5,86.3,79.3,73.0,4.72,29.6,100.0,44.2,Medium,1 Activity,74.6,Good
+Blessing Obi,STU/2022/0141,24,Male,Undergraduate,200,79.1,41.8,56.3,100.0,1.2,14.1,56.4,50.3,Medium,1 Activity,53.0,Average
+Precious Obi,STU/2020/0142,27,Female,Undergraduate,300,39.4,13.7,24.5,83.8,1.95,9.7,,59.9,Low,None,42.2,Pass
+Bello Onyekwere,STU/2021/0143,22,Male,Undergraduate,400,79.3,43.8,90.7,63.2,2.6,4.2,60.4,33.2,Medium,1 Activity,54.7,Average
+Ibrahim Nwosu,STU/2020/0144,24,Female,Undergraduate,500,58.1,53.3,100.0,82.9,3.49,17.5,28.1,95.3,Low,2+ Activities,63.2,Good
+Joy Aliyu,STU/2021/0145,23,Male,Undergraduate,200,63.0,77.5,67.4,49.2,3.8,,55.4,60.0,Medium,None,63.9,Good
+Biodun Abubakar,STU/2022/0146,27,Male,Undergraduate,400,79.9,35.3,56.8,52.0,3.73,3.2,42.4,76.5,Medium,1 Activity,54.4,Average
+Loveth Adeleke,STU/2021/0147,17,Female,Postgraduate,400,73.4,35.7,49.6,63.7,1.48,23.2,,40.9,Medium,1 Activity,51.7,Average
+Joy Lawal,STU/2023/0148,16,Female,Postgraduate,300,91.0,75.3,45.7,66.5,2.39,13.2,33.7,74.2,Medium,1 Activity,51.3,Average
+Rasheed Chukwu,STU/2021/0149,22,Female,Undergraduate,500,54.5,33.2,79.2,43.0,2.19,4.0,58.9,75.9,Low,None,47.7,Pass
+Tunde Okafor,STU/2019/0150,22,Female,Undergraduate,100,70.5,54.8,54.7,59.8,2.94,7.2,62.6,78.8,High,1 Activity,51.6,Average
+Ahmed Fashola,STU/2021/0151,29,Female,Undergraduate,100,88.0,55.1,88.5,62.5,3.02,6.5,72.6,98.1,Low,2+ Activities,69.6,Good
+Chukwuemeka Suleiman,STU/2019/0152,23,Female,Undergraduate,400,78.5,61.9,55.7,91.2,1.77,6.6,62.7,48.8,High,None,63.6,Good
+Joy Ibrahim,STU/2020/0153,20,Female,Undergraduate,200,79.7,44.5,46.8,43.0,2.6,18.6,95.9,56.3,Medium,1 Activity,54.3,Average
+Halima Lawal,STU/2019/0154,18,Male,Undergraduate,400,91.9,41.3,43.0,41.4,3.52,20.9,100.0,43.1,Medium,1 Activity,52.6,Average
+Halima Bello,STU/2020/0155,27,Male,Undergraduate,400,64.7,64.0,40.1,68.0,2.43,27.6,44.9,58.1,Medium,1 Activity,51.2,Average
+Precious Anikulapo,STU/2021/0156,23,Male,Undergraduate,100,60.9,41.9,65.3,84.6,2.82,8.4,79.3,73.3,High,1 Activity,57.5,Average
+Fatima Okonkwo,STU/2020/0157,21,Female,Undergraduate,400,82.4,33.5,29.1,74.4,4.53,16.7,100.0,72.2,Low,1 Activity,53.8,Average
+Musa Anikulapo,STU/2022/0158,26,Female,Undergraduate,200,69.3,80.1,38.6,70.1,4.79,8.8,79.9,92.8,Medium,None,64.1,Good
+Lanre Garba,STU/2023/0159,18,Male,Undergraduate,300,92.2,66.8,81.5,60.1,1.05,14.2,72.9,69.8,High,2+ Activities,59.7,Average
+Dauda Onwudiwe,STU/2021/0160,16,Female,Undergraduate,300,78.7,89.8,35.9,76.5,3.1,,9.5,60.0,High,2+ Activities,53.0,Average
+Ike Bello,STU/2019/0161,18,Female,Undergraduate,500,60.8,72.1,72.3,79.1,5.0,5.0,41.0,38.2,Medium,None,67.4,Good
+Segun Suleiman,STU/2023/0162,20,Male,HND,100,,35.2,13.7,60.6,3.43,20.4,44.7,77.3,High,1 Activity,49.3,Pass
+Wale Eze,STU/2018/0163,29,Female,HND,200,55.8,59.7,84.0,48.9,3.02,2.1,89.7,56.9,Medium,2+ Activities,66.4,Good
+Adaeze Okafor,STU/2023/0164,18,Female,Undergraduate,300,89.0,39.7,29.6,49.0,4.18,18.9,36.7,77.8,Low,2+ Activities,49.9,Pass
+Aisha Lawal,STU/2021/0165,16,Male,Undergraduate,400,46.9,28.3,37.5,79.9,3.2,8.6,52.9,51.5,Medium,2+ Activities,39.6,Poor
+Joy Mohammed,STU/2023/0166,20,Female,Undergraduate,300,94.0,50.0,68.6,38.7,3.64,0.0,76.0,84.0,Medium,2+ Activities,62.8,Good
+Halima Fashola,STU/2023/0167,25,Male,Undergraduate,100,77.8,75.7,60.4,93.5,2.81,0.0,35.6,67.7,Medium,None,66.1,Good
+Sandra Fashola,STU/2022/0168,22,Female,Undergraduate,200,69.0,62.9,72.9,57.2,3.18,25.7,62.0,79.8,High,2+ Activities,68.9,Good
+Wale Okonkwo,STU/2020/0169,29,Female,Postgraduate,200,85.7,33.0,29.4,70.3,3.38,,58.7,67.7,Medium,2+ Activities,55.9,Average
+Yusuf Onyekwere,STU/2023/0170,22,Female,Undergraduate,400,81.2,49.3,49.3,76.9,3.78,13.5,76.9,41.5,Low,1 Activity,65.1,Good
+Vivian Okonkwo,STU/2019/0171,26,Male,Postgraduate,200,95.9,55.4,42.7,53.4,2.61,16.8,71.5,52.7,High,1 Activity,51.9,Average
+Vivian Obi,STU/2019/0172,24,Female,Undergraduate,100,95.8,27.6,32.8,57.2,2.59,3.5,70.7,34.4,Low,1 Activity,51.6,Average
+Anthonia Abubakar,STU/2022/0173,25,Female,Undergraduate,500,78.3,70.8,66.9,67.2,1.27,9.6,60.0,63.7,High,1 Activity,57.1,Average
+Uche Onyekwere,STU/2023/0174,25,Male,Postgraduate,100,56.3,53.9,73.9,50.5,2.65,17.8,13.1,30.7,High,None,55.1,Average
+Chidinma Nwachukwu,STU/2023/0175,27,Female,Undergraduate,500,62.3,33.0,48.3,46.9,3.86,16.3,58.5,65.9,High,None,51.6,Average
+Usman Adeyemi,STU/2022/0176,28,Male,Undergraduate,300,70.7,32.0,85.5,48.4,3.42,10.3,56.4,0.0,High,None,50.3,Average
+Tunde Chukwu,STU/2021/0177,18,Female,Undergraduate,400,,77.8,39.3,85.6,2.1,15.9,74.2,76.2,Low,1 Activity,66.3,Good
+Wale Bakare,STU/2018/0178,22,Male,Undergraduate,200,63.8,51.1,85.0,71.8,1.29,13.2,44.4,37.9,Medium,None,53.0,Average
+Aisha Suleiman,STU/2018/0179,16,Male,HND,100,65.3,79.4,66.2,51.5,2.87,6.2,56.0,40.9,Low,2+ Activities,65.4,Good
+Emeka Garba,STU/2020/0180,19,Male,Undergraduate,400,100.0,86.3,30.5,79.8,3.83,23.6,56.8,87.4,Low,None,63.3,Good
+Rasheed Suleiman,STU/2019/0181,28,Female,HND,400,70.1,76.4,94.6,52.5,2.57,15.7,37.2,66.4,Medium,2+ Activities,60.8,Good
+Adaeze Suleiman,STU/2021/0182,19,Male,HND,400,60.6,48.4,46.1,31.8,1.7,0.0,26.2,76.9,Low,2+ Activities,37.7,Poor
+Fatima Obi,STU/2019/0183,29,Female,Postgraduate,100,86.0,13.0,79.1,76.8,2.47,18.2,64.6,39.9,High,2+ Activities,63.1,Good
+Sandra Okonkwo,STU/2021/0184,20,Male,Undergraduate,400,71.0,63.6,57.9,93.0,3.29,9.1,80.2,79.2,High,1 Activity,59.5,Average
+Ngozi Onwudiwe,STU/2022/0185,22,Male,Undergraduate,400,47.0,95.6,62.5,74.5,4.12,11.7,,57.3,Medium,None,68.6,Good
+Ike Anikulapo,STU/2020/0186,22,Female,HND,300,90.7,57.4,73.0,32.9,2.77,14.1,49.6,62.4,Medium,1 Activity,64.3,Good
+Sola Mohammed,STU/2022/0187,28,Female,Undergraduate,400,58.6,22.2,71.9,64.6,3.95,7.7,75.7,89.8,Medium,None,55.3,Average
+Gbemi Bello,STU/2019/0188,26,Male,Undergraduate,400,72.8,45.9,48.2,60.3,3.85,28.4,78.2,36.7,High,2+ Activities,57.1,Average
+Lanre Garba,STU/2020/0189,28,Female,Undergraduate,300,70.8,54.7,65.6,71.4,1.94,2.1,60.8,78.3,Medium,None,55.6,Average
+Ahmed Abubakar,STU/2023/0190,19,Female,Undergraduate,100,76.1,38.2,64.1,50.6,4.13,14.5,65.4,67.7,Low,1 Activity,52.6,Average
+Chukwuemeka Onyekwere,STU/2021/0191,28,Female,Undergraduate,200,32.6,11.8,59.3,59.3,3.27,17.1,68.3,55.7,Medium,2+ Activities,56.8,Average
+Loveth Abubakar,STU/2021/0192,22,Male,Undergraduate,100,66.0,56.2,50.9,40.9,1.91,14.3,72.8,38.1,Medium,2+ Activities,51.8,Average
+Ngozi Ibrahim,STU/2020/0193,26,Male,Undergraduate,200,92.2,43.9,59.2,68.8,4.58,12.5,28.2,55.5,High,2+ Activities,57.0,Average
+Amina Fashola,STU/2022/0194,18,Female,HND,200,94.8,89.9,94.4,41.5,2.89,11.0,100.0,43.6,Low,1 Activity,67.2,Good
+Gbemi Ibrahim,STU/2020/0195,21,Male,Undergraduate,100,54.2,59.8,49.1,72.4,1.25,,61.9,83.7,Low,1 Activity,50.7,Average
+Mercy Nwachukwu,STU/2022/0196,27,Female,HND,200,88.6,66.5,79.1,52.2,2.36,7.4,73.2,61.8,High,1 Activity,57.4,Average
+Ahmed Nwosu,STU/2020/0197,17,Female,Undergraduate,100,58.3,55.9,42.6,11.6,2.14,23.3,36.0,46.5,High,None,35.7,Poor
+Ifeoma Okeke,STU/2022/0198,25,Female,Postgraduate,400,,59.7,37.4,78.5,2.39,10.5,,31.2,High,2+ Activities,53.7,Average
+Babatunde Nwachukwu,STU/2018/0199,28,Female,Undergraduate,500,66.2,28.3,100.0,73.4,2.6,31.1,,50.7,Medium,1 Activity,66.5,Good
+Tunde Okonkwo,STU/2020/0200,29,Female,Postgraduate,100,74.0,39.3,65.8,88.0,2.77,19.4,9.9,84.7,Medium,None,60.9,Good
+Uche Onwudiwe,STU/2022/0201,24,Male,Undergraduate,500,90.0,77.6,66.4,29.5,2.73,0.0,32.5,62.2,Medium,2+ Activities,56.0,Average
+Ike Bakare,STU/2023/0202,20,Female,Postgraduate,300,76.8,61.8,66.9,53.9,2.91,21.1,36.9,56.4,Low,1 Activity,56.6,Average
+Kola Obi,STU/2019/0203,21,Male,Undergraduate,200,69.7,50.8,83.1,67.2,3.53,13.6,23.0,94.0,Medium,2+ Activities,62.9,Good
+Mary Ibrahim,STU/2019/0204,27,Male,HND,100,89.4,66.8,63.2,74.7,2.33,2.9,,51.7,Low,2+ Activities,64.0,Good
+Dauda Okafor,STU/2020/0205,27,Female,HND,300,57.6,67.1,71.3,40.1,4.06,24.4,53.1,43.8,Medium,2+ Activities,55.5,Average
+Ibrahim Eze,STU/2020/0206,27,Female,Undergraduate,400,,93.8,33.8,72.3,1.9,10.5,90.6,68.1,High,None,56.1,Average
+Blessing Ibrahim,STU/2021/0207,27,Female,Undergraduate,400,89.9,60.9,74.7,55.3,3.55,9.8,27.0,68.4,Medium,None,59.7,Average
+Chukwuemeka Anikulapo,STU/2022/0208,19,Female,Postgraduate,100,81.5,38.9,50.3,33.5,4.48,17.0,60.9,48.3,High,2+ Activities,53.6,Average
+Wale Ibrahim,STU/2020/0209,29,Male,Undergraduate,100,63.6,55.9,68.4,52.2,2.84,23.1,33.0,44.0,Low,2+ Activities,54.8,Average
+Tunde Obi,STU/2019/0210,29,Male,HND,200,44.8,68.9,20.7,73.7,3.17,14.9,12.1,88.9,Medium,1 Activity,49.2,Pass
+Dauda Ofili,STU/2019/0211,26,Female,Undergraduate,200,77.6,75.9,67.6,34.2,2.13,14.3,69.7,51.3,Medium,1 Activity,59.6,Average
+Kayode Nwosu,STU/2019/0212,25,Male,Undergraduate,100,43.6,28.9,10.2,75.8,2.54,8.4,71.8,31.0,High,None,31.9,Poor
+Sola Nwachukwu,STU/2022/0213,22,Male,HND,200,68.2,62.6,49.5,69.8,4.41,23.0,68.8,63.9,Medium,2+ Activities,57.2,Average
+Chioma Fashola,STU/2018/0214,27,Male,Undergraduate,400,93.2,41.8,20.9,60.7,3.67,15.0,22.1,77.9,High,None,47.4,Pass
+Ngozi Ofili,STU/2020/0215,24,Male,Postgraduate,500,82.7,47.8,67.7,37.2,3.38,12.2,57.1,56.2,Low,None,57.9,Average
+Emeka Garba,STU/2018/0216,22,Male,Undergraduate,200,35.6,73.2,56.4,38.6,1.26,11.2,69.9,70.7,High,1 Activity,45.8,Pass
+Nkechi Ibrahim,STU/2022/0217,29,Male,Undergraduate,500,75.6,71.4,39.6,58.2,2.36,22.2,78.8,39.1,Low,None,54.3,Average
+Mary Ibrahim,STU/2023/0218,16,Male,Undergraduate,200,66.3,45.8,83.7,45.9,4.57,11.9,70.7,72.6,High,2+ Activities,64.2,Good
+Gbenga Onyekwere,STU/2020/0219,16,Male,Undergraduate,200,49.1,55.2,37.1,59.3,3.37,22.2,79.1,40.9,Medium,None,52.8,Average
+Emeka Mohammed,STU/2021/0220,24,Female,Undergraduate,100,78.0,48.4,0.0,80.4,3.48,10.2,81.7,66.1,High,None,56.4,Average
+Wale Okonkwo,STU/2020/0221,26,Male,Undergraduate,300,63.1,100.0,65.3,60.4,3.15,19.8,57.6,75.4,Medium,1 Activity,69.6,Good
+Oluwaseun Obi,STU/2020/0222,29,Male,Undergraduate,500,63.3,63.0,19.7,59.9,2.45,15.7,67.5,62.0,Low,1 Activity,51.8,Average
+Patience Anikulapo,STU/2020/0223,24,Female,Undergraduate,300,74.2,42.9,37.7,59.9,3.3,6.4,80.0,35.3,High,None,50.3,Average
+Halima Onyekwere,STU/2020/0224,19,Male,Postgraduate,200,60.7,81.8,44.7,82.2,1.62,13.3,64.8,36.2,Low,1 Activity,61.3,Good
+Usman Okonkwo,STU/2023/0225,28,Female,Undergraduate,300,73.7,82.4,26.5,87.0,1.56,0.0,85.0,91.9,Low,1 Activity,56.0,Average
+Wale Onyekwere,STU/2020/0226,24,Female,Undergraduate,100,61.3,90.3,45.1,72.2,2.34,8.0,76.9,44.6,High,2+ Activities,52.0,Average
+Kola Okafor,STU/2022/0227,18,Male,Undergraduate,400,62.3,95.6,26.9,67.3,3.17,1.4,39.2,75.3,Low,None,64.4,Good
+Chiamaka Lawal,STU/2020/0228,22,Male,Undergraduate,300,89.9,70.7,58.2,68.9,1.59,30.0,22.4,62.4,Low,2+ Activities,59.0,Average
+Aisha Danjuma,STU/2023/0229,21,Female,Postgraduate,200,91.7,51.7,30.4,89.3,3.11,1.5,55.5,39.9,Medium,1 Activity,56.9,Average
+Rasheed Bello,STU/2022/0230,23,Female,Undergraduate,300,41.2,54.4,55.6,73.1,2.1,34.7,25.5,49.3,High,None,47.9,Pass
+Lanre Ibrahim,STU/2020/0231,26,Male,Undergraduate,300,,52.7,78.2,90.9,2.23,18.1,57.1,94.0,Low,None,73.7,Good
+Mercy Chukwu,STU/2020/0232,24,Female,Undergraduate,100,97.2,50.7,70.6,57.9,4.17,9.8,54.8,100.0,Medium,1 Activity,61.9,Good
+Chukwuemeka Bakare,STU/2022/0233,29,Male,Undergraduate,300,100.0,80.3,53.4,42.3,3.03,20.5,87.5,53.7,Medium,None,61.2,Good
+Ibrahim Nwosu,STU/2020/0234,20,Female,Postgraduate,100,81.4,58.0,35.2,53.6,2.19,8.8,67.6,52.3,High,None,44.0,Pass
+Chidinma Onyekwere,STU/2023/0235,16,Male,Undergraduate,400,53.0,75.5,58.2,55.4,3.17,2.7,79.4,27.2,High,None,57.8,Average
+Lanre Fashola,STU/2019/0236,18,Female,Postgraduate,400,,70.2,41.1,92.3,1.68,14.6,42.8,27.0,High,1 Activity,55.7,Average
+Mary Aliyu,STU/2020/0237,25,Female,Undergraduate,400,56.4,38.2,59.0,77.5,3.34,,93.2,42.9,Medium,1 Activity,51.3,Average
+Vivian Onwudiwe,STU/2021/0238,27,Female,Undergraduate,300,65.8,27.1,20.7,54.2,4.0,24.2,77.3,51.1,Medium,None,46.5,Pass
+Rasheed Okafor,STU/2022/0239,23,Male,HND,300,78.9,35.7,71.1,78.7,3.6,18.0,65.7,59.5,Low,1 Activity,61.6,Good
+Precious Bello,STU/2023/0240,26,Male,Undergraduate,100,57.5,50.3,55.7,62.8,4.94,9.8,9.8,73.8,Medium,2+ Activities,55.9,Average
+Tunde Fashola,STU/2020/0241,21,Male,Undergraduate,400,51.4,60.4,99.2,92.8,1.26,25.1,84.5,64.4,High,None,59.3,Average
+Musa Onwudiwe,STU/2020/0242,23,Male,Undergraduate,200,80.4,46.3,81.1,59.3,3.11,23.3,99.3,74.1,Medium,2+ Activities,66.7,Good
+Sandra Eze,STU/2022/0243,24,Male,Undergraduate,200,100.0,70.7,66.3,38.8,1.79,16.2,55.3,47.7,Low,1 Activity,51.6,Average
+Ike Lawal,STU/2018/0244,19,Female,Undergraduate,200,94.4,48.5,52.5,61.8,2.84,23.7,55.8,58.6,Medium,2+ Activities,61.9,Good
+Kayode Danjuma,STU/2023/0245,16,Male,Undergraduate,100,84.7,62.6,40.4,59.3,3.0,31.5,42.1,52.7,Medium,None,54.1,Average
+Dauda Okeke,STU/2023/0246,29,Male,Undergraduate,300,89.6,60.1,73.8,42.2,5.0,9.7,14.2,34.7,Medium,2+ Activities,65.6,Good
+Mercy Danjuma,STU/2019/0247,16,Female,Undergraduate,100,83.5,89.2,50.4,75.0,2.95,6.8,40.9,20.5,Medium,1 Activity,61.1,Good
+Tunde Chukwu,STU/2019/0248,25,Female,Undergraduate,400,80.1,40.4,78.4,89.2,2.93,9.4,96.5,46.6,Medium,1 Activity,64.5,Good
+Fatima Mohammed,STU/2020/0249,19,Female,Undergraduate,200,88.2,97.8,63.0,45.9,3.9,3.2,82.0,10.4,Low,1 Activity,70.0,Good
+Dauda Chukwu,STU/2022/0250,27,Female,Undergraduate,100,47.4,47.3,63.2,81.5,2.95,18.7,35.7,37.3,High,None,51.5,Average
+Fatima Anikulapo,STU/2021/0251,29,Male,Undergraduate,300,75.6,33.9,66.9,54.7,4.65,1.1,40.5,70.9,Medium,2+ Activities,52.5,Average
+Wale Okeke,STU/2020/0252,22,Male,HND,100,70.5,54.1,36.6,64.6,3.6,24.1,100.0,63.6,Low,1 Activity,59.8,Average
+Blessing Aliyu,STU/2019/0253,17,Female,Undergraduate,200,73.4,100.0,34.6,62.8,3.75,8.6,29.5,60.4,Medium,None,54.4,Average
+Usman Abubakar,STU/2020/0254,18,Female,HND,400,63.7,74.1,33.9,64.6,1.32,24.9,37.1,83.6,High,None,48.2,Pass
+Blessing Eze,STU/2022/0255,16,Male,Undergraduate,100,81.4,68.9,75.9,73.0,4.79,0.0,44.3,45.4,High,None,61.2,Good
+Uche Garba,STU/2023/0256,20,Female,Undergraduate,400,57.3,72.3,36.1,47.6,2.41,10.9,21.0,73.6,Medium,1 Activity,52.4,Average
+Rasheed Fashola,STU/2023/0257,16,Male,Undergraduate,100,62.4,44.1,38.6,87.0,2.99,3.7,,43.9,Low,1 Activity,45.8,Pass
+Loveth Bello,STU/2023/0258,23,Male,Undergraduate,100,60.2,63.9,65.8,73.6,2.41,,41.9,65.5,Low,1 Activity,56.0,Average
+Gbemi Adeyemi,STU/2023/0259,16,Female,Undergraduate,400,87.6,58.0,50.0,79.2,2.08,27.4,32.4,63.1,Low,None,51.6,Average
+Sandra Nwosu,STU/2021/0260,26,Female,Undergraduate,200,71.8,90.6,47.4,51.7,1.92,0.0,88.2,64.2,Medium,1 Activity,55.0,Average
+Grace Ibrahim,STU/2018/0261,16,Female,Undergraduate,100,63.7,56.0,45.7,46.0,3.09,20.9,25.8,52.3,Medium,1 Activity,49.4,Pass
+Chidinma Fashola,STU/2021/0262,17,Male,HND,200,65.3,51.2,8.5,85.1,1.23,22.5,51.5,66.4,Medium,None,47.7,Pass
+Halima Okonkwo,STU/2020/0263,17,Female,Undergraduate,200,72.1,37.0,35.7,45.3,2.78,16.6,33.1,68.0,Medium,None,39.3,Poor
+Dauda Ibrahim,STU/2019/0264,27,Male,Undergraduate,400,,60.5,78.6,67.5,3.95,18.7,49.8,31.4,Low,None,64.1,Good
+Anthonia Onyekwere,STU/2022/0265,21,Male,Postgraduate,200,49.7,63.3,44.2,82.3,3.57,18.1,31.9,77.0,Low,2+ Activities,62.6,Good
+Chiamaka Nwachukwu,STU/2020/0266,22,Female,Undergraduate,400,84.2,36.4,17.0,62.8,3.39,21.0,56.9,35.3,Medium,1 Activity,51.9,Average
+Aisha Okonkwo,STU/2018/0267,20,Female,Undergraduate,400,80.5,66.2,34.8,84.9,2.19,5.3,,42.5,Low,2+ Activities,51.9,Average
+Gbenga Ibrahim,STU/2022/0268,16,Female,Undergraduate,200,56.1,62.2,62.2,60.4,1.57,23.6,90.1,64.8,Low,None,54.8,Average
+Bello Bello,STU/2022/0269,16,Female,HND,500,98.4,76.2,61.8,43.3,3.94,15.7,40.3,72.0,Medium,2+ Activities,72.3,Good
+Joy Okafor,STU/2022/0270,18,Female,Postgraduate,200,81.7,79.8,49.1,71.4,2.6,15.2,95.4,64.4,High,1 Activity,59.4,Average
+Ifeoma Adeyemi,STU/2020/0271,29,Female,Undergraduate,500,62.9,59.7,41.2,68.4,2.93,18.5,34.8,66.5,High,1 Activity,46.3,Pass
+Chidinma Nwachukwu,STU/2018/0272,17,Male,Undergraduate,100,38.5,39.3,27.0,100.0,2.82,3.8,49.0,37.3,High,None,44.1,Pass
+Nkechi Adeyemi,STU/2020/0273,20,Male,HND,300,76.1,43.0,62.4,48.9,3.61,1.6,,49.5,Medium,1 Activity,55.8,Average
+Mary Nwosu,STU/2022/0274,27,Male,Undergraduate,200,71.2,89.7,71.8,60.7,4.66,13.0,100.0,19.0,Medium,2+ Activities,68.1,Good
+Patience Ofili,STU/2022/0275,25,Male,Undergraduate,200,53.4,61.0,80.8,52.6,4.32,26.3,97.1,41.6,Low,None,68.4,Good
+Biodun Mohammed,STU/2019/0276,21,Female,Undergraduate,300,53.2,89.4,32.8,62.6,0.9,4.5,49.4,33.2,High,None,48.0,Pass
+Nkechi Okonkwo,STU/2021/0277,22,Male,Undergraduate,400,87.6,67.0,82.3,61.9,2.72,15.4,67.9,60.3,Low,1 Activity,62.6,Good
+Uche Obi,STU/2020/0278,19,Male,Undergraduate,100,36.8,71.6,53.9,50.2,1.79,8.3,72.1,100.0,Low,2+ Activities,48.9,Pass
+Lanre Okeke,STU/2018/0279,22,Male,Undergraduate,100,77.7,74.9,55.5,73.0,3.84,7.2,63.6,75.2,Low,1 Activity,60.9,Good
+Stella Okeke,STU/2022/0280,26,Female,Undergraduate,400,68.6,36.0,72.9,61.4,3.0,18.0,29.8,15.1,High,None,56.3,Average
+Usman Adeyemi,STU/2020/0281,23,Male,Undergraduate,300,80.9,63.5,44.2,87.9,3.55,20.1,60.9,29.6,High,1 Activity,60.5,Good
+Kola Nwachukwu,STU/2021/0282,26,Female,Postgraduate,500,66.7,35.7,11.7,54.0,2.65,7.7,42.4,34.0,High,1 Activity,34.3,Poor
+Gbemi Eze,STU/2020/0283,16,Male,Undergraduate,400,77.3,52.9,69.1,96.6,2.06,25.1,30.8,24.9,Medium,2+ Activities,64.6,Good
+Adaeze Abubakar,STU/2021/0284,21,Male,Undergraduate,500,58.6,69.5,62.0,69.7,2.22,17.4,47.2,54.4,Medium,2+ Activities,56.5,Average
+Abdul Nwosu,STU/2020/0285,23,Female,Undergraduate,400,71.1,39.5,47.8,86.6,1.62,12.1,62.9,64.6,High,1 Activity,47.1,Pass
+Loveth Chukwu,STU/2019/0286,20,Female,Undergraduate,200,80.8,68.1,67.5,67.0,1.86,16.8,80.0,34.1,Medium,None,66.6,Good
+Tunde Adeyemi,STU/2020/0287,19,Male,Undergraduate,100,74.7,31.0,71.5,51.7,1.67,30.3,48.7,55.5,High,2+ Activities,55.2,Average
+Chukwuemeka Mohammed,STU/2023/0288,17,Female,Undergraduate,400,78.8,78.6,24.8,60.5,2.07,20.0,53.0,64.4,Medium,1 Activity,53.2,Average
+Dauda Lawal,STU/2019/0289,21,Female,Postgraduate,300,55.3,46.0,55.5,41.4,2.02,8.4,75.1,74.0,Medium,2+ Activities,47.3,Pass
+Gbemi Bello,STU/2021/0290,21,Male,HND,100,61.4,39.5,9.4,63.1,3.35,,56.8,63.1,High,1 Activity,43.7,Pass
+Emeka Fashola,STU/2022/0291,26,Female,Undergraduate,200,61.7,32.2,52.5,67.9,3.32,,,66.6,Low,2+ Activities,51.5,Average
+Fatima Adeyemi,STU/2022/0292,16,Female,Undergraduate,500,67.0,47.6,47.5,65.8,3.35,19.3,56.9,59.3,High,2+ Activities,55.0,Average
+Sola Onyekwere,STU/2020/0293,24,Female,Undergraduate,300,96.5,23.7,64.8,87.6,4.06,15.9,60.1,39.7,Medium,None,58.9,Average
+Femi Bello,STU/2018/0294,27,Female,Postgraduate,200,65.6,48.1,33.5,62.5,2.93,29.2,28.0,44.1,High,2+ Activities,50.1,Average
+Nkechi Okeke,STU/2020/0295,26,Female,Postgraduate,200,51.4,77.8,46.6,32.8,2.3,12.2,58.1,33.5,Medium,None,45.5,Pass
+Biodun Suleiman,STU/2019/0296,21,Female,Undergraduate,100,81.7,54.6,0.0,100.0,4.99,0.2,90.7,90.0,Medium,2+ Activities,60.2,Good
+Adaeze Bakare,STU/2019/0297,28,Female,Undergraduate,200,96.2,36.8,66.2,53.3,3.82,15.7,59.2,30.6,Medium,2+ Activities,58.5,Average
+Ike Fashola,STU/2021/0298,18,Female,Postgraduate,200,49.3,62.1,53.2,81.5,3.14,10.5,34.2,79.0,Medium,None,53.2,Average
+Gbenga Onwudiwe,STU/2020/0299,19,Female,Undergraduate,100,100.0,60.5,56.7,39.4,3.07,2.0,91.9,30.8,Medium,1 Activity,56.6,Average
+Vivian Anikulapo,STU/2021/0300,27,Female,Undergraduate,400,,93.2,25.1,69.2,3.26,8.4,73.0,75.3,High,1 Activity,63.3,Good
+Segun Onwudiwe,STU/2018/0301,26,Female,Undergraduate,200,90.6,72.2,63.0,51.5,2.82,11.1,74.2,79.4,Medium,2+ Activities,53.8,Average
+Lanre Ibrahim,STU/2022/0302,19,Male,Undergraduate,400,98.4,63.5,88.1,17.0,3.12,23.1,73.5,83.0,Low,2+ Activities,66.3,Good
+Nkechi Lawal,STU/2022/0303,18,Female,HND,400,89.5,74.3,51.3,60.2,3.45,2.1,26.8,39.2,High,1 Activity,53.4,Average
+Ike Obi,STU/2020/0304,25,Female,HND,100,70.0,55.6,68.0,64.1,2.35,16.8,71.2,63.3,Low,2+ Activities,56.4,Average
+Wale Okeke,STU/2021/0305,18,Male,Undergraduate,300,93.9,56.6,37.6,61.3,1.53,31.8,89.6,48.0,Medium,None,43.3,Pass
+Nkechi Aliyu,STU/2021/0306,18,Female,Undergraduate,200,76.6,87.9,53.5,69.1,1.13,12.6,43.0,42.3,Low,None,57.4,Average
+Stella Mohammed,STU/2018/0307,19,Male,Undergraduate,400,91.6,28.6,24.4,60.4,3.8,12.4,6.8,60.9,High,1 Activity,44.1,Pass
+Femi Danjuma,STU/2021/0308,22,Male,Undergraduate,100,,75.4,70.8,66.2,1.58,19.8,64.1,76.3,Low,1 Activity,61.3,Good
+Musa Abubakar,STU/2023/0309,19,Female,Undergraduate,300,52.4,56.0,58.2,67.9,3.42,18.2,55.8,48.1,Low,None,55.8,Average
+Amina Ibrahim,STU/2023/0310,24,Male,Undergraduate,300,86.3,52.8,30.6,64.4,1.96,25.3,16.3,66.6,High,1 Activity,42.1,Pass
+Mary Aliyu,STU/2019/0311,16,Female,Undergraduate,200,68.7,48.0,39.0,62.1,1.98,12.7,70.1,41.8,High,1 Activity,49.2,Pass
+Ibrahim Chukwu,STU/2023/0312,23,Female,Undergraduate,100,74.5,60.8,56.2,49.8,2.35,19.6,68.3,39.1,Low,2+ Activities,57.0,Average
+Segun Eze,STU/2023/0313,22,Male,Undergraduate,300,74.3,57.2,73.5,75.1,3.17,19.7,18.3,53.5,High,None,61.9,Good
+Ike Mohammed,STU/2019/0314,17,Male,Undergraduate,400,73.6,50.5,84.6,60.2,1.84,11.3,100.0,54.7,High,1 Activity,59.0,Average
+Patience Mohammed,STU/2023/0315,23,Male,Undergraduate,200,99.4,45.4,52.3,58.8,2.44,13.1,73.8,73.4,Low,1 Activity,56.0,Average
+Lanre Adeleke,STU/2023/0316,16,Female,Undergraduate,300,47.4,23.7,27.7,73.7,2.98,13.9,7.7,35.0,High,2+ Activities,40.6,Pass
+Mary Mohammed,STU/2019/0317,26,Female,HND,200,41.0,45.0,59.8,68.6,1.91,4.1,75.5,100.0,Medium,1 Activity,53.9,Average
+Chidinma Ofili,STU/2020/0318,27,Female,Undergraduate,400,37.2,48.8,90.7,53.1,4.29,10.9,74.7,24.2,Medium,2+ Activities,64.9,Good
+Adaeze Okonkwo,STU/2019/0319,24,Male,Undergraduate,100,91.2,60.7,22.5,86.3,1.45,26.0,90.4,64.6,Medium,2+ Activities,54.9,Average
+Stella Onyekwere,STU/2019/0320,24,Female,HND,400,58.1,93.3,35.9,44.8,2.8,22.3,,54.3,Medium,1 Activity,55.1,Average
+Precious Suleiman,STU/2023/0321,17,Female,HND,200,74.4,46.9,67.2,47.5,4.15,9.4,75.8,47.0,Low,None,54.6,Average
+Rasheed Obi,STU/2022/0322,22,Female,Undergraduate,200,69.9,39.6,58.1,76.4,1.81,13.9,49.1,56.5,High,2+ Activities,54.7,Average
+Kayode Adeleke,STU/2023/0323,29,Male,Postgraduate,100,56.0,45.1,44.1,94.8,2.9,21.8,41.1,73.4,Low,1 Activity,56.7,Average
+Sandra Lawal,STU/2020/0324,25,Female,Undergraduate,100,87.3,60.8,59.4,55.2,3.12,17.5,33.4,76.6,Medium,1 Activity,58.2,Average
+Wale Okeke,STU/2019/0325,18,Female,Undergraduate,300,69.7,68.6,74.6,72.0,2.27,20.4,7.4,55.6,Low,1 Activity,60.7,Good
+Kola Anikulapo,STU/2018/0326,22,Female,Undergraduate,200,67.7,71.1,53.0,44.7,2.93,18.3,68.5,66.6,High,2+ Activities,58.0,Average
+Yusuf Fashola,STU/2019/0327,27,Male,Undergraduate,400,76.2,72.9,51.3,49.2,3.51,15.7,48.2,33.4,Medium,2+ Activities,57.5,Average
+Joy Lawal,STU/2020/0328,25,Female,Undergraduate,100,,75.4,66.8,84.2,2.58,12.7,0.0,56.3,Medium,2+ Activities,59.1,Average
+Kayode Danjuma,STU/2021/0329,24,Female,Undergraduate,200,54.7,53.0,49.6,71.2,3.69,4.4,56.9,67.9,Medium,None,55.1,Average
+Amina Okonkwo,STU/2023/0330,19,Male,Undergraduate,200,87.7,95.0,77.9,84.8,3.35,19.5,83.9,14.3,High,1 Activity,73.0,Good
+Ibrahim Garba,STU/2022/0331,27,Female,Undergraduate,100,98.1,51.6,95.5,83.5,2.48,12.2,22.3,61.6,Medium,None,69.2,Good
+Ngozi Eze,STU/2022/0332,16,Female,Undergraduate,100,46.3,60.0,37.1,29.5,4.01,0.8,37.2,56.6,High,None,42.0,Pass
+Chiamaka Ofili,STU/2023/0333,17,Male,Undergraduate,200,77.0,81.3,30.0,44.7,2.33,9.6,66.0,85.4,Low,2+ Activities,53.8,Average
+Patience Okeke,STU/2023/0334,16,Male,Undergraduate,200,66.5,68.2,62.4,69.7,3.77,20.8,0.0,63.3,Low,1 Activity,58.5,Average
+Anthonia Ibrahim,STU/2020/0335,29,Female,Postgraduate,200,84.6,17.7,29.3,36.1,2.35,0.0,41.7,69.6,Medium,1 Activity,38.7,Poor
+Loveth Danjuma,STU/2019/0336,27,Male,Postgraduate,300,50.1,58.1,28.9,47.1,2.72,5.8,63.7,54.6,High,1 Activity,45.3,Pass
+Vivian Bello,STU/2018/0337,20,Female,HND,300,100.0,73.5,14.0,89.3,2.85,15.1,41.0,72.6,Low,2+ Activities,54.5,Average
+Vivian Garba,STU/2019/0338,20,Male,Undergraduate,100,43.1,33.8,47.4,55.8,3.3,25.2,22.5,71.2,Low,None,50.3,Average
+Chiamaka Bello,STU/2019/0339,26,Female,Postgraduate,200,67.6,71.5,54.3,77.1,0.83,22.0,23.7,33.9,Low,None,47.9,Pass
+Usman Onyekwere,STU/2018/0340,22,Male,Undergraduate,500,79.8,65.0,44.7,64.5,3.41,26.0,14.7,66.2,Medium,1 Activity,60.2,Good
+Lanre Ibrahim,STU/2022/0341,24,Female,Undergraduate,300,59.6,79.3,82.8,53.4,2.91,15.7,39.2,83.6,Medium,1 Activity,56.3,Average
+Loveth Onyekwere,STU/2019/0342,24,Female,Undergraduate,300,56.8,45.5,81.3,36.7,3.26,12.3,81.4,79.7,High,2+ Activities,56.8,Average
+Ibrahim Fashola,STU/2021/0343,18,Female,Undergraduate,200,76.0,75.9,93.6,69.0,3.45,20.7,100.0,60.5,Low,2+ Activities,79.8,Excellent
+Sola Nwosu,STU/2021/0344,18,Female,Undergraduate,400,73.4,60.9,55.9,89.7,3.35,6.8,55.9,66.4,Low,1 Activity,60.1,Good
+Bello Onwudiwe,STU/2020/0345,18,Male,Undergraduate,400,72.1,89.8,78.7,53.9,1.19,6.2,74.2,78.3,Medium,2+ Activities,62.4,Good
+Uche Onwudiwe,STU/2020/0346,19,Female,Postgraduate,300,87.5,100.0,61.2,66.2,2.05,4.8,31.5,37.2,Medium,None,67.5,Good
+Dauda Onyekwere,STU/2018/0347,23,Male,Undergraduate,500,64.9,85.7,59.2,39.2,3.3,22.7,2.7,69.5,Medium,2+ Activities,57.2,Average
+Emeka Abubakar,STU/2018/0348,21,Male,Undergraduate,100,77.8,66.6,45.7,53.6,3.18,,100.0,20.6,Low,None,56.2,Average
+Lanre Nwosu,STU/2020/0349,23,Male,HND,100,62.9,99.8,9.7,70.8,2.29,22.0,40.1,77.2,High,2+ Activities,57.7,Average
+Babatunde Bello,STU/2023/0350,16,Male,Undergraduate,400,56.7,68.9,67.7,77.6,3.66,15.2,73.0,52.3,Medium,1 Activity,58.8,Average
+Usman Danjuma,STU/2019/0351,23,Female,Undergraduate,400,66.9,41.7,78.1,74.5,2.77,22.8,59.0,58.3,Medium,None,57.7,Average
+Ibrahim Nwachukwu,STU/2023/0352,19,Female,Undergraduate,100,63.0,57.3,24.5,30.5,3.8,5.2,79.9,48.9,Medium,None,46.6,Pass
+Oluwaseun Nwosu,STU/2022/0353,26,Male,Undergraduate,200,63.9,71.7,54.8,57.2,4.09,9.0,78.9,59.2,Low,1 Activity,54.0,Average
+Chukwuemeka Nwosu,STU/2021/0354,16,Male,Undergraduate,100,93.0,72.9,74.8,48.6,3.25,17.6,61.9,65.1,High,1 Activity,71.6,Good
+Sandra Aliyu,STU/2018/0355,23,Female,Undergraduate,200,67.4,37.7,47.8,59.7,3.5,10.6,64.7,75.1,High,None,55.8,Average
+Precious Lawal,STU/2020/0356,19,Male,Undergraduate,400,60.1,38.3,78.9,63.1,2.45,0.0,85.3,86.0,Medium,1 Activity,58.4,Average
+Lanre Onwudiwe,STU/2021/0357,21,Male,Undergraduate,300,72.5,51.9,52.2,83.1,3.8,3.0,44.8,61.0,Medium,1 Activity,63.6,Good
+Dauda Onwudiwe,STU/2023/0358,23,Male,Undergraduate,200,73.9,67.6,44.5,70.0,3.2,5.1,93.9,26.8,Low,1 Activity,60.2,Good
+Patience Obi,STU/2018/0359,19,Female,Undergraduate,200,50.6,69.9,80.0,89.1,2.73,5.7,37.3,86.1,Medium,2+ Activities,62.9,Good
+Adaeze Nwosu,STU/2018/0360,29,Female,Undergraduate,100,66.6,60.5,36.3,53.1,1.9,19.5,56.9,30.6,Medium,None,40.8,Pass
+Oluwaseun Onyekwere,STU/2019/0361,18,Male,Postgraduate,200,65.9,43.0,40.5,40.9,2.56,16.7,70.7,51.6,High,1 Activity,44.7,Pass
+Rasheed Bello,STU/2018/0362,29,Male,Undergraduate,300,68.9,89.3,37.1,89.7,2.0,15.3,14.3,50.2,Low,2+ Activities,54.1,Average
+Stella Bello,STU/2022/0363,24,Female,Undergraduate,500,85.1,38.7,32.1,72.4,3.69,30.1,,60.2,Low,1 Activity,59.6,Average
+Lanre Bello,STU/2018/0364,18,Female,Undergraduate,400,74.5,81.4,58.1,52.4,4.1,23.4,66.9,34.7,Low,1 Activity,63.9,Good
+Kola Anikulapo,STU/2022/0365,24,Male,Undergraduate,100,94.1,71.3,44.7,72.4,3.82,20.4,100.0,33.8,Low,1 Activity,58.9,Average
+Lanre Chukwu,STU/2023/0366,28,Female,Undergraduate,400,71.8,81.0,64.8,79.2,5.0,2.0,100.0,59.6,Medium,None,74.8,Good
+Dauda Onwudiwe,STU/2019/0367,17,Male,Undergraduate,400,100.0,50.0,20.3,67.0,2.59,14.5,54.7,44.0,Low,1 Activity,55.2,Average
+Yusuf Anikulapo,STU/2022/0368,29,Male,HND,400,63.7,55.4,32.5,52.6,3.54,16.4,99.6,86.9,High,2+ Activities,61.8,Good
+Lanre Adeleke,STU/2023/0369,17,Female,Postgraduate,200,58.1,59.0,56.0,57.5,1.94,10.7,76.2,49.0,Low,None,46.3,Pass
+Lanre Suleiman,STU/2021/0370,17,Male,Undergraduate,200,81.9,49.4,84.4,69.9,2.82,,60.8,39.4,Medium,2+ Activities,65.8,Good
+Biodun Onwudiwe,STU/2018/0371,21,Female,Postgraduate,200,96.6,62.1,62.6,68.4,1.67,14.4,13.5,93.4,Medium,None,53.3,Average
+Vivian Abubakar,STU/2020/0372,18,Male,Undergraduate,100,47.2,86.4,43.2,85.6,3.51,4.2,19.4,69.4,High,1 Activity,66.6,Good
+Stella Mohammed,STU/2020/0373,28,Male,Undergraduate,100,68.5,34.7,25.2,60.3,2.68,6.0,55.1,100.0,High,2+ Activities,46.6,Pass
+Usman Okonkwo,STU/2022/0374,24,Female,Undergraduate,100,61.0,46.2,42.0,48.6,1.15,32.3,42.6,21.6,High,2+ Activities,43.1,Pass
+Halima Ibrahim,STU/2019/0375,19,Male,Undergraduate,200,74.6,44.2,54.2,100.0,2.38,10.6,60.6,64.2,High,2+ Activities,57.1,Average
+Wale Ibrahim,STU/2022/0376,16,Female,Postgraduate,400,72.2,56.3,7.8,68.0,4.61,0.0,89.3,69.7,Medium,2+ Activities,54.6,Average
+Emeka Onyekwere,STU/2023/0377,19,Male,Undergraduate,200,96.2,55.6,30.7,79.2,3.37,9.2,76.6,60.6,High,1 Activity,61.1,Good
+Joy Chukwu,STU/2023/0378,16,Male,Undergraduate,100,,71.9,40.2,73.9,3.69,0.0,37.6,52.8,High,1 Activity,50.4,Average
+Lanre Mohammed,STU/2022/0379,29,Male,HND,500,96.7,58.6,49.9,68.2,3.11,21.3,78.1,84.9,Low,1 Activity,68.1,Good
+Oluwaseun Garba,STU/2022/0380,20,Female,Undergraduate,500,66.3,63.5,53.9,61.1,2.84,0.0,32.1,69.3,Medium,1 Activity,55.0,Average
+Ibrahim Lawal,STU/2021/0381,19,Male,Undergraduate,400,88.7,65.2,42.8,17.3,3.01,2.8,26.4,26.2,Low,1 Activity,51.0,Average
+Loveth Onyekwere,STU/2023/0382,23,Female,Undergraduate,500,76.1,62.4,65.1,46.9,3.22,14.0,64.5,42.6,Medium,1 Activity,64.9,Good
+Ahmed Onwudiwe,STU/2021/0383,23,Male,Postgraduate,300,100.0,70.7,57.5,70.6,2.01,22.9,34.6,36.7,Medium,1 Activity,59.8,Average
+Segun Aliyu,STU/2022/0384,22,Female,Postgraduate,500,45.4,55.8,47.6,18.8,3.69,13.4,39.0,57.6,Medium,2+ Activities,49.7,Pass
+Oluwaseun Mohammed,STU/2019/0385,18,Male,Undergraduate,100,51.1,87.6,67.9,66.2,4.01,3.9,79.8,79.0,Medium,1 Activity,64.0,Good
+Abdul Bakare,STU/2018/0386,16,Female,Undergraduate,200,100.0,100.0,66.2,76.2,2.82,15.5,71.4,52.4,High,None,70.5,Good
+Chukwuemeka Ofili,STU/2023/0387,16,Female,Undergraduate,100,58.8,70.7,25.9,79.2,2.53,10.3,45.7,54.9,Medium,1 Activity,57.7,Average
+Rasheed Onyekwere,STU/2020/0388,27,Female,Postgraduate,100,59.9,62.1,54.4,75.2,2.33,23.1,14.4,40.4,High,1 Activity,51.5,Average
+Mary Bello,STU/2021/0389,26,Female,Undergraduate,100,56.2,69.2,72.8,81.3,4.58,,36.6,75.2,Medium,1 Activity,68.7,Good
+Blessing Okeke,STU/2023/0390,18,Female,Undergraduate,300,92.7,38.2,76.1,92.3,2.59,9.7,100.0,84.7,Medium,2+ Activities,63.0,Good
+Chioma Danjuma,STU/2018/0391,21,Female,HND,400,49.4,61.2,62.4,83.6,3.59,20.2,79.2,59.4,Medium,1 Activity,60.4,Good
+Oluwaseun Ibrahim,STU/2021/0392,22,Male,Undergraduate,300,72.4,44.8,50.3,68.3,2.83,16.2,90.6,91.6,Low,2+ Activities,55.2,Average
+Sandra Nwosu,STU/2023/0393,21,Male,Undergraduate,100,67.2,67.2,63.4,62.7,2.78,24.9,61.4,49.1,Medium,1 Activity,66.0,Good
+Ngozi Ofili,STU/2021/0394,29,Female,Undergraduate,400,90.7,44.9,71.2,66.9,2.31,19.9,46.2,32.1,Medium,1 Activity,59.6,Average
+Joy Okafor,STU/2021/0395,29,Female,HND,300,61.9,51.8,57.3,60.3,2.13,18.4,77.6,76.1,Medium,2+ Activities,58.4,Average
+Emeka Aliyu,STU/2022/0396,21,Female,Undergraduate,200,79.5,24.3,59.6,84.0,3.67,24.6,87.0,58.1,Medium,None,53.0,Average
+Lanre Fashola,STU/2022/0397,21,Male,Undergraduate,300,50.9,36.9,50.0,74.7,2.11,14.1,43.0,48.4,Medium,None,47.1,Pass
+Mary Okonkwo,STU/2021/0398,28,Male,Undergraduate,200,100.0,64.4,28.3,58.5,3.42,7.8,37.2,61.5,Medium,None,52.5,Average
+Wale Aliyu,STU/2021/0399,18,Male,Undergraduate,200,67.7,42.4,51.5,87.5,3.08,15.6,17.0,28.3,Medium,1 Activity,55.2,Average
+Halima Aliyu,STU/2020/0400,21,Female,Undergraduate,500,72.2,77.1,41.5,60.0,3.68,11.2,36.5,25.0,Low,None,64.5,Good
+Chukwuemeka Okonkwo,STU/2018/0401,23,Male,Undergraduate,200,100.0,40.8,41.5,48.9,2.45,18.8,71.7,61.9,Low,2+ Activities,42.6,Pass
+Patience Suleiman,STU/2018/0402,26,Male,HND,200,61.4,66.2,83.7,64.8,3.97,14.5,40.1,68.7,Low,1 Activity,66.0,Good
+Lanre Onwudiwe,STU/2019/0403,26,Male,Undergraduate,400,100.0,44.3,74.0,51.0,2.87,17.2,78.3,87.9,Low,1 Activity,70.3,Good
+Joy Bello,STU/2019/0404,17,Male,Undergraduate,400,64.6,64.9,21.1,80.9,5.0,4.4,100.0,77.7,Low,None,57.5,Average
+Ruth Bakare,STU/2019/0405,20,Female,Undergraduate,100,84.1,30.4,33.3,50.6,1.55,,55.6,72.7,Low,None,43.4,Pass
+Babatunde Okeke,STU/2022/0406,29,Male,Undergraduate,100,61.7,49.8,47.7,63.0,5.0,3.7,54.6,85.4,Low,None,59.3,Average
+Femi Okonkwo,STU/2022/0407,16,Female,HND,100,47.6,42.8,42.2,81.0,2.89,21.7,68.7,69.8,Medium,1 Activity,44.4,Pass
+Kayode Fashola,STU/2020/0408,27,Male,Undergraduate,300,79.5,73.9,61.3,52.9,3.2,21.7,40.6,53.1,Low,1 Activity,61.0,Good
+Babatunde Bello,STU/2022/0409,16,Male,Undergraduate,200,83.5,66.3,30.1,72.0,2.46,16.8,,78.2,Medium,1 Activity,51.4,Average
+Precious Bakare,STU/2019/0410,20,Male,Undergraduate,100,48.3,35.8,74.2,48.5,1.59,16.5,39.6,77.5,High,1 Activity,56.5,Average
+Ngozi Anikulapo,STU/2023/0411,27,Male,Undergraduate,500,,54.3,54.1,69.2,2.52,12.2,26.4,59.8,High,2+ Activities,53.1,Average
+Oluwaseun Anikulapo,STU/2021/0412,28,Male,Undergraduate,300,93.6,44.1,48.2,74.6,2.67,9.2,77.5,36.0,Medium,None,52.6,Average
+Vivian Bello,STU/2019/0413,18,Male,Undergraduate,100,82.8,75.1,54.7,64.3,3.16,13.9,42.6,24.3,High,2+ Activities,64.0,Good
+Femi Suleiman,STU/2020/0414,19,Female,Postgraduate,300,64.9,80.9,46.6,65.6,4.01,29.9,82.8,76.8,Medium,1 Activity,67.9,Good
+Chioma Okafor,STU/2021/0415,18,Male,HND,300,61.2,32.1,14.4,72.5,3.17,15.8,68.2,69.6,Low,1 Activity,48.8,Pass
+Musa Abubakar,STU/2022/0416,16,Female,Undergraduate,100,100.0,72.9,55.2,60.2,3.19,3.2,54.4,72.4,High,None,69.7,Good
+Bello Ibrahim,STU/2021/0417,16,Female,HND,200,46.0,43.2,48.6,80.1,3.35,0.3,75.2,77.6,High,1 Activity,51.5,Average
+Rasheed Onwudiwe,STU/2023/0418,27,Female,Undergraduate,400,70.9,53.4,35.9,88.3,1.42,2.5,31.4,42.0,Medium,None,54.0,Average
+Biodun Nwachukwu,STU/2020/0419,27,Male,Undergraduate,200,45.6,58.6,76.9,49.3,1.5,11.0,35.5,22.5,Medium,2+ Activities,56.7,Average
+Chukwuemeka Suleiman,STU/2022/0420,29,Male,Undergraduate,300,95.7,90.7,68.4,95.0,1.65,24.1,72.8,70.3,Medium,1 Activity,68.8,Good
+Tunde Anikulapo,STU/2018/0421,28,Male,Undergraduate,200,71.9,39.9,100.0,59.8,2.66,5.8,0.1,84.0,Low,2+ Activities,54.7,Average
+Anthonia Okafor,STU/2019/0422,29,Male,Undergraduate,100,75.2,73.0,71.7,98.9,1.32,25.4,55.4,67.0,Low,1 Activity,65.1,Good
+Chukwuemeka Okafor,STU/2023/0423,20,Female,Undergraduate,100,100.0,36.9,42.1,60.1,2.38,,69.8,30.3,Medium,None,50.1,Average
+Aisha Adeyemi,STU/2023/0424,21,Male,Undergraduate,200,61.3,35.7,36.9,77.0,1.77,17.9,87.8,64.8,High,1 Activity,56.6,Average
+Biodun Danjuma,STU/2019/0425,18,Male,Undergraduate,100,100.0,58.5,45.1,76.9,3.44,17.6,92.9,37.5,Low,None,58.7,Average
+Uche Fashola,STU/2020/0426,27,Female,Undergraduate,100,65.0,58.4,41.7,58.4,3.39,18.7,51.7,29.2,High,2+ Activities,55.0,Average
+Wale Eze,STU/2020/0427,24,Female,Postgraduate,400,67.8,7.0,57.2,66.2,2.73,10.7,74.3,59.8,Low,2+ Activities,44.6,Pass
+Tunde Okeke,STU/2023/0428,20,Female,Undergraduate,500,100.0,78.9,24.2,89.5,1.29,0.0,34.9,63.2,Medium,1 Activity,54.3,Average
+Musa Adeyemi,STU/2019/0429,23,Male,Undergraduate,400,69.1,19.5,67.9,59.5,2.79,9.3,43.9,58.0,Medium,1 Activity,58.1,Average
+Precious Fashola,STU/2021/0430,28,Male,Undergraduate,400,47.3,55.4,56.8,57.9,3.3,6.9,89.2,68.8,Medium,1 Activity,62.4,Good
+Wale Onyekwere,STU/2018/0431,16,Male,Undergraduate,100,77.1,81.9,65.6,45.4,3.73,16.5,54.0,44.2,Low,2+ Activities,64.1,Good
+Oluwaseun Onwudiwe,STU/2018/0432,29,Male,HND,500,68.9,97.8,32.1,91.6,4.58,15.8,59.0,61.7,Medium,None,70.1,Good
+Rasheed Ofili,STU/2020/0433,20,Male,Undergraduate,100,78.6,51.5,59.9,56.8,4.01,11.8,29.2,50.3,Medium,2+ Activities,59.3,Average
+Biodun Fashola,STU/2020/0434,18,Male,Undergraduate,500,69.6,32.2,81.0,85.4,3.15,28.0,65.6,55.0,Low,1 Activity,61.1,Good
+Bello Adeyemi,STU/2021/0435,27,Male,Postgraduate,500,100.0,81.2,37.8,54.8,2.74,8.9,73.9,65.4,Low,2+ Activities,67.0,Good
+Bello Eze,STU/2020/0436,16,Male,Undergraduate,400,82.0,73.6,37.2,84.9,2.33,0.0,73.1,81.2,Medium,2+ Activities,64.4,Good
+Fatima Ibrahim,STU/2018/0437,19,Male,Undergraduate,500,,49.2,69.2,78.7,4.22,15.0,24.7,65.8,Medium,2+ Activities,61.4,Good
+Femi Obi,STU/2019/0438,28,Female,Undergraduate,300,74.2,46.9,35.6,61.1,3.15,23.5,80.0,72.5,Low,1 Activity,52.9,Average
+Usman Garba,STU/2023/0439,20,Female,HND,200,57.6,45.1,50.3,52.5,3.57,16.3,30.0,60.2,Medium,None,49.4,Pass
+Joy Danjuma,STU/2018/0440,22,Female,Undergraduate,200,67.5,51.8,84.5,53.9,2.47,11.1,54.3,69.8,High,1 Activity,60.0,Good
+Emeka Okeke,STU/2021/0441,16,Male,Undergraduate,300,55.6,63.7,37.5,53.7,1.88,15.9,14.5,80.7,Low,1 Activity,45.5,Pass
+Bello Ibrahim,STU/2019/0442,18,Male,Undergraduate,100,100.0,47.8,85.9,83.1,2.64,28.7,50.5,97.6,Medium,2+ Activities,74.6,Good
+Biodun Garba,STU/2019/0443,17,Male,Undergraduate,300,59.6,50.1,48.3,67.7,2.73,7.0,29.9,84.2,Low,None,51.6,Average
+Babatunde Nwachukwu,STU/2023/0444,24,Female,Undergraduate,500,84.4,69.5,32.6,46.0,3.17,14.2,43.8,58.9,Low,1 Activity,48.5,Pass
+Chukwuemeka Abubakar,STU/2018/0445,25,Female,Undergraduate,100,66.2,31.3,67.1,60.7,2.34,19.4,56.5,82.9,Low,None,47.4,Pass
+Emeka Ofili,STU/2019/0446,21,Male,Undergraduate,400,51.1,51.2,57.2,62.8,3.02,16.0,75.7,71.0,Medium,2+ Activities,59.8,Average
+Usman Bakare,STU/2019/0447,25,Female,HND,500,75.6,27.8,55.3,28.6,4.06,12.0,74.8,47.9,High,None,45.5,Pass
+Mercy Danjuma,STU/2020/0448,18,Male,Postgraduate,500,79.2,60.0,39.6,61.7,1.49,10.6,0.0,71.3,Low,1 Activity,45.0,Pass
+Patience Adeyemi,STU/2019/0449,23,Female,Undergraduate,500,82.1,23.1,57.0,77.3,1.09,11.7,72.0,37.4,Medium,None,46.3,Pass
+Amina Danjuma,STU/2021/0450,29,Female,Postgraduate,300,24.8,74.0,13.6,62.7,4.12,18.3,60.2,71.3,Medium,1 Activity,45.1,Pass
+Chukwuemeka Adeyemi,STU/2019/0451,23,Female,Undergraduate,500,49.8,34.3,59.4,69.3,1.68,17.8,41.0,95.0,Low,2+ Activities,50.0,Average
+Yusuf Suleiman,STU/2020/0452,17,Female,Undergraduate,400,89.2,26.1,80.9,73.2,2.66,30.8,33.0,76.5,Medium,None,59.3,Average
+Bello Ofili,STU/2022/0453,21,Female,Undergraduate,100,55.4,51.5,19.7,59.2,3.55,1.7,53.4,83.9,High,None,44.2,Pass
+Sola Nwachukwu,STU/2022/0454,22,Male,Postgraduate,200,,88.8,46.9,77.4,2.95,28.1,60.8,52.4,High,None,73.5,Good
+Ahmed Bello,STU/2021/0455,17,Female,Postgraduate,400,49.4,70.8,37.5,89.8,2.93,12.4,64.4,69.6,High,1 Activity,48.2,Pass
+Kayode Nwachukwu,STU/2023/0456,26,Male,Undergraduate,100,85.2,23.4,24.8,39.1,3.07,13.3,50.1,74.0,Medium,1 Activity,39.3,Poor
+Ahmed Bakare,STU/2023/0457,25,Female,HND,300,88.8,33.8,13.9,59.1,5.0,20.9,0.0,53.9,High,None,46.4,Pass
+Chiamaka Aliyu,STU/2021/0458,17,Female,Undergraduate,300,85.2,50.9,31.4,100.0,4.6,20.8,42.6,73.7,Low,1 Activity,56.9,Average
+Joy Onwudiwe,STU/2019/0459,25,Female,HND,100,90.6,98.3,50.2,67.9,2.38,23.3,25.4,69.1,Medium,None,72.5,Good
+Musa Danjuma,STU/2019/0460,16,Male,HND,300,,41.1,78.0,64.4,3.95,25.0,100.0,73.9,High,2+ Activities,79.3,Excellent
+Chioma Nwosu,STU/2022/0461,23,Female,Undergraduate,400,50.9,41.2,24.5,60.6,3.45,13.7,56.5,39.4,Low,2+ Activities,42.2,Pass
+Bello Ibrahim,STU/2022/0462,16,Female,Postgraduate,200,57.8,85.5,60.9,86.7,2.98,25.1,73.5,85.5,Medium,2+ Activities,73.8,Good
+Musa Onyekwere,STU/2018/0463,24,Female,Undergraduate,100,88.2,61.5,59.4,49.0,2.18,9.0,,69.0,Medium,2+ Activities,59.2,Average
+Joy Okonkwo,STU/2022/0464,26,Male,Undergraduate,100,92.3,77.0,88.4,80.7,3.41,11.6,62.8,57.6,Medium,1 Activity,79.7,Excellent
+Sola Nwosu,STU/2022/0465,21,Male,Undergraduate,200,59.9,44.9,66.4,60.3,2.72,12.5,44.6,58.1,Low,1 Activity,52.0,Average
+Usman Ofili,STU/2021/0466,22,Male,Undergraduate,500,58.6,56.2,67.6,52.3,2.66,9.8,41.4,59.2,High,1 Activity,55.6,Average
+Musa Anikulapo,STU/2018/0467,28,Male,HND,100,60.3,81.7,69.0,61.1,2.31,14.5,4.5,43.4,Medium,None,61.6,Good
+Bello Onyekwere,STU/2023/0468,25,Female,Undergraduate,300,43.1,55.4,36.5,64.2,3.9,21.2,58.6,83.8,Low,None,57.7,Average
+Aisha Ibrahim,STU/2018/0469,22,Male,Undergraduate,100,49.1,78.2,43.5,56.5,2.31,19.2,62.5,79.3,Low,None,53.7,Average
+Sandra Obi,STU/2019/0470,25,Female,Postgraduate,200,49.5,65.0,77.3,83.9,2.31,9.1,53.8,80.6,High,1 Activity,57.9,Average
+Femi Chukwu,STU/2019/0471,18,Male,HND,400,66.7,39.3,14.0,52.4,3.7,8.4,58.6,90.3,Low,1 Activity,41.8,Pass
+Anthonia Aliyu,STU/2018/0472,17,Male,Undergraduate,400,76.9,57.7,41.4,67.4,2.87,7.2,24.8,63.8,Low,None,43.6,Pass
+Oluwaseun Bello,STU/2018/0473,24,Female,HND,100,79.8,75.7,28.4,74.1,2.89,14.7,47.6,26.9,Medium,None,57.8,Average
+Wale Ibrahim,STU/2019/0474,23,Female,Undergraduate,200,62.8,70.0,59.7,67.2,3.93,1.4,38.8,72.6,Medium,1 Activity,60.6,Good
+Loveth Abubakar,STU/2021/0475,28,Male,Postgraduate,100,63.3,57.3,46.6,78.1,4.18,6.9,71.6,71.8,Medium,None,60.5,Good
+Emeka Okonkwo,STU/2021/0476,27,Female,Undergraduate,200,74.2,23.9,67.5,57.6,1.08,10.3,56.0,91.1,Medium,2+ Activities,48.3,Pass
+Segun Chukwu,STU/2021/0477,25,Female,Undergraduate,300,45.1,25.7,52.8,75.6,2.88,22.4,,81.6,High,None,45.3,Pass
+Stella Danjuma,STU/2021/0478,22,Male,Undergraduate,100,89.3,29.5,24.1,76.1,1.73,12.9,51.0,62.7,High,1 Activity,47.5,Pass
+Sola Danjuma,STU/2019/0479,24,Female,Undergraduate,200,95.1,48.8,25.0,81.5,2.65,22.0,29.0,57.1,Low,1 Activity,54.7,Average
+Wale Chukwu,STU/2020/0480,19,Female,Undergraduate,200,60.7,51.2,54.9,32.9,2.99,15.5,,80.1,Medium,None,46.1,Pass
+Aisha Chukwu,STU/2022/0481,28,Female,Undergraduate,500,64.8,31.4,39.6,73.7,2.68,10.2,69.6,6.9,High,1 Activity,47.4,Pass
+Rasheed Eze,STU/2022/0482,19,Male,Undergraduate,500,94.4,76.4,44.3,80.3,2.08,10.5,21.7,64.8,Medium,1 Activity,55.7,Average
+Loveth Nwosu,STU/2022/0483,16,Female,HND,100,69.8,35.3,73.8,58.0,2.03,4.7,53.5,78.9,Medium,2+ Activities,51.6,Average
+Segun Okonkwo,STU/2022/0484,23,Male,Undergraduate,400,82.6,33.3,70.2,55.7,3.66,33.2,36.3,57.6,Low,1 Activity,53.4,Average
+Dauda Okafor,STU/2019/0485,29,Male,Undergraduate,200,70.3,59.6,91.0,53.1,4.38,22.9,,52.4,Medium,None,63.6,Good
+Tunde Chukwu,STU/2020/0486,29,Male,Undergraduate,200,100.0,75.5,48.7,47.5,1.15,18.8,100.0,65.9,Medium,None,64.0,Good
+Sandra Aliyu,STU/2019/0487,27,Male,Undergraduate,400,80.8,95.0,42.2,76.3,2.71,3.6,86.3,87.0,Medium,None,62.1,Good
+Aisha Eze,STU/2020/0488,18,Female,Postgraduate,500,81.9,68.5,63.4,100.0,3.66,10.4,40.0,69.0,High,None,65.2,Good
+Emeka Nwosu,STU/2019/0489,22,Female,Postgraduate,500,82.2,86.4,43.8,55.5,2.97,6.2,47.8,46.5,Low,1 Activity,54.4,Average
+Grace Nwosu,STU/2018/0490,27,Female,Undergraduate,300,62.0,36.2,44.4,57.1,2.0,15.0,4.4,84.3,Low,2+ Activities,42.9,Pass
+Chiamaka Ofili,STU/2020/0491,17,Male,Undergraduate,200,63.7,96.9,51.0,65.3,2.57,6.6,15.2,88.2,Low,1 Activity,65.2,Good
+Joy Anikulapo,STU/2022/0492,17,Male,Postgraduate,400,85.8,24.5,88.1,37.8,3.27,8.6,26.8,43.9,Medium,1 Activity,58.4,Average
+Chiamaka Anikulapo,STU/2020/0493,22,Male,Undergraduate,200,74.3,48.9,69.1,53.2,2.72,6.8,54.2,100.0,Low,1 Activity,55.2,Average
+Segun Okonkwo,STU/2023/0494,21,Female,Postgraduate,300,50.8,68.1,71.2,64.0,2.96,,52.1,60.0,Medium,2+ Activities,56.7,Average
+Musa Onwudiwe,STU/2021/0495,18,Male,Undergraduate,200,100.0,29.1,87.2,49.8,2.98,14.6,63.3,79.0,Medium,None,53.0,Average
+Grace Lawal,STU/2020/0496,24,Female,Postgraduate,300,89.6,41.3,73.1,85.4,2.53,12.3,,74.5,Medium,2+ Activities,59.6,Average
+Chidinma Chukwu,STU/2023/0497,25,Female,Undergraduate,100,72.7,38.5,32.4,43.0,3.73,26.3,62.0,46.0,Low,2+ Activities,41.2,Pass
+Usman Danjuma,STU/2021/0498,29,Male,Undergraduate,100,67.1,52.4,72.7,80.3,2.57,20.5,28.0,51.0,High,None,62.0,Good
+Usman Mohammed,STU/2023/0499,28,Female,HND,500,75.6,83.6,75.3,90.0,2.1,7.7,63.1,61.4,Medium,None,71.8,Good
+Wale Obi,STU/2021/0500,21,Male,Undergraduate,100,81.3,58.3,68.0,71.5,5.0,16.6,70.9,22.6,High,2+ Activities,66.8,Good
+Biodun Garba,STU/2018/0501,25,Female,Undergraduate,300,35.4,49.7,51.1,62.7,2.93,8.4,44.3,76.4,Medium,2+ Activities,51.0,Average
+Joy Suleiman,STU/2020/0502,25,Female,Undergraduate,100,100.0,6.1,65.9,69.2,0.66,10.8,8.8,22.1,Low,None,37.0,Poor
+Oluwaseun Onyekwere,STU/2023/0503,21,Male,Undergraduate,100,57.8,66.4,54.6,57.5,4.13,17.8,84.6,60.3,Low,1 Activity,52.6,Average
+Rasheed Obi,STU/2018/0504,16,Male,Undergraduate,100,72.0,72.2,35.4,30.4,4.13,19.3,57.2,46.6,High,1 Activity,54.8,Average
+Lanre Lawal,STU/2022/0505,19,Female,Undergraduate,100,72.6,27.4,40.4,48.4,3.41,9.3,,71.6,Medium,1 Activity,45.3,Pass
+Blessing Onwudiwe,STU/2020/0506,25,Female,Undergraduate,400,100.0,56.8,69.1,64.8,3.57,,100.0,15.9,Low,1 Activity,70.4,Good
+Musa Okonkwo,STU/2019/0507,21,Male,Undergraduate,200,70.4,61.5,36.9,49.0,4.94,14.7,43.0,26.8,Medium,None,62.6,Good
+Patience Fashola,STU/2019/0508,21,Female,Postgraduate,500,100.0,75.4,38.8,58.0,2.13,17.5,100.0,48.1,Medium,1 Activity,58.3,Average
+Ruth Obi,STU/2019/0509,26,Female,Undergraduate,300,79.3,45.0,70.1,73.1,3.12,8.9,64.4,70.4,Medium,2+ Activities,64.5,Good
+Babatunde Bello,STU/2023/0510,27,Female,Undergraduate,200,54.7,42.2,57.7,67.5,4.77,20.5,49.9,64.4,Low,2+ Activities,59.7,Average
+Babatunde Adeyemi,STU/2023/0511,20,Male,Undergraduate,300,74.4,49.8,66.5,83.0,4.96,19.1,59.6,81.0,High,None,68.2,Good
+Chioma Okeke,STU/2021/0512,16,Female,Undergraduate,300,69.9,81.1,30.4,70.0,2.67,8.8,37.3,62.2,Low,2+ Activities,53.8,Average
+Nkechi Adeyemi,STU/2019/0513,23,Female,Undergraduate,400,,76.8,66.0,71.0,4.81,23.0,56.5,59.6,Low,None,65.7,Good
+Amina Okonkwo,STU/2022/0514,20,Male,Undergraduate,200,78.4,57.6,41.8,52.9,3.72,23.3,100.0,38.6,Medium,1 Activity,57.9,Average
+Gbenga Adeleke,STU/2023/0515,27,Male,Undergraduate,200,72.4,76.4,34.7,42.4,4.35,30.5,32.5,55.5,Low,2+ Activities,63.8,Good
+Kola Nwachukwu,STU/2020/0516,27,Female,Undergraduate,400,82.0,15.4,44.9,58.0,3.69,27.7,68.3,59.6,Medium,1 Activity,52.8,Average
+Lanre Okonkwo,STU/2023/0517,27,Male,Undergraduate,500,75.5,72.2,82.2,52.6,3.27,6.8,37.0,18.9,Low,None,66.4,Good
+Amina Garba,STU/2020/0518,20,Female,Undergraduate,400,60.3,37.9,47.7,62.2,4.99,21.4,50.8,42.2,Medium,None,51.5,Average
+Anthonia Okafor,STU/2023/0519,22,Male,Undergraduate,200,85.8,89.8,99.0,46.9,2.52,21.0,100.0,69.3,High,1 Activity,62.4,Good
+Mary Fashola,STU/2021/0520,19,Male,Undergraduate,400,60.8,38.8,13.8,79.3,4.71,11.2,68.2,63.6,Medium,2+ Activities,50.1,Average
+Ifeoma Okeke,STU/2021/0521,21,Female,Undergraduate,200,16.2,42.7,24.1,52.6,4.85,17.6,73.6,54.9,Medium,2+ Activities,43.2,Pass
+Sola Mohammed,STU/2021/0522,28,Male,Undergraduate,200,74.3,68.1,81.5,58.8,4.23,0.0,56.8,47.9,Medium,2+ Activities,59.1,Average
+Ifeoma Ibrahim,STU/2022/0523,19,Male,Postgraduate,100,62.0,69.9,86.5,64.7,2.94,0.0,100.0,25.1,Medium,2+ Activities,69.1,Good
+Adaeze Danjuma,STU/2023/0524,29,Male,Undergraduate,300,78.9,50.0,37.7,84.1,3.22,0.3,31.3,16.5,High,1 Activity,46.7,Pass
+Precious Bello,STU/2020/0525,18,Female,Undergraduate,100,100.0,64.7,56.4,94.9,1.85,17.1,15.5,53.9,Low,2+ Activities,63.0,Good
+Patience Mohammed,STU/2023/0526,22,Male,Undergraduate,200,100.0,66.9,69.2,96.1,2.59,17.5,97.2,89.8,High,None,80.7,Excellent
+Patience Onyekwere,STU/2018/0527,23,Male,Undergraduate,400,69.0,65.1,50.4,43.2,3.56,11.8,45.5,60.7,High,2+ Activities,51.0,Average
+Amina Bakare,STU/2021/0528,19,Female,Undergraduate,100,57.1,50.7,58.0,58.7,1.72,27.8,65.3,80.4,Medium,1 Activity,52.3,Average
+Bello Onwudiwe,STU/2019/0529,28,Male,Undergraduate,100,82.5,67.1,55.2,55.4,2.73,21.9,97.9,36.5,Low,2+ Activities,65.6,Good
+Mary Okonkwo,STU/2018/0530,17,Female,HND,100,65.3,83.3,25.4,71.3,4.75,1.2,65.6,65.7,Low,None,57.0,Average
+Kayode Ofili,STU/2018/0531,27,Male,Undergraduate,500,79.1,35.9,48.1,70.3,2.86,12.6,100.0,45.9,Medium,1 Activity,56.1,Average
+Aisha Ofili,STU/2021/0532,25,Female,HND,300,60.1,42.9,55.2,55.1,3.93,6.5,58.4,45.2,High,1 Activity,55.8,Average
+Mercy Mohammed,STU/2019/0533,29,Male,Undergraduate,200,,58.5,57.1,53.7,3.51,,37.3,74.9,Medium,2+ Activities,58.9,Average
+Dauda Anikulapo,STU/2021/0534,18,Female,Undergraduate,400,,39.0,20.4,48.0,2.72,13.8,0.0,57.6,Low,2+ Activities,36.1,Poor
+Ike Okafor,STU/2021/0535,16,Male,Undergraduate,400,93.3,25.5,70.1,19.9,2.86,6.9,62.5,32.3,Low,1 Activity,44.1,Pass
+Precious Eze,STU/2019/0536,23,Male,Undergraduate,200,61.4,77.7,57.6,42.9,3.15,27.6,0.0,62.0,Medium,1 Activity,51.1,Average
+Mercy Lawal,STU/2018/0537,18,Male,Undergraduate,300,83.9,17.9,33.9,79.7,1.15,14.5,63.1,45.7,Medium,1 Activity,46.3,Pass
+Sandra Nwachukwu,STU/2018/0538,27,Male,Undergraduate,400,49.2,50.8,91.0,89.9,3.85,10.7,91.5,31.1,Low,None,63.0,Good
+Ifeoma Nwachukwu,STU/2023/0539,25,Male,Undergraduate,300,86.1,71.7,48.1,87.9,2.89,12.0,54.6,40.1,Low,None,65.4,Good
+Sola Fashola,STU/2019/0540,22,Male,HND,100,54.6,62.8,49.4,80.5,3.88,,59.8,100.0,Medium,None,68.9,Good
+Dauda Bakare,STU/2018/0541,25,Female,Postgraduate,400,76.7,51.0,67.8,47.8,3.35,21.3,77.9,84.2,Medium,1 Activity,55.9,Average
+Loveth Lawal,STU/2022/0542,20,Male,Undergraduate,300,90.4,38.2,92.7,44.9,2.85,12.7,71.7,19.7,Medium,2+ Activities,62.4,Good
+Yusuf Fashola,STU/2021/0543,25,Male,Undergraduate,200,68.4,64.2,68.6,34.2,3.18,6.1,84.0,56.2,High,2+ Activities,66.2,Good
+Biodun Bakare,STU/2022/0544,20,Female,Undergraduate,200,53.5,40.2,71.5,55.1,3.18,7.3,54.5,57.7,Medium,None,48.9,Pass
+Abdul Ibrahim,STU/2022/0545,29,Female,Undergraduate,100,80.9,62.8,35.0,66.5,4.33,10.1,0.0,54.7,Low,None,58.4,Average
+Patience Aliyu,STU/2023/0546,22,Male,Undergraduate,100,56.9,60.5,56.7,47.9,3.06,18.1,84.4,46.7,Medium,None,57.1,Average
+Rasheed Mohammed,STU/2023/0547,24,Male,Undergraduate,400,64.7,60.7,44.4,72.3,3.26,20.1,49.0,74.9,High,None,61.3,Good
+Ike Bello,STU/2023/0548,27,Male,Undergraduate,100,76.8,46.5,69.1,76.1,1.86,8.2,33.0,78.9,High,None,52.5,Average
+Nkechi Garba,STU/2022/0549,20,Female,Undergraduate,200,96.5,94.6,70.9,56.9,2.96,20.4,63.4,81.0,High,1 Activity,78.8,Excellent
+Babatunde Chukwu,STU/2020/0550,16,Female,HND,300,72.5,64.4,87.7,42.2,4.31,6.7,59.7,66.6,Medium,1 Activity,61.9,Good
+Sandra Aliyu,STU/2020/0551,25,Male,Undergraduate,100,72.4,53.0,11.8,88.5,3.39,9.1,36.3,72.2,High,1 Activity,54.0,Average
+Anthonia Ibrahim,STU/2022/0552,25,Female,HND,500,85.3,62.8,42.4,65.6,2.03,,22.9,53.1,High,1 Activity,50.9,Average
+Halima Nwachukwu,STU/2021/0553,16,Female,Undergraduate,100,72.9,44.1,81.0,98.0,2.12,2.2,66.7,28.5,Medium,None,61.8,Good
+Musa Suleiman,STU/2022/0554,17,Female,Undergraduate,200,83.4,51.0,27.0,66.6,2.33,6.6,33.8,27.9,Low,1 Activity,41.7,Pass
+Loveth Adeyemi,STU/2022/0555,29,Female,Undergraduate,200,91.4,100.0,71.1,67.8,3.9,13.8,57.9,43.0,High,2+ Activities,68.7,Good
+Vivian Eze,STU/2023/0556,21,Male,Undergraduate,100,66.1,44.2,77.7,48.6,3.79,6.0,64.3,56.0,Medium,None,58.0,Average
+Chidinma Okonkwo,STU/2023/0557,24,Male,Undergraduate,100,13.0,56.6,54.4,57.8,0.5,26.0,79.2,34.3,Low,None,40.8,Pass
+Chidinma Obi,STU/2023/0558,23,Male,Undergraduate,400,57.3,49.8,26.6,38.5,2.93,6.5,100.0,37.4,Low,None,41.9,Pass
+Uche Nwosu,STU/2020/0559,28,Male,Undergraduate,500,93.8,39.3,52.6,42.2,3.13,15.5,60.9,52.4,Medium,None,54.6,Average
+Lanre Obi,STU/2022/0560,20,Female,Undergraduate,100,71.4,65.6,84.2,77.6,2.13,24.6,44.4,77.3,Medium,1 Activity,59.0,Average
+Chukwuemeka Bello,STU/2021/0561,16,Female,Undergraduate,300,65.9,58.7,85.8,60.2,2.65,14.7,96.5,66.7,Low,None,67.3,Good
+Blessing Abubakar,STU/2021/0562,28,Male,Undergraduate,400,93.0,74.4,59.2,57.8,4.2,11.1,81.2,42.7,Medium,1 Activity,66.5,Good
+Rasheed Okeke,STU/2023/0563,22,Male,Undergraduate,400,70.2,72.6,35.5,52.4,3.37,15.2,59.2,60.9,High,None,58.3,Average
+Rasheed Danjuma,STU/2023/0564,20,Male,Undergraduate,200,34.3,74.2,89.8,58.4,2.55,9.5,60.9,33.4,Medium,1 Activity,60.9,Good
+Joy Anikulapo,STU/2022/0565,21,Female,Undergraduate,200,44.9,41.5,71.4,84.3,2.83,6.0,55.7,42.7,Low,None,55.9,Average
+Sola Anikulapo,STU/2021/0566,28,Male,Undergraduate,200,79.5,69.5,36.8,67.5,2.79,18.9,59.1,26.9,Medium,1 Activity,50.8,Average
+Stella Onwudiwe,STU/2022/0567,22,Male,HND,400,70.8,70.0,61.9,44.9,3.25,9.3,52.5,68.6,Low,None,61.1,Good
+Segun Adeyemi,STU/2020/0568,18,Male,Undergraduate,400,98.2,39.6,60.9,82.5,1.71,21.5,30.6,54.3,Medium,None,56.9,Average
+Lanre Mohammed,STU/2022/0569,27,Male,Postgraduate,100,58.8,52.3,42.3,94.3,2.4,20.4,55.2,56.8,Medium,2+ Activities,53.8,Average
+Mercy Lawal,STU/2023/0570,25,Female,Undergraduate,200,66.4,31.8,62.0,73.4,3.93,15.3,98.9,76.1,High,1 Activity,60.4,Good
+Gbemi Adeleke,STU/2018/0571,18,Female,Undergraduate,500,56.1,70.1,77.1,80.2,2.93,21.8,34.6,40.1,Medium,None,63.7,Good
+Dauda Okeke,STU/2020/0572,20,Male,Undergraduate,400,,70.0,49.1,85.8,2.24,9.6,48.2,69.3,Low,1 Activity,57.2,Average
+Ike Obi,STU/2021/0573,21,Female,Undergraduate,500,37.9,83.7,79.2,36.8,2.27,20.3,32.7,99.7,Medium,1 Activity,59.5,Average
+Usman Onwudiwe,STU/2021/0574,24,Female,Undergraduate,400,65.1,53.9,19.9,96.7,3.65,20.2,83.9,40.4,Medium,1 Activity,63.3,Good
+Femi Okeke,STU/2023/0575,28,Female,Postgraduate,200,71.1,66.1,99.4,83.7,2.53,11.6,75.7,28.7,High,1 Activity,64.9,Good
+Ahmed Obi,STU/2023/0576,29,Male,Undergraduate,300,69.5,75.8,56.1,73.3,3.46,10.6,23.0,34.8,High,2+ Activities,63.4,Good
+Mary Suleiman,STU/2020/0577,27,Male,Undergraduate,300,100.0,44.4,76.5,62.9,2.44,16.6,4.5,67.8,Low,None,56.3,Average
+Halima Nwosu,STU/2023/0578,20,Male,Undergraduate,100,100.0,41.7,59.4,42.3,1.98,29.7,76.6,94.9,Low,1 Activity,60.7,Good
+Oluwaseun Okeke,STU/2018/0579,16,Female,HND,300,,45.0,38.5,59.4,3.22,12.1,21.5,94.1,Low,None,53.9,Average
+Ruth Adeleke,STU/2020/0580,29,Male,Undergraduate,400,35.2,51.7,54.3,72.6,2.91,10.4,75.7,76.9,High,2+ Activities,55.5,Average
+Chiamaka Obi,STU/2023/0581,29,Male,Undergraduate,100,70.2,42.3,16.8,46.2,3.62,23.4,39.0,77.6,Low,2+ Activities,48.5,Pass
+Rasheed Lawal,STU/2019/0582,29,Male,Undergraduate,400,78.8,45.8,68.8,63.8,3.8,14.5,72.4,69.3,Low,2+ Activities,66.6,Good
+Patience Bello,STU/2018/0583,19,Female,Postgraduate,300,56.5,73.9,58.9,44.9,2.68,20.9,66.1,74.5,Medium,2+ Activities,61.5,Good
+Ngozi Mohammed,STU/2020/0584,20,Male,HND,500,57.4,56.3,51.2,58.5,3.31,25.8,41.6,66.1,Low,2+ Activities,59.9,Average
+Uche Suleiman,STU/2019/0585,27,Female,Undergraduate,100,100.0,63.5,70.1,42.0,2.65,0.0,33.0,44.0,Low,1 Activity,54.2,Average
+Vivian Danjuma,STU/2022/0586,25,Female,HND,200,67.4,48.1,55.8,40.2,3.57,13.7,69.4,94.3,Medium,2+ Activities,53.3,Average
+Ruth Nwachukwu,STU/2018/0587,25,Male,Postgraduate,300,83.9,46.9,67.1,70.8,3.21,12.2,37.7,86.7,Low,2+ Activities,55.4,Average
+Chukwuemeka Adeleke,STU/2022/0588,20,Female,Undergraduate,200,55.3,63.1,74.2,55.1,2.44,6.3,82.7,44.5,Medium,None,55.4,Average
+Halima Nwachukwu,STU/2019/0589,22,Male,Undergraduate,400,71.0,60.3,44.0,56.7,2.36,0.0,,73.0,High,1 Activity,49.7,Pass
+Musa Okafor,STU/2021/0590,19,Female,Undergraduate,400,65.9,72.0,38.3,54.2,3.24,1.3,63.8,89.2,Low,1 Activity,53.2,Average
+Segun Onyekwere,STU/2021/0591,16,Male,HND,100,59.8,81.4,20.5,100.0,4.05,14.8,45.2,68.4,Medium,2+ Activities,63.3,Good
+Femi Aliyu,STU/2023/0592,29,Female,Undergraduate,300,92.8,45.6,57.5,75.3,3.81,9.7,55.1,55.9,High,2+ Activities,64.0,Good
+Mary Okonkwo,STU/2021/0593,29,Female,Postgraduate,300,47.0,73.5,64.0,77.2,2.15,7.6,37.5,88.6,High,2+ Activities,58.1,Average
+Aisha Nwosu,STU/2022/0594,20,Female,Undergraduate,200,77.4,38.6,28.5,51.8,2.25,14.8,50.5,65.1,Medium,2+ Activities,46.7,Pass
+Gbenga Okafor,STU/2018/0595,22,Female,Postgraduate,500,65.6,95.3,83.4,73.6,2.38,8.5,0.0,47.4,Medium,1 Activity,66.9,Good
+Sola Abubakar,STU/2022/0596,25,Male,Undergraduate,400,79.5,43.8,38.6,61.1,2.46,24.3,34.7,37.0,Low,None,44.8,Pass
+Ibrahim Ofili,STU/2022/0597,25,Female,Undergraduate,300,65.9,70.4,12.9,51.7,1.37,9.0,40.3,1.4,Medium,None,42.8,Pass
+Usman Danjuma,STU/2021/0598,21,Female,Postgraduate,400,,38.4,84.9,97.8,3.71,26.0,53.2,99.5,High,1 Activity,69.5,Good
+Ifeoma Bakare,STU/2022/0599,20,Female,Postgraduate,200,55.1,55.3,15.5,74.7,2.59,13.8,87.3,43.3,Medium,1 Activity,53.8,Average
+Biodun Danjuma,STU/2019/0600,19,Male,HND,500,92.8,85.8,74.3,73.9,3.42,8.8,37.6,79.3,Medium,1 Activity,70.5,Good
+Chioma Aliyu,STU/2020/0601,17,Female,Undergraduate,300,71.5,43.3,69.4,48.5,2.72,8.2,90.3,41.6,Low,1 Activity,54.1,Average
+Uche Onwudiwe,STU/2020/0602,19,Female,Undergraduate,400,48.1,97.7,61.4,43.4,2.98,26.1,33.5,63.3,Medium,2+ Activities,53.0,Average
+Abdul Suleiman,STU/2020/0603,25,Female,Undergraduate,400,84.2,57.9,44.5,64.0,2.38,19.6,27.3,69.0,Medium,1 Activity,56.5,Average
+Patience Garba,STU/2023/0604,25,Male,Undergraduate,200,68.4,75.6,65.1,55.3,2.97,7.9,7.9,35.2,Medium,2+ Activities,56.4,Average
+Tunde Bakare,STU/2021/0605,18,Female,Undergraduate,400,41.3,65.3,76.0,75.4,2.22,15.0,70.2,79.1,Low,2+ Activities,60.5,Good
+Vivian Onwudiwe,STU/2021/0606,25,Male,Undergraduate,100,78.0,66.2,35.3,76.5,2.98,0.0,57.2,56.0,Medium,1 Activity,54.6,Average
+Sandra Okeke,STU/2020/0607,16,Female,Undergraduate,200,90.1,32.3,74.5,66.1,4.31,3.3,68.7,71.1,Medium,1 Activity,64.6,Good
+Amina Bello,STU/2018/0608,23,Male,HND,200,95.1,49.5,73.6,79.1,3.47,8.0,58.3,89.1,Low,2+ Activities,69.0,Good
+Patience Garba,STU/2023/0609,20,Female,Undergraduate,500,65.2,79.5,60.9,68.3,3.26,7.8,54.8,74.8,Low,1 Activity,63.4,Good
+Biodun Aliyu,STU/2020/0610,28,Female,Undergraduate,400,74.6,51.8,44.2,50.2,1.81,23.7,62.1,58.1,Low,None,54.2,Average
+Abdul Lawal,STU/2022/0611,19,Male,Undergraduate,400,72.9,60.5,73.7,61.6,3.51,0.0,100.0,98.9,Medium,None,61.2,Good
+Wale Anikulapo,STU/2020/0612,23,Female,Undergraduate,400,98.8,30.1,65.2,67.3,3.6,2.6,43.2,59.1,Medium,None,54.1,Average
+Sola Bakare,STU/2020/0613,22,Male,Undergraduate,300,,48.3,34.7,80.8,3.24,17.6,100.0,61.9,High,None,57.5,Average
+Fatima Bakare,STU/2018/0614,17,Female,HND,500,,78.2,47.7,68.8,3.19,15.8,76.3,56.7,Low,None,62.1,Good
+Aisha Okonkwo,STU/2021/0615,16,Female,HND,200,57.0,34.9,71.4,55.3,2.87,11.2,,35.5,High,None,53.9,Average
+Nkechi Garba,STU/2021/0616,27,Female,HND,200,45.9,70.9,57.3,81.4,3.58,30.4,68.9,33.3,Medium,1 Activity,57.5,Average
+Wale Garba,STU/2022/0617,26,Female,HND,100,76.5,61.2,76.7,71.5,4.26,18.9,0.0,48.9,Medium,2+ Activities,59.5,Average
+Vivian Adeleke,STU/2020/0618,19,Female,Undergraduate,400,100.0,53.8,48.2,91.3,3.3,23.8,48.5,39.7,Low,1 Activity,61.7,Good
+Chukwuemeka Ibrahim,STU/2019/0619,23,Male,Undergraduate,400,68.4,53.0,35.0,66.5,2.13,13.6,38.2,54.4,Low,2+ Activities,40.8,Pass
+Tunde Adeyemi,STU/2022/0620,27,Male,Undergraduate,200,,49.2,98.9,47.4,2.19,9.7,100.0,76.5,High,2+ Activities,62.3,Good
+Patience Onwudiwe,STU/2021/0621,17,Female,Undergraduate,100,75.4,50.8,21.4,85.0,3.65,9.7,46.5,51.8,Medium,1 Activity,52.4,Average
+Wale Obi,STU/2018/0622,18,Female,Undergraduate,400,82.6,74.7,45.0,55.2,2.13,21.4,54.3,64.4,Medium,1 Activity,52.8,Average
+Chioma Bakare,STU/2021/0623,27,Female,Undergraduate,100,69.2,50.2,60.6,70.0,3.18,20.2,53.8,49.9,Low,None,54.6,Average
+Rasheed Aliyu,STU/2021/0624,16,Female,Undergraduate,400,97.3,90.5,74.7,68.2,2.69,12.3,22.3,100.0,High,2+ Activities,70.4,Good
+Ike Bakare,STU/2018/0625,16,Male,Undergraduate,500,57.4,63.4,67.9,65.8,2.03,17.8,41.0,90.2,Low,2+ Activities,50.9,Average
+Musa Chukwu,STU/2020/0626,28,Female,Undergraduate,200,,47.6,100.0,62.1,3.75,21.7,75.4,55.0,Medium,1 Activity,64.8,Good
+Amina Onwudiwe,STU/2020/0627,18,Male,Undergraduate,100,77.3,75.5,52.6,36.9,3.64,9.5,1.7,65.4,Medium,None,52.7,Average
+Abdul Bello,STU/2021/0628,26,Female,Undergraduate,400,79.1,69.2,37.5,48.0,1.78,,62.8,33.2,Medium,2+ Activities,48.7,Pass
+Adaeze Lawal,STU/2022/0629,20,Male,Undergraduate,400,72.9,28.2,50.6,84.1,3.43,17.6,32.5,55.7,Medium,None,52.3,Average
+Joy Fashola,STU/2019/0630,27,Male,Undergraduate,300,49.0,39.4,48.6,72.3,3.3,0.0,87.5,48.0,Medium,None,56.0,Average
+Blessing Onyekwere,STU/2022/0631,18,Male,Postgraduate,500,100.0,55.9,53.6,97.5,3.75,17.7,64.9,74.9,High,2+ Activities,73.3,Good
+Bello Fashola,STU/2023/0632,16,Male,Undergraduate,100,67.8,29.5,35.4,47.4,3.15,5.0,17.0,41.4,High,1 Activity,39.0,Poor
+Adaeze Okafor,STU/2022/0633,16,Female,Undergraduate,300,74.0,95.6,70.7,64.5,4.28,21.5,44.6,93.2,High,1 Activity,68.8,Good
+Babatunde Mohammed,STU/2021/0634,23,Male,Postgraduate,400,83.1,72.8,62.4,84.8,2.89,31.2,66.3,58.7,Low,2+ Activities,66.2,Good
+Loveth Adeyemi,STU/2021/0635,25,Male,Undergraduate,400,60.5,57.8,29.7,55.4,2.76,8.4,47.4,42.6,High,1 Activity,52.0,Average
+Ahmed Bello,STU/2019/0636,26,Male,Undergraduate,100,73.0,51.8,74.4,56.7,2.12,3.2,58.6,60.6,Low,1 Activity,45.8,Pass
+Dauda Anikulapo,STU/2019/0637,27,Male,Undergraduate,400,59.8,47.2,38.8,60.0,2.16,12.6,54.5,74.7,Low,None,46.7,Pass
+Kayode Ofili,STU/2019/0638,28,Male,Undergraduate,300,79.5,22.6,31.3,57.4,2.08,11.9,76.7,70.4,High,None,43.4,Pass
+Abdul Onwudiwe,STU/2021/0639,28,Male,Postgraduate,200,67.0,26.8,56.7,74.0,3.2,19.3,66.0,63.1,High,2+ Activities,60.5,Good
+Chukwuemeka Okeke,STU/2021/0640,27,Female,Postgraduate,100,76.8,92.2,19.8,34.7,2.76,15.9,53.8,77.6,Medium,1 Activity,56.3,Average
+Lanre Garba,STU/2022/0641,29,Female,Undergraduate,400,53.2,86.3,66.8,92.9,3.3,11.6,55.4,76.3,High,None,61.8,Good
+Ruth Fashola,STU/2021/0642,17,Female,Undergraduate,100,57.1,47.6,0.0,48.7,1.91,14.7,27.9,76.4,High,None,40.9,Pass
+Ruth Adeyemi,STU/2023/0643,28,Male,Undergraduate,200,47.4,74.3,34.4,29.0,2.23,5.0,91.7,54.5,Medium,1 Activity,36.7,Poor
+Anthonia Eze,STU/2020/0644,18,Male,Undergraduate,200,59.2,67.1,86.5,64.8,2.21,20.6,100.0,54.3,Medium,1 Activity,66.9,Good
+Fatima Danjuma,STU/2020/0645,17,Female,Undergraduate,400,25.7,69.2,41.3,58.6,4.95,26.9,46.7,55.9,High,1 Activity,59.7,Average
+Adaeze Okeke,STU/2019/0646,18,Male,Undergraduate,300,66.5,32.3,44.8,62.0,2.85,4.4,,50.1,Low,1 Activity,53.2,Average
+Bello Okafor,STU/2021/0647,22,Male,Undergraduate,400,62.4,25.5,80.5,70.3,2.94,1.4,80.4,62.1,Low,None,55.3,Average
+Loveth Obi,STU/2023/0648,16,Male,Undergraduate,200,74.7,79.3,39.1,76.0,2.93,10.8,80.2,59.9,High,1 Activity,58.5,Average
+Blessing Anikulapo,STU/2020/0649,25,Male,Undergraduate,300,72.8,22.4,70.3,93.7,4.4,4.2,59.5,93.1,Medium,2+ Activities,58.7,Average
+Usman Okafor,STU/2022/0650,23,Male,Undergraduate,300,94.6,55.3,78.5,53.3,1.55,3.8,30.6,49.9,Low,None,59.5,Average
+Mercy Chukwu,STU/2018/0651,28,Male,Undergraduate,400,100.0,51.4,64.6,78.2,2.95,2.8,100.0,40.3,Medium,1 Activity,70.1,Good
+Femi Suleiman,STU/2022/0652,25,Female,Postgraduate,500,92.5,49.7,26.1,77.1,1.54,12.5,72.0,72.9,Medium,1 Activity,49.4,Pass
+Segun Anikulapo,STU/2018/0653,25,Female,Undergraduate,100,63.8,63.7,42.9,20.1,0.86,10.7,60.5,61.4,High,1 Activity,42.6,Pass
+Musa Eze,STU/2023/0654,25,Female,Undergraduate,300,63.1,45.8,100.0,50.8,2.34,17.0,36.9,46.3,Medium,None,62.4,Good
+Sola Okeke,STU/2022/0655,29,Female,HND,100,87.6,65.1,45.2,43.1,3.37,9.5,56.4,75.6,Medium,2+ Activities,59.6,Average
+Usman Adeleke,STU/2020/0656,17,Female,Undergraduate,300,41.7,60.5,100.0,72.6,2.28,4.3,9.6,54.4,High,1 Activity,57.6,Average
+Kayode Okeke,STU/2021/0657,18,Female,Undergraduate,200,66.3,95.8,89.2,70.7,3.36,13.9,73.5,90.5,High,2+ Activities,72.2,Good
+Anthonia Okonkwo,STU/2018/0658,24,Female,Undergraduate,200,67.7,33.1,65.4,71.1,3.1,5.5,79.6,41.0,Medium,None,50.9,Average
+Ifeoma Nwosu,STU/2021/0659,22,Male,Undergraduate,200,82.5,58.5,60.9,59.8,2.87,18.1,60.7,48.4,High,1 Activity,63.3,Good
+Bello Mohammed,STU/2023/0660,19,Male,Undergraduate,300,83.0,65.8,45.7,61.5,4.14,0.7,31.0,62.6,Medium,2+ Activities,56.4,Average
+Fatima Abubakar,STU/2021/0661,25,Male,Undergraduate,200,58.6,53.4,53.2,64.5,2.46,0.0,66.3,87.2,Low,1 Activity,50.2,Average
+Joy Suleiman,STU/2020/0662,20,Female,Undergraduate,400,64.5,33.9,41.2,58.2,3.34,1.1,74.7,45.7,Low,1 Activity,49.6,Pass
+Chioma Nwachukwu,STU/2023/0663,17,Female,HND,200,80.0,80.6,53.7,78.2,1.38,,36.4,67.5,Medium,1 Activity,58.2,Average
+Precious Bello,STU/2019/0664,28,Male,Undergraduate,100,57.6,64.1,27.8,46.8,3.09,11.7,78.3,36.7,Medium,None,49.6,Pass
+Precious Adeleke,STU/2019/0665,26,Female,Undergraduate,400,93.7,35.2,26.7,51.7,2.77,15.1,68.1,78.3,Medium,1 Activity,47.5,Pass
+Bello Ofili,STU/2018/0666,28,Male,HND,200,83.0,65.9,81.0,67.1,1.94,9.5,48.1,47.0,Medium,None,58.7,Average
+Mary Fashola,STU/2020/0667,23,Female,Undergraduate,200,75.1,88.6,22.8,58.7,3.36,7.2,41.1,72.4,Low,None,51.1,Average
+Usman Bakare,STU/2021/0668,19,Male,HND,300,79.0,57.3,72.7,46.2,2.33,25.5,50.5,73.4,Low,1 Activity,60.5,Good
+Vivian Okonkwo,STU/2022/0669,24,Male,Undergraduate,200,63.6,58.0,17.1,74.0,4.56,23.4,30.7,23.7,Medium,None,52.3,Average
+Kayode Chukwu,STU/2022/0670,20,Male,Postgraduate,100,60.7,86.2,67.6,55.3,0.81,21.9,61.5,64.2,Low,2+ Activities,58.2,Average
+Usman Ibrahim,STU/2023/0671,28,Male,Undergraduate,200,64.4,40.5,50.8,50.6,3.22,16.5,69.0,49.9,Medium,2+ Activities,47.7,Pass
+Fatima Nwosu,STU/2018/0672,24,Male,Postgraduate,500,81.0,89.1,81.4,62.0,3.04,17.1,84.2,70.0,Medium,1 Activity,73.9,Good
+Chidinma Bakare,STU/2018/0673,19,Male,HND,300,75.6,75.5,48.4,49.8,2.75,7.6,62.4,42.5,Medium,2+ Activities,56.9,Average
+Rasheed Ofili,STU/2018/0674,25,Female,Undergraduate,300,64.4,41.4,14.8,64.4,2.52,15.2,64.8,48.4,Medium,2+ Activities,47.3,Pass
+Lanre Nwosu,STU/2020/0675,20,Female,Undergraduate,300,85.5,46.0,51.2,58.9,3.06,6.5,48.3,84.0,Medium,None,55.3,Average
+Amina Mohammed,STU/2022/0676,24,Male,Undergraduate,100,68.9,48.6,58.2,56.3,3.96,5.6,33.1,82.4,High,2+ Activities,57.7,Average
+Kola Suleiman,STU/2023/0677,23,Female,Undergraduate,200,59.5,25.0,52.4,56.4,1.5,1.1,44.3,40.1,High,None,33.2,Poor
+Yusuf Obi,STU/2020/0678,18,Female,Undergraduate,400,76.6,62.7,66.5,81.9,2.27,17.2,90.7,95.9,High,1 Activity,70.4,Good
+Grace Ibrahim,STU/2023/0679,16,Male,Undergraduate,100,53.8,42.2,43.7,71.3,2.05,15.3,70.9,8.4,Medium,1 Activity,41.7,Pass
+Fatima Mohammed,STU/2020/0680,18,Male,Undergraduate,200,41.6,63.3,29.7,35.9,2.01,11.6,65.2,64.3,Low,1 Activity,46.0,Pass
+Emeka Adeyemi,STU/2021/0681,19,Male,Undergraduate,200,71.9,34.8,35.0,80.0,3.31,10.5,9.6,34.3,Medium,None,46.9,Pass
+Grace Eze,STU/2020/0682,17,Male,Undergraduate,200,60.2,74.6,44.7,73.8,3.53,0.0,62.8,67.4,High,None,51.9,Average
+Joy Okafor,STU/2020/0683,16,Female,Undergraduate,500,67.4,71.3,44.5,72.8,3.96,16.1,21.8,54.8,Low,1 Activity,57.6,Average
+Halima Aliyu,STU/2021/0684,22,Male,Undergraduate,100,54.6,45.3,100.0,80.1,3.54,11.5,23.5,39.6,Low,1 Activity,55.7,Average
+Wale Danjuma,STU/2019/0685,23,Female,Undergraduate,300,93.8,64.5,80.1,65.3,3.62,21.2,26.3,45.3,Low,2+ Activities,70.4,Good
+Gbemi Adeleke,STU/2021/0686,22,Female,Undergraduate,100,60.1,59.5,68.7,75.5,1.73,15.2,35.7,44.3,Medium,1 Activity,52.9,Average
+Bello Chukwu,STU/2018/0687,29,Male,Undergraduate,500,64.2,84.7,63.9,57.1,4.34,19.6,75.8,61.5,Medium,None,62.6,Good
+Gbemi Onyekwere,STU/2019/0688,20,Female,Undergraduate,100,78.8,39.4,61.0,79.4,2.81,13.9,60.7,79.5,Low,None,59.9,Average
+Wale Garba,STU/2022/0689,27,Male,Undergraduate,200,47.2,55.3,61.1,68.7,3.93,15.5,31.4,99.2,High,1 Activity,58.7,Average
+Patience Lawal,STU/2023/0690,16,Female,Undergraduate,400,45.9,46.5,58.3,41.6,1.76,21.4,40.5,56.6,Medium,1 Activity,47.5,Pass
+Uche Okonkwo,STU/2020/0691,22,Male,Postgraduate,400,,58.8,55.8,82.6,2.78,12.5,67.5,66.0,Medium,None,59.9,Average
+Grace Suleiman,STU/2019/0692,28,Female,Undergraduate,200,64.0,67.6,13.2,62.8,3.85,17.8,72.4,83.7,Medium,None,58.0,Average
+Ruth Eze,STU/2022/0693,22,Female,Undergraduate,200,55.8,46.3,47.6,60.4,3.03,,58.3,51.0,Low,None,47.4,Pass
+Gbenga Adeleke,STU/2021/0694,24,Male,Undergraduate,200,82.9,51.4,50.2,57.5,2.32,13.0,26.3,44.3,Medium,None,43.8,Pass
+Gbemi Suleiman,STU/2021/0695,18,Female,Postgraduate,200,57.4,75.4,40.0,58.7,4.18,26.7,44.7,99.0,Medium,1 Activity,56.0,Average
+Halima Lawal,STU/2018/0696,24,Female,HND,100,67.1,82.4,43.9,68.9,1.95,19.1,100.0,56.4,Medium,2+ Activities,61.7,Good
+Uche Garba,STU/2018/0697,29,Female,Undergraduate,200,55.9,66.9,61.0,48.2,2.98,9.7,24.7,64.3,High,1 Activity,51.1,Average
+Yusuf Nwosu,STU/2019/0698,16,Female,Undergraduate,200,77.5,55.5,70.4,38.3,3.58,17.4,64.4,27.9,Medium,2+ Activities,63.2,Good
+Segun Anikulapo,STU/2023/0699,16,Female,HND,200,96.0,53.8,61.0,46.9,4.89,3.8,100.0,49.5,Low,None,57.9,Average
+Ngozi Okonkwo,STU/2020/0700,29,Male,Undergraduate,300,38.5,67.9,69.8,71.5,2.59,12.2,48.2,97.7,Medium,1 Activity,62.4,Good
+Rasheed Abubakar,STU/2021/0701,19,Male,Undergraduate,500,74.0,62.1,70.2,62.2,2.75,6.4,100.0,69.3,High,1 Activity,60.8,Good
+Tunde Adeleke,STU/2019/0702,24,Female,Undergraduate,300,87.4,28.3,49.0,83.9,2.6,17.6,37.8,59.4,Low,1 Activity,58.0,Average
+Ibrahim Ibrahim,STU/2019/0703,21,Male,Undergraduate,100,64.4,68.3,65.5,63.9,3.21,12.5,5.6,87.9,Low,1 Activity,59.7,Average
+Grace Okeke,STU/2023/0704,28,Female,HND,100,,42.5,20.1,79.3,3.53,16.3,40.5,27.1,Medium,1 Activity,47.3,Pass
+Chukwuemeka Okonkwo,STU/2019/0705,26,Female,HND,500,79.6,32.5,47.3,53.2,3.98,20.2,36.1,51.7,Medium,1 Activity,54.7,Average
+Amina Nwosu,STU/2018/0706,18,Male,Postgraduate,200,90.0,28.0,45.0,57.6,3.68,10.3,13.2,100.0,Low,None,54.9,Average
+Musa Onwudiwe,STU/2023/0707,16,Male,Undergraduate,100,88.0,54.1,85.6,65.2,2.55,10.6,44.6,59.0,Medium,1 Activity,61.7,Good
+Chiamaka Onwudiwe,STU/2021/0708,19,Female,HND,300,78.6,39.7,61.7,62.5,3.73,13.7,79.8,58.9,Medium,1 Activity,51.4,Average
+Vivian Chukwu,STU/2018/0709,27,Male,Undergraduate,300,73.8,16.1,28.3,60.9,3.08,7.1,40.1,83.6,High,2+ Activities,49.0,Pass
+Chioma Aliyu,STU/2018/0710,28,Female,Undergraduate,300,55.8,51.5,66.9,50.2,3.67,13.9,45.6,85.0,Low,1 Activity,54.6,Average
+Loveth Bakare,STU/2023/0711,24,Male,HND,200,87.6,49.2,73.2,38.0,3.72,14.3,89.3,34.0,High,1 Activity,70.8,Good
+Chiamaka Anikulapo,STU/2023/0712,18,Female,Undergraduate,100,86.6,55.3,53.2,75.7,4.47,15.8,36.3,68.6,Low,1 Activity,60.0,Good
+Musa Fashola,STU/2019/0713,27,Male,Undergraduate,500,51.5,46.7,68.8,73.8,2.68,17.4,70.5,95.1,Medium,2+ Activities,57.4,Average
+Precious Suleiman,STU/2022/0714,24,Female,Undergraduate,200,78.6,90.9,5.1,54.6,2.51,1.2,12.3,47.1,Medium,2+ Activities,49.4,Pass
+Blessing Onwudiwe,STU/2022/0715,22,Male,HND,300,83.8,67.3,1.0,71.4,3.4,3.7,30.8,52.6,Medium,2+ Activities,51.8,Average
+Sandra Nwachukwu,STU/2022/0716,27,Female,Undergraduate,400,87.9,49.0,31.4,62.2,4.06,4.7,49.7,60.6,High,1 Activity,55.9,Average
+Ibrahim Nwosu,STU/2019/0717,29,Male,Undergraduate,300,70.7,56.9,58.0,83.8,3.05,14.7,,73.9,Low,None,59.2,Average
+Halima Bello,STU/2020/0718,19,Female,Undergraduate,200,56.6,83.5,85.6,42.7,4.12,11.7,32.2,31.4,Medium,1 Activity,58.2,Average
+Mary Anikulapo,STU/2021/0719,18,Female,Postgraduate,200,63.0,75.2,32.5,62.8,3.62,0.0,31.9,0.0,Low,1 Activity,46.9,Pass
+Halima Onyekwere,STU/2019/0720,25,Male,Postgraduate,300,53.9,32.9,37.9,61.5,2.82,29.6,61.8,64.3,Medium,2+ Activities,42.9,Pass
+Kayode Obi,STU/2019/0721,20,Male,Undergraduate,400,71.1,40.5,56.8,67.7,3.51,0.0,,83.3,Low,None,62.7,Good
+Dauda Chukwu,STU/2018/0722,20,Male,Undergraduate,500,67.6,43.9,45.2,91.1,2.61,14.2,,53.8,High,1 Activity,49.5,Pass
+Oluwaseun Okafor,STU/2022/0723,18,Female,Undergraduate,100,100.0,50.1,44.0,62.9,3.21,18.5,,47.8,High,None,55.3,Average
+Dauda Onyekwere,STU/2023/0724,27,Female,HND,100,88.1,47.3,46.6,77.6,2.03,8.2,82.2,56.7,High,2+ Activities,59.1,Average
+Lanre Bello,STU/2019/0725,24,Female,Undergraduate,500,89.5,58.6,81.3,62.5,2.94,19.1,25.5,92.0,Low,None,62.9,Good
+Tunde Adeyemi,STU/2020/0726,19,Male,HND,400,80.5,71.2,77.3,83.2,3.9,5.9,63.5,46.7,Medium,1 Activity,66.6,Good
+Babatunde Abubakar,STU/2021/0727,26,Male,Undergraduate,400,65.4,74.2,55.5,77.8,3.69,15.4,42.1,71.4,Low,None,61.1,Good
+Gbenga Adeyemi,STU/2020/0728,20,Female,Postgraduate,100,67.0,52.1,88.1,59.3,3.56,0.0,90.1,36.9,High,None,59.7,Average
+Uche Aliyu,STU/2019/0729,19,Male,Postgraduate,300,68.7,28.6,65.2,58.1,3.26,23.4,,37.9,Medium,1 Activity,53.2,Average
+Blessing Obi,STU/2019/0730,20,Female,Undergraduate,400,75.4,39.3,78.1,73.3,3.14,14.0,77.0,76.9,Medium,None,63.3,Good
+Stella Okonkwo,STU/2018/0731,22,Male,HND,300,79.0,48.6,37.8,53.9,1.86,1.2,41.6,92.7,Medium,1 Activity,42.5,Pass
+Babatunde Adeyemi,STU/2020/0732,24,Female,Undergraduate,200,72.0,35.6,41.9,68.2,2.81,19.0,75.6,77.8,Low,2+ Activities,57.0,Average
+Rasheed Bello,STU/2018/0733,22,Male,Undergraduate,100,66.8,78.5,41.7,59.0,3.16,27.1,75.0,18.9,Medium,2+ Activities,59.0,Average
+Vivian Mohammed,STU/2023/0734,28,Male,Undergraduate,300,61.3,36.8,53.3,71.3,1.99,6.6,68.0,51.6,Low,None,45.6,Pass
+Kayode Adeyemi,STU/2020/0735,20,Female,Postgraduate,200,,69.1,56.2,62.3,1.42,12.3,,64.8,High,2+ Activities,50.8,Average
+Gbemi Ofili,STU/2022/0736,25,Female,Undergraduate,200,95.1,27.7,61.5,53.2,4.02,9.9,59.1,61.2,High,1 Activity,61.7,Good
+Bello Eze,STU/2023/0737,25,Female,Undergraduate,500,100.0,69.8,94.5,83.8,3.05,7.8,8.7,21.6,Medium,2+ Activities,71.9,Good
+Wale Okonkwo,STU/2022/0738,22,Male,Undergraduate,200,93.6,55.5,69.4,69.1,3.19,,99.0,34.1,High,2+ Activities,65.9,Good
+Kola Mohammed,STU/2020/0739,29,Male,Undergraduate,400,49.3,85.2,44.7,64.1,3.5,8.8,39.9,44.0,Medium,None,53.2,Average
+Adaeze Chukwu,STU/2018/0740,25,Female,Undergraduate,100,86.2,37.6,54.9,72.1,2.12,9.3,46.6,58.6,High,1 Activity,55.3,Average
+Aisha Okafor,STU/2022/0741,20,Female,Undergraduate,300,90.4,47.8,85.1,36.6,2.64,11.1,22.1,21.3,Medium,None,53.7,Average
+Tunde Bello,STU/2019/0742,18,Male,Postgraduate,500,64.7,51.3,70.6,100.0,4.35,10.6,71.8,72.0,Medium,2+ Activities,75.6,Excellent
+Sola Okeke,STU/2021/0743,22,Male,Undergraduate,100,80.8,55.3,84.8,65.4,2.56,20.1,68.2,58.1,Medium,1 Activity,63.7,Good
+Ibrahim Okafor,STU/2018/0744,28,Male,Undergraduate,100,63.8,51.8,45.3,31.6,2.76,19.4,47.6,39.1,Low,1 Activity,52.8,Average
+Fatima Obi,STU/2023/0745,26,Female,Undergraduate,200,99.5,52.1,40.8,85.4,2.4,1.7,0.0,63.9,Medium,1 Activity,53.7,Average
+Blessing Obi,STU/2023/0746,26,Male,Undergraduate,100,78.6,51.8,41.1,52.2,2.33,9.3,37.2,31.2,Low,2+ Activities,42.9,Pass
+Ngozi Adeleke,STU/2020/0747,17,Male,Postgraduate,400,55.5,20.7,47.0,82.7,3.99,24.0,66.5,59.0,High,2+ Activities,68.4,Good
+Sola Chukwu,STU/2023/0748,27,Male,HND,500,84.1,75.9,33.7,67.1,0.77,16.4,61.3,24.0,Low,1 Activity,44.2,Pass
+Joy Onwudiwe,STU/2021/0749,24,Male,Undergraduate,200,91.1,100.0,60.9,38.3,2.59,16.7,53.8,26.9,Medium,1 Activity,53.9,Average
+Sandra Okeke,STU/2021/0750,25,Male,Postgraduate,200,75.6,63.4,61.2,69.4,3.2,15.9,,50.9,High,2+ Activities,52.9,Average
+Usman Abubakar,STU/2019/0751,25,Male,HND,200,80.6,37.6,81.8,68.2,4.53,11.9,15.5,45.7,Low,2+ Activities,72.0,Good
+Adaeze Adeleke,STU/2023/0752,27,Male,Postgraduate,400,70.7,39.4,19.8,84.6,1.98,13.7,79.1,67.7,Medium,None,56.2,Average
+Chiamaka Abubakar,STU/2018/0753,16,Female,Undergraduate,100,51.6,69.0,36.1,73.9,1.82,10.8,19.0,59.6,Medium,None,48.2,Pass
+Anthonia Aliyu,STU/2021/0754,28,Male,HND,300,69.3,64.9,71.1,43.9,2.23,20.8,49.9,100.0,Low,None,58.6,Average
+Chioma Ofili,STU/2018/0755,21,Female,Undergraduate,300,81.4,52.9,58.7,82.0,3.63,10.8,29.1,54.7,High,1 Activity,61.7,Good
+Ike Eze,STU/2019/0756,22,Female,Undergraduate,300,69.7,71.6,55.9,58.0,3.11,13.1,79.8,0.0,Low,None,49.3,Pass
+Mercy Adeleke,STU/2020/0757,29,Female,Undergraduate,100,86.4,20.9,80.3,94.2,1.7,19.9,69.6,19.3,Low,1 Activity,63.0,Good
+Musa Onyekwere,STU/2021/0758,28,Female,Undergraduate,400,64.9,71.6,34.8,59.0,3.09,11.4,46.1,36.1,Medium,1 Activity,57.3,Average
+Kola Adeyemi,STU/2021/0759,23,Male,Undergraduate,100,,62.3,40.4,61.4,4.4,13.4,72.3,100.0,Medium,1 Activity,55.1,Average
+Kola Aliyu,STU/2021/0760,25,Male,Undergraduate,100,87.0,40.1,38.1,51.0,3.24,11.1,17.7,59.3,High,1 Activity,50.0,Average
+Chioma Ofili,STU/2023/0761,24,Female,Undergraduate,400,76.0,32.2,14.7,56.5,3.15,13.3,53.0,82.2,High,None,44.4,Pass
+Chidinma Ibrahim,STU/2018/0762,17,Female,Postgraduate,400,64.6,60.2,57.7,52.0,3.2,,28.6,80.1,Medium,2+ Activities,54.1,Average
+Segun Adeyemi,STU/2021/0763,26,Female,HND,100,90.6,83.3,44.5,85.0,3.37,9.7,80.6,34.7,Medium,2+ Activities,63.4,Good
+Halima Ibrahim,STU/2018/0764,25,Female,Undergraduate,100,59.6,53.9,40.3,42.4,1.86,8.3,64.4,24.1,Medium,1 Activity,43.1,Pass
+Ngozi Suleiman,STU/2023/0765,17,Female,HND,100,58.9,42.7,36.7,78.7,2.79,12.6,71.2,72.8,Low,2+ Activities,49.5,Pass
+Emeka Okafor,STU/2022/0766,20,Male,HND,200,21.1,61.4,54.6,79.1,2.84,22.1,41.2,15.6,Medium,None,55.3,Average
+Dauda Nwachukwu,STU/2022/0767,28,Male,Postgraduate,100,,90.8,39.0,88.4,2.56,19.0,73.6,79.6,High,2+ Activities,64.4,Good
+Biodun Okafor,STU/2018/0768,20,Female,Undergraduate,100,95.6,65.8,59.4,65.7,3.62,1.4,27.1,57.7,Medium,None,57.2,Average
+Aisha Bello,STU/2023/0769,21,Female,Undergraduate,200,34.7,67.7,64.2,47.5,2.43,10.6,30.7,72.3,Low,1 Activity,49.7,Pass
+Ifeoma Danjuma,STU/2022/0770,18,Male,HND,400,54.9,80.0,49.1,62.1,2.68,8.9,50.6,66.1,Medium,None,54.6,Average
+Sandra Abubakar,STU/2019/0771,23,Female,Undergraduate,300,79.9,66.5,47.8,75.1,1.87,1.5,31.6,67.1,Low,1 Activity,52.2,Average
+Emeka Nwosu,STU/2019/0772,28,Male,Undergraduate,300,31.6,43.9,58.7,66.4,3.34,16.2,72.7,62.1,Medium,None,55.1,Average
+Adaeze Nwosu,STU/2022/0773,16,Female,Undergraduate,100,62.8,26.6,54.4,71.2,3.85,13.2,43.2,65.6,Medium,1 Activity,51.7,Average
+Femi Okeke,STU/2020/0774,21,Male,Undergraduate,500,92.5,41.4,81.6,88.2,2.68,30.2,28.0,60.9,Medium,1 Activity,62.6,Good
+Kola Okafor,STU/2018/0775,19,Male,Undergraduate,400,100.0,38.1,61.4,74.9,3.73,11.3,24.7,32.5,Medium,2+ Activities,53.3,Average
+Tunde Okeke,STU/2022/0776,16,Female,Undergraduate,400,77.2,69.9,76.9,68.4,2.87,7.8,72.4,52.1,High,1 Activity,64.8,Good
+Usman Danjuma,STU/2018/0777,22,Male,Undergraduate,400,55.3,72.4,67.2,33.6,0.73,7.0,0.0,100.0,Low,None,50.1,Average
+Bello Nwachukwu,STU/2023/0778,24,Female,Postgraduate,500,54.7,61.2,28.6,51.7,2.95,10.4,29.7,66.3,High,None,46.0,Pass
+Gbemi Onwudiwe,STU/2022/0779,28,Female,HND,300,74.6,35.2,43.8,58.1,2.84,18.7,90.1,82.8,Medium,2+ Activities,51.6,Average
+Uche Okeke,STU/2019/0780,19,Female,Undergraduate,100,77.1,90.2,54.0,31.4,3.09,19.6,46.4,40.3,High,1 Activity,55.4,Average
+Tunde Abubakar,STU/2023/0781,19,Male,HND,300,100.0,50.5,72.4,46.1,3.23,37.4,72.9,40.0,Medium,1 Activity,56.8,Average
+Musa Suleiman,STU/2020/0782,21,Male,Undergraduate,400,89.5,68.9,93.6,60.4,2.38,4.3,,35.9,Low,1 Activity,68.7,Good
+Joy Aliyu,STU/2018/0783,27,Male,Undergraduate,400,73.5,58.9,45.3,63.2,4.32,14.7,50.2,33.4,High,None,59.6,Average
+Wale Danjuma,STU/2020/0784,18,Female,Postgraduate,300,66.0,61.8,56.1,73.6,2.94,8.5,13.5,27.6,Medium,None,56.3,Average
+Anthonia Bakare,STU/2019/0785,28,Female,Postgraduate,100,100.0,68.2,71.0,61.5,2.82,16.8,,64.7,Low,1 Activity,63.2,Good
+Amina Mohammed,STU/2021/0786,27,Female,HND,200,83.3,45.5,53.8,69.2,3.67,25.1,21.4,52.9,Low,None,53.1,Average
+Lanre Fashola,STU/2021/0787,21,Female,Undergraduate,500,60.0,81.5,87.9,57.9,3.02,20.9,67.1,77.5,Medium,None,65.9,Good
+Aisha Okonkwo,STU/2018/0788,22,Female,HND,300,68.0,29.6,28.0,65.7,5.0,4.3,71.7,53.8,Medium,None,48.6,Pass
+Joy Onwudiwe,STU/2023/0789,26,Female,Undergraduate,300,56.2,39.3,68.6,72.7,2.81,19.5,33.0,11.9,Medium,None,50.3,Average
+Fatima Danjuma,STU/2019/0790,25,Male,Postgraduate,200,28.7,81.3,68.4,90.0,3.32,,53.0,68.9,Medium,None,59.5,Average
+Tunde Eze,STU/2018/0791,25,Female,Postgraduate,200,77.6,68.6,78.0,56.3,2.33,0.0,55.2,19.4,Medium,2+ Activities,62.4,Good
+Patience Chukwu,STU/2023/0792,18,Male,Undergraduate,400,100.0,100.0,56.2,67.5,3.78,12.0,57.0,64.3,High,1 Activity,79.4,Excellent
+Vivian Okonkwo,STU/2018/0793,22,Female,Undergraduate,300,42.6,59.2,72.8,79.8,3.28,18.9,36.0,44.6,Medium,2+ Activities,56.1,Average
+Nkechi Adeyemi,STU/2018/0794,29,Female,HND,400,73.0,88.6,50.0,40.5,2.69,16.8,96.0,64.7,Low,None,58.2,Average
+Chioma Okafor,STU/2020/0795,18,Female,Undergraduate,200,59.3,24.6,39.0,99.0,2.21,29.2,71.9,31.1,High,None,52.0,Average
+Lanre Adeleke,STU/2022/0796,28,Male,Undergraduate,300,81.4,32.6,36.1,85.0,1.82,14.9,56.8,75.6,Low,2+ Activities,46.2,Pass
+Ruth Okafor,STU/2019/0797,28,Male,Postgraduate,100,68.9,74.1,26.2,35.9,3.38,13.1,42.0,60.8,Medium,1 Activity,49.8,Pass
+Ifeoma Nwachukwu,STU/2020/0798,17,Male,Undergraduate,400,47.5,26.7,46.2,71.3,1.75,23.2,34.2,53.1,Medium,None,44.7,Pass
+Abdul Garba,STU/2023/0799,27,Male,Postgraduate,200,54.3,54.4,61.2,55.4,4.18,11.0,64.9,26.1,Medium,1 Activity,55.8,Average
+Rasheed Ofili,STU/2022/0800,29,Male,Undergraduate,200,57.1,79.0,50.8,58.2,1.86,17.1,43.2,96.2,Low,1 Activity,56.9,Average
+Halima Garba,STU/2018/0801,25,Female,Undergraduate,300,96.2,67.0,59.0,71.0,2.84,17.6,58.3,41.9,Low,2+ Activities,62.5,Good
+Nkechi Okonkwo,STU/2021/0802,19,Female,Postgraduate,500,95.3,58.2,79.7,82.9,2.21,6.2,7.5,65.3,Medium,None,49.6,Pass
+Oluwaseun Suleiman,STU/2020/0803,27,Male,Undergraduate,100,66.4,49.9,44.7,57.1,3.03,17.1,41.8,41.0,High,1 Activity,47.3,Pass
+Aisha Nwosu,STU/2019/0804,23,Male,Undergraduate,400,94.1,61.6,100.0,57.3,3.02,31.5,52.3,100.0,Medium,1 Activity,77.7,Excellent
+Adaeze Ibrahim,STU/2019/0805,28,Male,Postgraduate,200,68.9,68.4,70.1,71.3,3.4,23.1,79.2,63.0,Medium,2+ Activities,68.9,Good
+Kayode Ibrahim,STU/2022/0806,24,Female,Undergraduate,200,66.1,46.1,51.1,74.7,1.63,7.3,31.9,47.7,Medium,2+ Activities,37.3,Poor
+Precious Ofili,STU/2020/0807,22,Male,Undergraduate,100,73.0,64.7,50.6,47.9,2.31,,17.9,72.1,Low,None,46.5,Pass
+Amina Nwachukwu,STU/2018/0808,16,Female,Undergraduate,200,77.1,77.4,34.8,94.3,3.87,19.5,66.1,75.0,Low,1 Activity,68.1,Good
+Stella Obi,STU/2022/0809,18,Male,Postgraduate,300,62.0,54.0,54.5,54.1,3.59,17.4,53.4,67.9,Low,2+ Activities,53.2,Average
+Oluwaseun Bakare,STU/2023/0810,28,Female,Postgraduate,100,,59.2,11.8,81.4,0.75,13.2,,53.5,Medium,1 Activity,31.0,Poor
+Blessing Okafor,STU/2019/0811,27,Female,Postgraduate,200,86.2,66.7,80.1,72.7,3.34,19.5,13.2,68.8,Low,2+ Activities,70.0,Good
+Dauda Okafor,STU/2023/0812,29,Male,Undergraduate,500,74.3,67.9,0.0,75.3,2.07,14.9,38.8,56.9,Low,2+ Activities,48.7,Pass
+Joy Bakare,STU/2020/0813,24,Female,Postgraduate,100,72.8,73.8,55.8,54.4,2.47,14.2,52.9,59.5,Medium,None,53.0,Average
+Gbenga Nwosu,STU/2021/0814,27,Male,Undergraduate,400,80.9,39.7,32.1,35.7,2.8,12.9,89.7,44.3,High,None,51.7,Average
+Ruth Ibrahim,STU/2023/0815,16,Female,Undergraduate,200,84.0,48.5,41.0,64.6,4.4,21.8,28.0,30.7,High,2+ Activities,54.0,Average
+Gbenga Suleiman,STU/2018/0816,24,Male,Undergraduate,300,70.9,49.1,43.6,64.7,2.06,20.9,68.5,71.3,Medium,None,49.5,Pass
+Emeka Suleiman,STU/2019/0817,23,Female,HND,200,63.5,41.7,93.5,48.7,1.74,12.8,6.0,72.1,Low,None,49.0,Pass
+Sola Lawal,STU/2020/0818,16,Female,Postgraduate,100,75.4,25.6,32.9,80.6,3.41,1.8,64.0,85.9,Medium,1 Activity,43.0,Pass
+Ibrahim Danjuma,STU/2021/0819,21,Female,Undergraduate,100,43.3,0.0,73.3,64.1,2.97,14.3,92.7,61.0,Low,2+ Activities,50.3,Average
+Chidinma Abubakar,STU/2019/0820,20,Female,Undergraduate,100,68.2,79.5,78.2,51.2,4.09,8.3,58.5,55.7,Medium,None,66.9,Good
+Lanre Adeyemi,STU/2021/0821,21,Male,HND,100,27.5,30.0,8.2,74.9,2.68,10.2,38.3,31.8,High,1 Activity,34.0,Poor
+Bello Nwosu,STU/2019/0822,25,Male,Undergraduate,300,41.8,86.2,42.7,75.4,4.09,13.0,85.8,59.2,Medium,None,64.6,Good
+Oluwaseun Okonkwo,STU/2022/0823,27,Male,HND,400,39.1,71.3,84.7,52.8,3.01,5.5,63.7,67.2,High,None,53.0,Average
+Grace Anikulapo,STU/2022/0824,28,Male,Undergraduate,400,90.9,50.7,28.7,86.0,3.48,,58.8,23.6,Medium,1 Activity,56.9,Average
+Wale Fashola,STU/2022/0825,28,Female,Undergraduate,300,72.3,69.1,79.0,100.0,4.46,16.3,29.6,81.4,Medium,None,73.6,Good
+Chidinma Okafor,STU/2020/0826,28,Male,Undergraduate,100,49.3,65.7,54.6,46.5,2.85,,64.1,45.8,Low,2+ Activities,49.4,Pass
+Babatunde Nwosu,STU/2022/0827,20,Female,Undergraduate,200,80.8,38.2,53.8,61.9,3.94,13.9,37.9,56.1,High,2+ Activities,58.0,Average
+Aisha Eze,STU/2020/0828,21,Female,HND,200,89.8,57.7,56.4,70.7,2.45,18.1,62.8,72.0,Low,2+ Activities,56.4,Average
+Rasheed Okeke,STU/2018/0829,20,Female,Undergraduate,100,,40.4,61.9,100.0,3.2,8.7,56.2,59.9,High,None,66.0,Good
+Nkechi Abubakar,STU/2022/0830,26,Male,Postgraduate,300,68.6,69.8,35.9,52.5,1.7,16.7,82.1,88.1,Medium,1 Activity,54.5,Average
+Segun Danjuma,STU/2020/0831,27,Female,Undergraduate,300,76.2,45.1,49.8,49.0,2.55,24.7,40.6,72.6,Low,None,51.8,Average
+Chidinma Lawal,STU/2019/0832,20,Female,Undergraduate,200,88.2,56.3,62.4,48.9,2.05,12.0,51.3,57.0,High,None,52.7,Average
+Usman Mohammed,STU/2020/0833,19,Male,Undergraduate,200,63.6,55.5,58.5,85.8,4.1,29.2,75.0,0.0,Low,1 Activity,65.7,Good
+Mercy Anikulapo,STU/2023/0834,18,Female,Undergraduate,400,72.5,60.2,62.0,53.0,4.56,14.4,49.1,79.9,High,1 Activity,67.3,Good
+Usman Garba,STU/2020/0835,18,Female,HND,400,67.4,87.9,40.6,50.5,2.68,7.2,54.5,36.4,Low,None,59.2,Average
+Kayode Nwosu,STU/2023/0836,19,Male,Undergraduate,200,43.0,53.7,67.6,68.9,2.3,20.8,44.8,77.0,High,None,52.8,Average
+Blessing Garba,STU/2019/0837,24,Male,Undergraduate,500,88.5,79.9,57.5,70.2,1.82,13.1,50.9,69.8,Medium,2+ Activities,64.7,Good
+Ifeoma Bakare,STU/2020/0838,17,Male,Undergraduate,500,100.0,66.6,23.4,83.2,3.24,22.4,71.8,56.0,Medium,1 Activity,66.5,Good
+Aisha Chukwu,STU/2019/0839,24,Male,Undergraduate,200,56.3,83.5,44.4,66.6,2.46,17.3,100.0,79.1,Medium,2+ Activities,59.7,Average
+Dauda Obi,STU/2023/0840,16,Male,Undergraduate,200,,51.9,37.1,69.2,2.51,11.4,13.0,70.4,Low,2+ Activities,56.6,Average
+Loveth Okafor,STU/2021/0841,29,Male,HND,300,56.8,70.5,36.8,63.2,4.47,26.2,23.4,66.6,High,1 Activity,58.9,Average
+Ngozi Onwudiwe,STU/2022/0842,16,Male,Undergraduate,500,74.4,56.9,45.5,42.8,2.73,10.0,51.5,25.7,Low,None,43.7,Pass
+Grace Lawal,STU/2023/0843,20,Male,Undergraduate,400,99.1,4.2,67.3,61.6,3.53,0.0,56.2,60.8,Medium,2+ Activities,49.9,Pass
+Mary Chukwu,STU/2018/0844,21,Female,Undergraduate,100,62.6,38.4,42.5,66.1,3.05,21.0,49.6,35.1,Medium,None,43.4,Pass
+Dauda Bello,STU/2020/0845,21,Female,HND,200,71.7,68.5,59.5,57.5,1.78,16.8,41.2,38.1,Medium,None,53.2,Average
+Kayode Suleiman,STU/2019/0846,18,Female,Undergraduate,300,39.6,67.3,56.2,38.4,1.34,24.3,24.2,52.8,Low,2+ Activities,44.8,Pass
+Abdul Mohammed,STU/2022/0847,22,Male,Undergraduate,300,60.0,34.7,39.4,45.7,3.44,6.9,39.7,89.3,Low,1 Activity,46.0,Pass
+Ibrahim Ofili,STU/2020/0848,24,Male,Undergraduate,100,37.7,62.0,48.1,64.3,4.53,12.0,75.4,67.3,Low,None,61.9,Good
+Sandra Ibrahim,STU/2022/0849,26,Male,Undergraduate,400,79.7,67.1,72.3,80.9,3.28,11.1,57.3,68.6,High,1 Activity,66.8,Good
+Grace Bakare,STU/2021/0850,27,Male,Undergraduate,300,87.0,57.4,58.0,93.6,3.56,21.5,71.9,75.4,Low,1 Activity,66.0,Good
+Blessing Nwachukwu,STU/2020/0851,25,Male,Undergraduate,400,68.0,71.1,66.0,61.9,2.19,19.2,24.9,42.5,High,None,55.8,Average
+Femi Nwachukwu,STU/2019/0852,23,Female,Postgraduate,400,77.1,68.7,80.4,52.8,3.91,15.7,91.1,28.5,Low,None,57.9,Average
+Anthonia Okeke,STU/2021/0853,21,Male,Undergraduate,400,66.1,57.4,63.7,58.7,3.9,15.8,41.0,24.9,Low,None,59.0,Average
+Uche Suleiman,STU/2020/0854,27,Female,Postgraduate,200,85.3,48.8,16.6,47.2,2.37,4.8,66.9,64.6,Medium,1 Activity,43.9,Pass
+Musa Eze,STU/2022/0855,23,Female,Undergraduate,300,74.3,76.8,60.4,78.4,3.49,20.1,51.9,79.7,Low,2+ Activities,66.7,Good
+Grace Aliyu,STU/2021/0856,27,Male,Undergraduate,100,36.3,66.3,42.6,100.0,1.41,,41.5,78.3,Medium,1 Activity,52.5,Average
+Chioma Garba,STU/2019/0857,20,Male,Undergraduate,300,88.9,33.1,91.2,53.2,3.65,32.3,65.8,43.4,High,1 Activity,65.4,Good
+Abdul Okeke,STU/2020/0858,23,Female,Undergraduate,100,65.0,62.0,63.0,44.7,2.48,17.8,70.0,87.1,Low,None,50.0,Average
+Abdul Mohammed,STU/2022/0859,25,Male,Postgraduate,300,49.1,37.3,43.1,82.1,1.9,19.1,100.0,100.0,High,None,52.7,Average
+Sola Obi,STU/2022/0860,27,Male,Undergraduate,100,64.1,40.6,66.3,70.4,3.36,17.8,71.0,72.2,Medium,None,56.0,Average
+Emeka Garba,STU/2023/0861,19,Female,Undergraduate,100,37.8,46.3,56.8,70.7,1.41,8.4,70.6,89.7,Low,None,47.9,Pass
+Abdul Garba,STU/2021/0862,25,Male,Undergraduate,100,49.5,58.8,20.6,92.0,3.31,24.0,83.6,77.5,Low,None,51.0,Average
+Usman Onwudiwe,STU/2020/0863,23,Female,HND,100,74.6,64.7,72.3,41.8,1.98,13.6,68.3,55.4,High,1 Activity,58.7,Average
+Loveth Nwosu,STU/2023/0864,25,Female,Undergraduate,400,76.1,50.6,46.9,41.3,1.79,12.5,54.0,46.7,Low,None,45.7,Pass
+Bello Bello,STU/2022/0865,27,Male,HND,400,77.5,51.4,83.4,62.3,3.05,12.9,63.1,27.7,High,2+ Activities,56.9,Average
+Kayode Suleiman,STU/2021/0866,17,Male,Undergraduate,300,72.1,48.9,52.5,66.1,2.84,13.5,76.4,51.1,Medium,2+ Activities,59.7,Average
+Femi Okeke,STU/2018/0867,27,Male,Undergraduate,100,59.5,76.9,83.8,59.0,4.31,10.1,89.8,55.3,Low,1 Activity,66.0,Good
+Chioma Onwudiwe,STU/2022/0868,27,Male,Undergraduate,100,71.0,6.6,63.5,100.0,1.84,15.7,,55.7,Medium,None,47.2,Pass
+Patience Bello,STU/2021/0869,20,Male,Undergraduate,100,64.1,52.4,74.5,59.7,4.24,13.2,7.7,57.7,High,2+ Activities,62.9,Good
+Chukwuemeka Eze,STU/2018/0870,24,Female,Undergraduate,100,42.7,85.8,45.2,55.6,1.98,12.5,88.7,14.1,Medium,2+ Activities,57.0,Average
+Mary Garba,STU/2021/0871,19,Male,Undergraduate,400,58.1,67.3,62.1,67.1,3.83,17.9,35.1,75.6,Medium,None,58.6,Average
+Bello Okafor,STU/2022/0872,26,Male,HND,100,88.0,80.8,20.5,81.5,4.0,14.6,13.6,77.9,High,1 Activity,60.8,Good
+Yusuf Bakare,STU/2018/0873,21,Female,Postgraduate,200,100.0,21.4,52.5,52.7,3.29,9.6,11.2,67.4,Low,2+ Activities,51.8,Average
+Uche Mohammed,STU/2021/0874,16,Female,Postgraduate,100,83.7,35.6,25.3,62.5,2.29,7.9,100.0,36.6,High,1 Activity,52.7,Average
+Biodun Ofili,STU/2020/0875,24,Female,Undergraduate,100,99.8,67.3,32.1,82.0,1.63,14.8,76.9,67.3,High,None,58.3,Average
+Dauda Suleiman,STU/2018/0876,16,Male,Undergraduate,300,73.5,85.9,37.2,82.9,1.24,8.0,,60.5,Medium,1 Activity,56.3,Average
+Vivian Mohammed,STU/2021/0877,20,Female,Undergraduate,300,100.0,37.5,68.2,68.7,4.67,7.5,36.2,69.5,High,1 Activity,59.9,Average
+Vivian Okonkwo,STU/2020/0878,19,Female,Postgraduate,100,100.0,51.0,52.1,100.0,2.73,7.6,56.4,91.0,Medium,1 Activity,57.4,Average
+Grace Danjuma,STU/2018/0879,28,Male,HND,100,40.8,65.2,55.6,98.7,2.01,,76.5,56.4,Medium,2+ Activities,61.1,Good
+Gbenga Nwosu,STU/2021/0880,27,Male,Undergraduate,200,76.0,31.9,51.5,41.1,1.97,23.5,47.6,63.6,Medium,1 Activity,43.3,Pass
+Ruth Chukwu,STU/2022/0881,28,Female,Undergraduate,100,73.6,67.4,76.6,36.2,3.15,16.8,35.3,42.7,Medium,None,53.6,Average
+Chukwuemeka Danjuma,STU/2018/0882,28,Male,Undergraduate,100,64.4,9.8,55.1,78.5,2.64,21.1,83.4,78.4,Medium,1 Activity,54.4,Average
+Gbenga Onyekwere,STU/2018/0883,29,Male,Undergraduate,500,80.9,66.9,60.0,88.2,1.27,13.4,54.4,74.1,Low,1 Activity,58.4,Average
+Patience Aliyu,STU/2020/0884,18,Male,Undergraduate,300,72.7,40.1,43.6,61.2,3.78,15.1,50.2,64.3,Medium,None,53.6,Average
+Amina Nwachukwu,STU/2023/0885,28,Male,Undergraduate,300,58.8,49.9,78.0,56.5,3.3,27.2,69.8,38.9,Low,1 Activity,54.1,Average
+Ike Mohammed,STU/2023/0886,21,Female,Postgraduate,200,71.5,69.7,79.5,51.1,4.66,20.6,1.6,46.3,Low,2+ Activities,59.8,Average
+Ahmed Mohammed,STU/2021/0887,17,Female,Undergraduate,200,93.7,66.1,54.3,45.1,4.03,21.5,66.9,23.4,Medium,1 Activity,67.5,Good
+Kayode Ibrahim,STU/2022/0888,18,Female,Undergraduate,300,75.3,57.9,43.3,84.3,0.5,11.9,65.3,46.1,High,None,48.2,Pass
+Ike Nwachukwu,STU/2020/0889,20,Male,HND,300,83.3,75.4,22.7,58.5,4.28,14.0,20.5,74.2,Medium,None,54.8,Average
+Halima Ofili,STU/2018/0890,24,Male,Undergraduate,400,67.0,27.4,37.6,70.1,4.09,17.2,6.5,67.9,Medium,1 Activity,50.0,Average
+Babatunde Adeleke,STU/2023/0891,17,Male,Undergraduate,100,,61.7,11.7,34.0,2.34,9.1,40.9,63.2,Low,1 Activity,37.1,Poor
+Ngozi Onyekwere,STU/2020/0892,25,Male,Undergraduate,300,50.2,43.8,36.8,82.0,2.61,0.0,59.6,89.7,Medium,None,54.1,Average
+Lanre Abubakar,STU/2020/0893,23,Male,Undergraduate,200,63.0,74.5,62.1,75.0,3.37,17.2,62.1,66.1,Low,1 Activity,63.3,Good
+Chidinma Bello,STU/2020/0894,29,Female,Undergraduate,400,70.2,70.4,54.0,42.1,2.09,,97.6,48.5,Low,None,53.8,Average
+Sandra Garba,STU/2018/0895,17,Male,Postgraduate,300,49.0,71.0,100.0,69.4,2.78,14.4,59.6,46.0,Medium,None,69.1,Good
+Chiamaka Suleiman,STU/2019/0896,26,Female,Undergraduate,300,57.1,87.6,47.6,65.1,3.9,9.2,20.0,55.4,Medium,1 Activity,62.3,Good
+Grace Abubakar,STU/2020/0897,28,Male,Undergraduate,100,77.6,78.3,46.0,57.3,3.47,11.4,48.7,51.0,Low,None,65.3,Good
+Sandra Eze,STU/2019/0898,20,Male,Undergraduate,300,74.3,55.2,76.3,15.7,2.4,0.0,22.5,79.1,Medium,2+ Activities,47.6,Pass
+Wale Nwachukwu,STU/2023/0899,22,Male,Undergraduate,100,,58.0,16.5,53.8,3.92,,50.5,68.4,High,None,60.5,Good
+Sandra Lawal,STU/2022/0900,23,Female,HND,200,61.2,68.8,25.4,70.1,3.27,5.1,90.2,53.6,Low,1 Activity,55.8,Average
+Babatunde Aliyu,STU/2023/0901,16,Female,HND,100,73.0,60.5,68.3,55.7,3.24,8.4,66.5,54.4,Low,1 Activity,65.3,Good
+Bello Abubakar,STU/2022/0902,21,Female,Undergraduate,300,59.9,70.7,51.1,61.2,2.54,4.7,37.0,74.1,Medium,1 Activity,57.3,Average
+Oluwaseun Adeyemi,STU/2022/0903,16,Male,Postgraduate,100,84.7,17.9,51.6,90.4,2.99,3.8,69.8,80.2,Low,2+ Activities,52.0,Average
+Chukwuemeka Obi,STU/2023/0904,17,Male,Undergraduate,200,93.4,91.9,36.3,63.7,2.3,,35.6,23.1,High,1 Activity,53.3,Average
+Emeka Onyekwere,STU/2021/0905,16,Female,HND,400,80.7,59.1,59.8,29.4,1.25,19.1,0.0,56.6,Medium,1 Activity,38.9,Poor
+Musa Anikulapo,STU/2018/0906,26,Male,Undergraduate,100,91.1,28.8,38.8,61.9,2.75,9.9,24.2,61.8,Medium,1 Activity,39.2,Poor
+Precious Obi,STU/2019/0907,20,Female,HND,300,72.6,41.6,56.5,66.7,2.89,5.1,66.5,71.0,Medium,1 Activity,51.8,Average
+Gbemi Bello,STU/2021/0908,25,Male,Postgraduate,200,86.5,19.7,31.8,51.0,3.12,20.0,74.3,62.3,Medium,2+ Activities,53.0,Average
+Adaeze Abubakar,STU/2019/0909,24,Male,Undergraduate,100,,38.4,51.4,77.5,4.09,15.0,97.9,68.1,Low,1 Activity,58.2,Average
+Oluwaseun Okonkwo,STU/2018/0910,21,Male,Undergraduate,400,53.6,55.4,95.5,40.1,2.41,0.0,63.5,55.3,High,1 Activity,53.4,Average
+Halima Onwudiwe,STU/2020/0911,26,Male,HND,100,76.4,85.3,46.5,62.7,2.67,22.0,88.7,43.9,Medium,2+ Activities,65.2,Good
+Halima Okeke,STU/2023/0912,26,Female,HND,200,54.1,65.4,52.4,39.9,3.69,14.6,70.8,75.7,Low,2+ Activities,51.8,Average
+Kayode Suleiman,STU/2021/0913,16,Male,Undergraduate,300,100.0,62.2,50.9,60.0,2.32,20.2,78.4,76.3,Medium,1 Activity,67.8,Good
+Fatima Bakare,STU/2018/0914,28,Male,Postgraduate,300,66.0,37.6,58.5,77.0,3.14,12.2,82.5,73.0,Low,1 Activity,55.7,Average
+Segun Bakare,STU/2023/0915,16,Male,Undergraduate,300,83.6,43.2,64.4,62.3,2.63,26.8,67.2,76.6,Low,None,61.8,Good
+Grace Onyekwere,STU/2021/0916,17,Male,Undergraduate,200,71.8,44.6,60.1,61.3,2.78,,81.9,40.6,Medium,1 Activity,54.0,Average
+Chiamaka Adeyemi,STU/2022/0917,24,Female,Undergraduate,100,49.8,45.3,60.6,65.5,3.68,0.0,37.5,49.9,Medium,1 Activity,51.9,Average
+Sola Ibrahim,STU/2021/0918,18,Female,Undergraduate,400,37.8,51.7,51.4,66.3,2.66,6.9,0.0,82.4,Medium,2+ Activities,51.9,Average
+Loveth Okonkwo,STU/2020/0919,16,Female,Postgraduate,300,85.5,53.0,57.0,76.8,3.71,18.0,71.3,67.1,Low,1 Activity,63.9,Good
+Adaeze Lawal,STU/2020/0920,20,Female,Undergraduate,400,99.9,51.9,50.7,76.9,1.24,15.3,64.4,61.1,Medium,1 Activity,62.0,Good
+Mary Bello,STU/2019/0921,22,Male,Postgraduate,400,58.8,45.9,18.8,89.2,1.71,13.0,33.1,55.0,Low,None,40.0,Pass
+Biodun Okeke,STU/2021/0922,21,Female,Undergraduate,400,42.2,60.4,100.0,67.8,0.91,6.1,23.4,85.4,Medium,1 Activity,50.3,Average
+Mercy Danjuma,STU/2022/0923,27,Male,Undergraduate,200,66.1,52.3,69.6,36.8,1.95,14.1,58.3,24.6,Medium,2+ Activities,43.3,Pass
+Sola Lawal,STU/2020/0924,16,Male,Undergraduate,200,55.1,29.3,35.4,79.6,4.67,13.9,72.9,65.9,Medium,None,58.5,Average
+Usman Nwachukwu,STU/2019/0925,20,Female,Undergraduate,400,60.3,58.6,59.6,87.9,2.98,13.8,68.0,58.7,High,None,64.4,Good
+Emeka Abubakar,STU/2022/0926,20,Male,Undergraduate,200,83.0,55.9,28.1,100.0,2.35,18.3,29.5,34.9,High,1 Activity,53.6,Average
+Bello Nwachukwu,STU/2022/0927,21,Female,Undergraduate,100,71.1,29.6,45.1,89.7,3.7,,35.1,92.3,High,1 Activity,57.6,Average
+Fatima Okeke,STU/2022/0928,18,Male,Undergraduate,400,57.1,47.4,25.4,56.7,3.83,12.0,71.7,6.2,High,1 Activity,51.9,Average
+Ahmed Nwosu,STU/2018/0929,20,Female,Undergraduate,400,82.6,68.7,54.0,68.2,1.9,6.0,56.8,62.4,High,1 Activity,56.4,Average
+Usman Garba,STU/2020/0930,22,Female,Undergraduate,200,84.0,37.5,23.4,60.4,5.0,24.9,81.5,70.6,High,1 Activity,50.4,Average
+Lanre Okonkwo,STU/2018/0931,20,Female,Undergraduate,100,65.9,35.6,62.8,58.1,3.25,29.9,46.9,40.5,High,None,47.4,Pass
+Rasheed Mohammed,STU/2018/0932,20,Female,HND,200,74.5,52.2,68.6,63.1,3.36,28.0,73.5,65.5,Medium,2+ Activities,59.0,Average
+Nkechi Chukwu,STU/2020/0933,20,Female,HND,400,81.4,69.2,38.5,86.9,3.45,19.6,54.0,55.5,Low,None,61.1,Good
+Fatima Onwudiwe,STU/2021/0934,25,Male,Undergraduate,500,79.7,90.6,58.2,38.0,3.45,0.6,36.9,79.8,Low,1 Activity,55.1,Average
+Ngozi Onwudiwe,STU/2023/0935,25,Male,Undergraduate,100,72.7,69.9,37.4,48.0,2.44,0.0,78.2,100.0,High,1 Activity,57.5,Average
+Babatunde Eze,STU/2019/0936,18,Male,Undergraduate,100,97.8,77.5,65.2,85.7,4.9,9.6,30.2,66.8,Medium,2+ Activities,67.6,Good
+Segun Onyekwere,STU/2023/0937,16,Female,HND,400,82.5,64.2,41.2,89.7,2.74,13.6,56.9,72.1,High,2+ Activities,58.5,Average
+Sola Ibrahim,STU/2023/0938,20,Male,Undergraduate,200,63.9,45.7,70.8,53.8,3.86,13.2,59.4,40.5,Medium,1 Activity,49.7,Pass
+Adaeze Suleiman,STU/2023/0939,29,Female,Undergraduate,300,64.0,69.7,18.8,93.1,2.57,15.6,52.0,64.3,Medium,1 Activity,52.3,Average
+Lanre Bello,STU/2023/0940,24,Male,Undergraduate,500,62.0,56.5,34.9,81.6,2.41,2.9,79.8,52.5,Medium,None,51.5,Average
+Ruth Abubakar,STU/2020/0941,29,Male,Undergraduate,100,83.4,64.8,32.8,60.4,4.71,26.9,69.3,75.6,High,None,66.9,Good
+Ibrahim Okeke,STU/2023/0942,16,Female,Undergraduate,300,60.8,41.0,59.1,23.6,2.9,26.0,66.3,31.5,Low,2+ Activities,48.3,Pass
+Segun Nwachukwu,STU/2019/0943,18,Male,Postgraduate,100,64.4,66.4,66.1,36.6,2.97,3.5,56.7,38.5,High,2+ Activities,57.4,Average
+Abdul Chukwu,STU/2021/0944,28,Male,Undergraduate,200,91.0,55.8,60.6,53.8,3.26,0.0,100.0,83.6,High,2+ Activities,66.0,Good
+Amina Aliyu,STU/2020/0945,28,Male,Undergraduate,400,75.4,62.2,44.8,77.9,5.0,13.3,91.6,64.2,Medium,None,67.0,Good
+Chidinma Abubakar,STU/2023/0946,19,Female,Undergraduate,200,93.6,56.5,0.0,78.0,4.95,24.1,78.0,86.5,Medium,1 Activity,55.9,Average
+Chioma Ofili,STU/2022/0947,29,Female,Undergraduate,500,86.4,53.0,55.8,57.1,4.16,13.7,73.9,67.3,Low,1 Activity,62.3,Good
+Oluwaseun Okeke,STU/2020/0948,16,Male,HND,300,50.8,66.7,70.8,61.1,5.0,16.1,39.9,70.2,Low,1 Activity,69.2,Good
+Gbenga Okeke,STU/2021/0949,16,Male,Undergraduate,200,70.2,50.7,100.0,64.4,2.15,10.5,53.8,53.8,Medium,1 Activity,59.9,Average
+Mercy Adeleke,STU/2023/0950,23,Male,Postgraduate,100,89.8,29.4,46.5,61.3,3.59,15.2,70.9,56.1,Low,2+ Activities,56.4,Average
+Usman Lawal,STU/2018/0951,17,Female,Undergraduate,200,50.0,24.3,41.7,67.8,3.07,21.6,81.3,79.3,Low,1 Activity,51.0,Average
+Ifeoma Abubakar,STU/2020/0952,27,Female,Undergraduate,200,79.6,61.3,61.4,64.5,1.41,17.3,77.3,57.1,High,None,55.6,Average
+Ike Abubakar,STU/2022/0953,23,Male,HND,100,71.3,50.0,49.9,36.5,3.42,18.6,69.5,83.7,Medium,None,57.0,Average
+Tunde Nwachukwu,STU/2020/0954,22,Male,Undergraduate,200,40.4,26.9,80.5,61.5,2.56,0.7,100.0,57.8,Medium,None,49.7,Pass
+Ngozi Onyekwere,STU/2018/0955,25,Male,HND,200,74.2,59.9,38.8,64.6,4.38,31.1,51.6,36.4,Low,1 Activity,60.4,Good
+Amina Suleiman,STU/2020/0956,25,Female,Undergraduate,400,56.9,56.3,50.0,81.8,2.64,0.8,80.3,34.6,High,None,53.3,Average
+Chukwuemeka Onwudiwe,STU/2022/0957,17,Female,HND,300,51.0,49.0,72.5,50.9,2.59,15.3,,56.6,High,None,54.8,Average
+Ike Obi,STU/2021/0958,21,Male,Undergraduate,400,72.2,62.4,61.2,68.5,4.38,12.8,66.1,78.3,Medium,1 Activity,68.4,Good
+Tunde Obi,STU/2022/0959,21,Male,Undergraduate,100,37.2,81.7,78.2,74.6,2.94,13.1,67.0,46.7,High,2+ Activities,56.4,Average
+Bello Lawal,STU/2021/0960,18,Male,Postgraduate,100,59.9,81.1,46.3,62.5,4.05,,66.5,74.6,High,2+ Activities,66.3,Good
+Ruth Lawal,STU/2022/0961,26,Female,HND,300,100.0,60.6,80.3,35.2,3.38,8.3,37.3,62.0,Medium,None,63.0,Good
+Nkechi Chukwu,STU/2019/0962,17,Male,HND,200,83.7,56.5,21.7,82.2,3.39,10.5,65.0,72.1,Medium,None,52.9,Average
+Ahmed Ibrahim,STU/2020/0963,27,Female,Postgraduate,100,,60.8,22.5,77.7,2.78,4.8,73.7,54.2,Low,None,48.7,Pass
+Grace Ibrahim,STU/2020/0964,16,Female,HND,400,97.3,63.6,80.6,68.9,3.45,23.0,63.0,63.7,Low,2+ Activities,65.7,Good
+Chidinma Onyekwere,STU/2018/0965,21,Male,Undergraduate,400,54.1,53.2,55.1,65.7,2.88,16.1,,78.8,Low,1 Activity,48.2,Pass
+Emeka Obi,STU/2019/0966,27,Male,Undergraduate,300,62.0,61.1,73.4,34.7,2.28,19.1,15.3,59.7,Low,None,51.7,Average
+Nkechi Onyekwere,STU/2018/0967,20,Male,Undergraduate,100,51.3,29.7,57.0,78.2,2.91,20.5,34.5,49.5,Low,2+ Activities,61.1,Good
+Aisha Nwachukwu,STU/2020/0968,29,Female,Undergraduate,400,76.6,59.5,54.9,90.3,4.16,29.9,52.2,23.6,High,1 Activity,68.6,Good
+Ahmed Lawal,STU/2018/0969,29,Female,Undergraduate,300,96.6,66.6,28.4,46.1,3.48,28.5,35.9,70.8,Low,2+ Activities,52.3,Average
+Loveth Eze,STU/2021/0970,26,Female,Undergraduate,400,54.0,49.2,54.5,87.9,3.69,16.6,71.1,44.6,High,None,62.4,Good
+Ibrahim Abubakar,STU/2019/0971,24,Female,Undergraduate,400,34.9,56.3,82.2,84.2,3.0,15.3,84.8,49.6,Medium,1 Activity,64.4,Good
+Chioma Okafor,STU/2022/0972,16,Male,Undergraduate,400,91.6,38.0,56.1,45.6,1.26,9.7,88.3,38.6,Low,1 Activity,41.2,Pass
+Ruth Bello,STU/2021/0973,22,Female,Undergraduate,300,100.0,35.5,68.6,58.3,1.9,20.0,63.4,55.4,Medium,2+ Activities,55.3,Average
+Aisha Suleiman,STU/2023/0974,20,Female,Undergraduate,100,36.1,61.8,68.1,41.3,2.74,19.7,82.1,100.0,Low,2+ Activities,54.9,Average
+Chukwuemeka Adeleke,STU/2022/0975,20,Male,Undergraduate,300,80.3,44.9,34.7,63.9,1.98,8.2,40.9,67.0,High,1 Activity,48.3,Pass
+Anthonia Danjuma,STU/2018/0976,29,Female,Postgraduate,300,76.1,26.0,72.1,72.6,2.53,19.8,51.2,47.1,High,None,55.0,Average
+Amina Aliyu,STU/2020/0977,17,Female,Postgraduate,400,57.8,38.0,48.7,42.6,2.5,22.1,25.8,50.9,Low,1 Activity,44.5,Pass
+Wale Chukwu,STU/2021/0978,26,Female,Undergraduate,100,46.9,40.6,49.8,71.6,2.52,5.0,85.2,31.2,High,2+ Activities,46.3,Pass
+Usman Lawal,STU/2019/0979,18,Female,Undergraduate,100,89.9,71.9,97.0,75.9,4.29,15.5,100.0,37.4,Medium,1 Activity,75.9,Excellent
+Precious Nwachukwu,STU/2022/0980,22,Female,Undergraduate,400,75.2,61.2,66.9,76.1,2.95,13.5,46.3,34.2,Low,2+ Activities,59.0,Average
+Nkechi Bakare,STU/2023/0981,21,Female,Undergraduate,400,76.6,42.3,42.2,72.7,3.84,14.0,0.7,65.4,Medium,1 Activity,57.2,Average
+Aisha Fashola,STU/2021/0982,27,Male,Undergraduate,500,60.8,47.4,56.3,44.1,3.15,6.4,31.1,68.9,Medium,1 Activity,46.4,Pass
+Biodun Garba,STU/2020/0983,17,Male,Undergraduate,400,57.6,81.6,55.7,62.9,4.27,0.0,38.7,61.6,Low,1 Activity,58.5,Average
+Ahmed Aliyu,STU/2019/0984,21,Female,Undergraduate,300,27.8,74.8,88.7,71.0,3.92,8.0,21.8,67.4,High,1 Activity,61.6,Good
+Nkechi Ibrahim,STU/2019/0985,17,Male,Undergraduate,300,67.9,37.9,55.8,89.8,2.47,6.8,29.2,44.7,Low,2+ Activities,58.3,Average
+Nkechi Onyekwere,STU/2022/0986,17,Male,HND,400,97.9,78.9,99.2,65.0,4.77,16.8,60.1,37.0,Medium,1 Activity,80.1,Excellent
+Femi Adeleke,STU/2021/0987,17,Male,HND,300,56.0,56.5,29.1,72.2,2.59,17.0,71.5,36.9,Low,1 Activity,45.6,Pass
+Joy Adeyemi,STU/2021/0988,29,Male,Undergraduate,300,,72.4,54.4,49.2,3.18,16.5,3.4,36.0,High,None,52.3,Average
+Dauda Adeleke,STU/2019/0989,26,Female,Undergraduate,100,79.8,55.1,39.7,45.4,3.34,2.8,41.7,67.2,High,None,46.4,Pass
+Babatunde Onwudiwe,STU/2018/0990,18,Female,Undergraduate,200,83.2,79.3,45.1,43.2,3.44,,55.9,100.0,Low,2+ Activities,59.5,Average
+Abdul Danjuma,STU/2019/0991,17,Male,Undergraduate,400,61.5,37.1,45.5,57.9,3.72,9.1,,39.1,Medium,None,52.9,Average
+Babatunde Garba,STU/2020/0992,19,Male,HND,200,65.7,53.4,40.8,100.0,2.32,14.2,60.9,53.2,Low,2+ Activities,48.0,Pass
+Vivian Onwudiwe,STU/2021/0993,24,Male,Undergraduate,100,76.8,79.9,89.6,58.2,3.64,11.3,52.1,64.1,High,1 Activity,65.4,Good
+Nkechi Eze,STU/2022/0994,21,Female,Postgraduate,200,69.2,14.9,83.5,71.2,3.52,16.5,43.8,54.4,Low,2+ Activities,56.8,Average
+Yusuf Onyekwere,STU/2021/0995,16,Female,Undergraduate,100,90.0,57.2,63.1,74.5,3.0,21.8,33.4,66.7,High,2+ Activities,61.6,Good
+Usman Chukwu,STU/2019/0996,23,Male,HND,100,100.0,50.9,45.5,46.4,2.83,6.0,61.8,48.5,High,1 Activity,54.3,Average
+Tunde Danjuma,STU/2020/0997,27,Female,Undergraduate,200,41.2,70.3,41.3,57.6,2.27,6.3,35.9,46.4,Medium,2+ Activities,47.0,Pass
+Mercy Okafor,STU/2018/0998,29,Female,Postgraduate,500,94.1,77.3,69.8,75.6,3.43,15.1,11.7,56.4,Low,None,58.4,Average
+Joy Bakare,STU/2021/0999,22,Female,Undergraduate,300,73.9,71.1,61.0,72.3,2.41,13.3,55.6,66.5,Medium,1 Activity,62.9,Good
+Tunde Okonkwo,STU/2019/1000,25,Female,Undergraduate,100,97.0,62.3,52.1,31.1,3.21,19.9,24.0,85.6,Medium,2+ Activities,50.8,Average
+Chioma Adeyemi,STU/2023/1001,18,Male,Undergraduate,100,85.0,58.7,65.8,75.1,2.91,14.1,13.8,67.5,Medium,None,60.2,Good
+Ruth Aliyu,STU/2019/1002,16,Female,Undergraduate,300,,51.8,72.8,55.6,1.8,27.9,58.2,55.0,Medium,1 Activity,54.8,Average
+Stella Ibrahim,STU/2019/1003,20,Male,HND,200,85.7,61.8,51.9,56.1,2.16,1.3,50.9,76.6,Medium,2+ Activities,63.8,Good
+Mary Ibrahim,STU/2020/1004,28,Female,HND,400,64.9,84.3,39.3,71.9,3.36,20.7,33.3,80.0,Medium,2+ Activities,60.1,Good
+Stella Danjuma,STU/2019/1005,19,Female,HND,300,58.1,43.1,28.6,90.9,2.53,15.6,60.7,53.9,High,None,51.8,Average
+Kola Mohammed,STU/2019/1006,25,Female,Undergraduate,400,86.6,50.8,60.0,61.6,2.5,2.8,,57.1,Low,1 Activity,57.1,Average
+Aisha Onyekwere,STU/2019/1007,23,Female,Postgraduate,200,56.8,56.6,98.3,85.0,2.31,0.0,61.0,51.5,Medium,None,63.6,Good
+Abdul Okonkwo,STU/2021/1008,16,Male,Undergraduate,300,83.6,76.0,32.8,40.5,2.34,5.0,60.1,76.4,High,1 Activity,51.9,Average
+Sola Garba,STU/2019/1009,25,Female,Undergraduate,200,72.6,62.0,77.0,67.2,4.48,23.7,14.9,61.5,Low,1 Activity,60.9,Good
+Ifeoma Aliyu,STU/2020/1010,16,Female,Undergraduate,500,30.1,75.7,41.5,55.8,1.99,22.8,87.3,31.9,Medium,1 Activity,49.7,Pass
+Halima Anikulapo,STU/2023/1011,27,Female,Undergraduate,300,61.7,76.6,45.5,69.8,4.33,13.0,68.9,68.1,High,1 Activity,55.8,Average
+Abdul Nwosu,STU/2021/1012,19,Male,Undergraduate,200,78.0,68.7,73.3,60.0,2.7,11.1,31.2,89.8,Medium,None,62.5,Good
+Amina Aliyu,STU/2023/1013,23,Male,Undergraduate,200,64.7,38.8,49.9,42.2,2.41,7.2,54.7,91.4,Low,None,57.4,Average
+Segun Onyekwere,STU/2019/1014,20,Male,Undergraduate,100,26.2,87.9,60.0,49.9,3.35,12.5,59.5,50.4,Low,None,55.8,Average
+Usman Adeleke,STU/2018/1015,17,Female,Postgraduate,300,95.8,83.4,59.6,37.1,3.05,10.2,54.0,46.1,Medium,1 Activity,61.5,Good
+Joy Nwachukwu,STU/2023/1016,21,Female,Undergraduate,100,75.0,59.1,41.5,42.8,2.82,27.7,99.8,98.0,Low,2+ Activities,50.7,Average
+Emeka Anikulapo,STU/2020/1017,20,Male,Undergraduate,300,80.0,33.1,72.9,73.2,3.2,4.1,6.4,91.3,High,None,52.7,Average
+Uche Okeke,STU/2018/1018,17,Male,Undergraduate,200,,29.9,53.8,60.7,3.03,17.1,18.1,69.3,Medium,None,51.7,Average
+Chiamaka Adeyemi,STU/2020/1019,28,Female,Undergraduate,300,81.6,62.6,27.2,68.9,2.81,28.1,0.0,25.8,Low,1 Activity,44.2,Pass
+Uche Aliyu,STU/2018/1020,29,Female,Undergraduate,400,100.0,45.4,37.2,95.9,3.84,20.2,57.0,47.9,High,1 Activity,59.7,Average
+Tunde Suleiman,STU/2019/1021,26,Female,Undergraduate,400,58.8,27.1,0.0,60.0,1.7,5.0,68.6,38.1,Medium,None,34.9,Poor
+Mercy Garba,STU/2018/1022,26,Female,Undergraduate,400,100.0,29.6,56.0,75.8,2.18,1.7,64.0,96.2,Low,None,57.2,Average
+Blessing Bakare,STU/2023/1023,26,Male,Undergraduate,100,79.2,49.5,81.1,65.5,2.29,16.2,47.8,29.5,Medium,None,57.3,Average
+Bello Lawal,STU/2018/1024,18,Male,Undergraduate,100,56.4,61.5,34.1,100.0,2.05,15.2,65.2,96.1,Low,1 Activity,56.2,Average
+Mercy Anikulapo,STU/2020/1025,24,Female,Postgraduate,300,100.0,83.3,66.7,13.7,3.08,23.9,47.6,57.9,High,None,61.2,Good
+Ibrahim Okonkwo,STU/2019/1026,22,Female,Undergraduate,200,79.0,66.7,63.6,52.8,3.45,18.4,73.5,36.0,Medium,1 Activity,56.3,Average
+Ahmed Onyekwere,STU/2020/1027,22,Female,Undergraduate,200,84.2,51.1,40.0,76.1,1.23,10.1,82.7,79.7,High,1 Activity,53.2,Average
+Ifeoma Mohammed,STU/2019/1028,26,Female,Postgraduate,100,67.2,64.8,85.7,52.2,2.57,9.6,31.7,72.6,Medium,1 Activity,60.1,Good
+Lanre Garba,STU/2023/1029,21,Female,Undergraduate,200,57.7,63.2,49.5,74.6,2.71,3.6,47.8,34.7,High,None,52.7,Average
+Ruth Chukwu,STU/2022/1030,23,Male,Undergraduate,100,75.0,71.3,95.2,64.0,2.74,15.0,,59.5,Low,1 Activity,58.4,Average
+Gbemi Nwosu,STU/2021/1031,19,Male,HND,400,100.0,57.3,22.3,79.7,1.84,2.8,90.6,87.5,High,1 Activity,61.1,Good
+Aisha Ofili,STU/2023/1032,23,Male,Undergraduate,100,66.4,76.7,49.6,45.8,2.72,21.3,34.7,51.8,High,2+ Activities,51.1,Average
+Chiamaka Obi,STU/2023/1033,19,Male,Undergraduate,300,71.5,72.8,52.0,67.9,2.18,18.7,82.4,93.6,Medium,None,60.5,Good
+Lanre Suleiman,STU/2021/1034,23,Female,Undergraduate,100,,59.5,54.2,72.9,2.7,,18.3,45.1,High,1 Activity,60.3,Good
+Ike Chukwu,STU/2020/1035,24,Female,Undergraduate,300,66.6,55.9,69.3,67.2,1.45,3.4,86.1,27.6,High,1 Activity,52.8,Average
+Chidinma Anikulapo,STU/2023/1036,18,Male,Undergraduate,200,81.2,74.6,100.0,67.5,2.71,12.8,76.3,60.9,High,None,71.9,Good
+Sola Adeleke,STU/2019/1037,18,Male,Undergraduate,400,87.8,45.2,64.1,85.4,2.35,10.9,51.1,30.8,Medium,2+ Activities,55.2,Average
+Femi Chukwu,STU/2018/1038,26,Female,Undergraduate,400,68.5,30.9,55.5,36.4,2.76,,77.9,62.5,Medium,1 Activity,57.0,Average
+Sandra Aliyu,STU/2023/1039,28,Male,Undergraduate,200,,30.8,33.1,67.1,3.27,18.2,42.5,60.1,High,1 Activity,48.9,Pass
+Musa Ibrahim,STU/2021/1040,17,Female,Undergraduate,500,83.9,43.7,17.2,44.4,2.96,9.9,,44.8,High,None,46.3,Pass
+Nkechi Bello,STU/2023/1041,28,Female,Undergraduate,500,64.8,69.9,78.4,77.9,3.71,10.2,97.7,97.6,Medium,None,65.5,Good
+Ike Anikulapo,STU/2020/1042,25,Female,Undergraduate,400,86.7,50.4,44.1,50.8,2.68,19.4,41.5,59.9,High,1 Activity,55.6,Average
+Oluwaseun Anikulapo,STU/2020/1043,18,Male,Undergraduate,400,62.2,61.7,100.0,23.0,3.56,5.0,71.9,77.3,Low,None,57.2,Average
+Lanre Anikulapo,STU/2020/1044,18,Male,Undergraduate,100,59.8,49.1,72.4,78.3,4.01,8.0,82.7,78.6,High,1 Activity,58.9,Average
+Halima Okafor,STU/2019/1045,20,Female,HND,300,44.5,49.2,61.8,60.4,3.25,14.0,75.2,95.2,Low,1 Activity,51.2,Average
+Gbemi Adeleke,STU/2023/1046,20,Female,Undergraduate,100,62.9,39.5,62.9,71.1,2.98,21.2,70.0,35.8,Low,1 Activity,51.8,Average
+Biodun Nwachukwu,STU/2020/1047,17,Male,Undergraduate,100,57.3,56.3,63.1,89.3,3.37,6.2,72.0,24.9,Medium,1 Activity,60.2,Good
+Ibrahim Onwudiwe,STU/2022/1048,27,Female,Undergraduate,500,64.8,54.8,41.1,71.3,3.28,28.3,81.4,94.5,Medium,None,70.4,Good
+Dauda Okeke,STU/2018/1049,25,Male,Undergraduate,200,83.0,65.4,20.0,67.9,3.9,3.2,62.9,71.6,Medium,1 Activity,66.0,Good
+Mercy Abubakar,STU/2020/1050,28,Female,HND,400,40.9,63.2,44.0,64.2,3.71,26.4,54.0,62.5,Medium,1 Activity,54.2,Average
+Anthonia Anikulapo,STU/2019/1051,21,Male,Undergraduate,400,36.5,54.5,54.6,45.5,3.73,23.6,20.8,57.3,Medium,None,53.6,Average
+Ibrahim Ibrahim,STU/2018/1052,20,Female,HND,400,58.5,30.9,42.0,61.3,3.04,2.6,63.0,53.8,Low,None,40.0,Pass
+Chioma Abubakar,STU/2018/1053,21,Male,Undergraduate,500,80.3,77.3,29.3,98.6,3.31,0.9,80.7,77.2,High,None,54.4,Average
+Kayode Ibrahim,STU/2021/1054,16,Male,Postgraduate,100,77.2,56.5,40.0,58.6,3.29,19.8,27.5,31.1,Medium,None,51.8,Average
+Tunde Okonkwo,STU/2020/1055,20,Male,Undergraduate,100,58.2,59.4,75.7,62.3,1.91,11.0,49.3,69.5,Medium,2+ Activities,58.6,Average
+Tunde Anikulapo,STU/2020/1056,24,Male,HND,200,93.0,86.8,70.0,86.4,3.96,5.9,,80.6,Medium,1 Activity,77.1,Excellent
+Anthonia Suleiman,STU/2023/1057,27,Female,Undergraduate,100,60.1,74.3,58.4,38.8,1.5,28.5,92.8,74.9,High,None,60.3,Good
+Mercy Eze,STU/2019/1058,25,Female,Undergraduate,100,80.3,66.0,66.7,75.5,3.64,,26.0,58.6,Medium,None,60.2,Good
+Wale Lawal,STU/2022/1059,29,Male,Undergraduate,200,65.5,58.0,32.4,38.0,3.24,8.2,74.8,59.9,Low,None,47.8,Pass
+Joy Ofili,STU/2023/1060,17,Male,Undergraduate,400,56.4,57.8,39.1,71.8,2.74,9.1,46.1,85.7,High,1 Activity,55.9,Average
+Kayode Onyekwere,STU/2022/1061,16,Female,HND,300,61.1,62.3,61.2,64.6,3.35,0.0,38.2,71.6,High,None,61.1,Good
+Chiamaka Danjuma,STU/2021/1062,29,Female,Undergraduate,200,85.2,65.3,34.9,75.4,3.38,14.7,32.0,95.1,Medium,1 Activity,55.0,Average
+Mercy Abubakar,STU/2022/1063,25,Female,Undergraduate,300,78.5,88.8,57.2,47.8,1.82,6.7,38.6,25.1,High,1 Activity,56.0,Average
+Halima Danjuma,STU/2019/1064,28,Male,Postgraduate,100,,100.0,29.7,55.9,4.27,20.5,67.5,78.1,Medium,2+ Activities,69.2,Good
+Amina Adeleke,STU/2021/1065,26,Male,Undergraduate,100,,63.2,22.0,76.3,3.06,21.5,49.3,43.8,Medium,None,54.0,Average
+Ifeoma Bakare,STU/2020/1066,24,Female,HND,400,43.0,19.2,69.7,56.3,5.0,15.9,72.9,58.5,Medium,1 Activity,52.5,Average
+Patience Mohammed,STU/2022/1067,25,Male,Postgraduate,300,100.0,40.9,75.5,77.8,3.71,15.9,27.0,87.5,Medium,1 Activity,64.9,Good
+Bello Ofili,STU/2019/1068,24,Female,Undergraduate,400,78.8,90.6,42.4,68.6,3.04,15.3,72.4,40.0,Low,1 Activity,63.6,Good
+Joy Okafor,STU/2019/1069,24,Male,HND,100,81.3,70.9,24.6,57.4,2.38,8.4,65.8,100.0,Low,2+ Activities,49.7,Pass
+Usman Chukwu,STU/2020/1070,21,Female,Undergraduate,400,65.2,65.7,10.8,59.6,2.9,9.1,17.3,82.1,Low,1 Activity,40.1,Pass
+Ifeoma Okeke,STU/2019/1071,23,Male,Undergraduate,300,92.0,55.0,91.8,65.1,3.13,24.6,92.7,71.6,Low,1 Activity,78.3,Excellent
+Wale Danjuma,STU/2021/1072,29,Female,Undergraduate,300,52.3,36.6,57.2,61.3,4.32,19.9,63.5,41.4,Medium,1 Activity,55.6,Average
+Ahmed Aliyu,STU/2021/1073,26,Male,Undergraduate,300,83.0,88.2,42.8,77.4,4.1,15.6,74.1,56.4,Medium,2+ Activities,71.7,Good
+Ibrahim Onyekwere,STU/2023/1074,28,Female,Postgraduate,400,,43.2,47.7,58.7,3.41,18.8,83.9,52.8,Low,1 Activity,50.8,Average
+Rasheed Okeke,STU/2018/1075,16,Male,HND,300,84.2,71.1,16.7,55.3,4.59,13.5,79.2,35.4,High,2+ Activities,61.9,Good
+Ike Adeleke,STU/2020/1076,25,Female,Undergraduate,300,52.6,34.6,67.4,80.5,1.19,15.5,51.8,81.9,Low,None,50.2,Average
+Rasheed Lawal,STU/2019/1077,19,Female,Undergraduate,500,77.0,54.1,95.0,57.8,3.42,18.8,,51.9,Medium,1 Activity,68.7,Good
+Ifeoma Obi,STU/2022/1078,16,Female,HND,400,96.4,75.9,39.3,55.8,4.13,0.0,9.7,56.5,Low,2+ Activities,52.4,Average
+Bello Danjuma,STU/2023/1079,23,Female,Undergraduate,200,86.8,53.5,100.0,22.7,3.49,21.2,64.8,57.5,Low,None,55.2,Average
+Biodun Adeleke,STU/2021/1080,16,Female,Undergraduate,400,94.0,51.4,52.7,47.3,1.8,20.7,98.3,55.7,Low,2+ Activities,53.2,Average
+Biodun Abubakar,STU/2020/1081,18,Female,Undergraduate,200,92.2,58.2,88.3,50.7,4.25,7.8,37.6,70.6,Medium,None,59.8,Average
+Sola Suleiman,STU/2020/1082,28,Male,HND,100,62.6,34.0,61.1,55.8,3.69,24.0,77.9,47.5,High,2+ Activities,48.2,Pass
+Loveth Onyekwere,STU/2021/1083,19,Female,Undergraduate,300,82.8,30.6,61.1,52.7,3.31,0.0,99.3,80.4,Low,1 Activity,55.7,Average
+Halima Okeke,STU/2018/1084,23,Male,Postgraduate,500,41.0,70.9,91.9,81.7,3.08,16.8,72.2,48.1,Medium,None,59.0,Average
+Dauda Bakare,STU/2020/1085,21,Male,Postgraduate,500,59.6,50.4,70.7,51.8,4.79,14.3,80.6,59.4,Low,2+ Activities,65.5,Good
+Ngozi Garba,STU/2019/1086,29,Male,Undergraduate,200,97.1,70.7,62.5,53.1,3.4,11.5,15.8,33.9,High,None,65.3,Good
+Uche Onwudiwe,STU/2022/1087,25,Male,Undergraduate,300,,78.1,16.2,67.6,2.78,14.2,31.6,81.4,High,None,45.6,Pass
+Adaeze Onwudiwe,STU/2022/1088,27,Female,Postgraduate,100,38.4,79.6,24.9,46.3,2.27,18.7,90.7,86.5,Low,None,49.7,Pass
+Fatima Obi,STU/2021/1089,22,Female,Undergraduate,500,100.0,28.8,64.2,91.6,3.68,0.0,79.0,74.3,Medium,1 Activity,70.4,Good
+Vivian Aliyu,STU/2020/1090,29,Female,Postgraduate,500,82.1,45.4,84.4,78.6,3.89,22.0,67.4,63.4,High,2+ Activities,67.5,Good
+Femi Abubakar,STU/2022/1091,23,Male,HND,300,85.8,67.7,57.6,45.1,3.05,,48.4,59.3,Medium,None,59.1,Average
+Segun Anikulapo,STU/2020/1092,17,Male,Undergraduate,400,54.4,68.0,43.2,82.2,2.5,22.1,62.1,28.8,Medium,1 Activity,65.3,Good
+Vivian Okonkwo,STU/2021/1093,28,Male,Postgraduate,400,77.1,98.5,18.2,85.8,4.2,19.1,,32.9,Medium,None,59.0,Average
+Halima Abubakar,STU/2018/1094,25,Male,Postgraduate,300,76.6,41.7,39.3,45.6,2.2,10.6,52.5,75.0,Medium,1 Activity,42.2,Pass
+Sandra Nwosu,STU/2022/1095,29,Male,Postgraduate,100,57.2,79.0,57.6,45.2,4.77,13.4,72.5,56.4,High,None,64.7,Good
+Ahmed Chukwu,STU/2019/1096,26,Male,Undergraduate,200,68.9,64.7,37.9,54.6,2.34,,71.8,32.8,High,None,59.7,Average
+Tunde Eze,STU/2023/1097,23,Male,Undergraduate,300,45.0,28.5,35.7,40.9,1.85,26.9,38.4,31.9,High,None,34.6,Poor
+Abdul Fashola,STU/2021/1098,18,Female,Undergraduate,300,65.8,48.1,54.0,51.7,1.96,4.9,40.3,72.7,Medium,1 Activity,57.5,Average
+Tunde Okeke,STU/2023/1099,22,Female,Undergraduate,200,89.5,62.7,84.0,58.2,2.0,10.5,93.2,77.5,Medium,2+ Activities,65.4,Good
+Gbenga Nwachukwu,STU/2018/1100,18,Female,Undergraduate,500,58.6,27.3,68.7,73.6,2.79,1.3,69.3,29.3,Medium,1 Activity,43.3,Pass
+Ahmed Okafor,STU/2019/1101,22,Female,Postgraduate,100,100.0,20.7,60.7,66.4,2.58,15.0,38.0,63.0,High,None,59.5,Average
+Ngozi Adeleke,STU/2023/1102,29,Female,Undergraduate,300,46.2,26.3,58.8,62.5,3.92,9.0,47.2,67.8,Medium,1 Activity,48.4,Pass
+Bello Onwudiwe,STU/2019/1103,26,Male,Undergraduate,300,67.3,62.7,66.0,56.8,3.79,10.0,30.4,48.3,Medium,2+ Activities,60.2,Good
+Oluwaseun Fashola,STU/2022/1104,27,Female,Undergraduate,300,60.2,49.3,52.8,42.8,2.8,25.9,81.7,84.8,Low,None,46.0,Pass
+Adaeze Ibrahim,STU/2020/1105,28,Female,Postgraduate,300,68.8,46.8,46.8,75.1,5.0,7.4,48.7,53.1,Medium,None,55.0,Average
+Femi Onwudiwe,STU/2021/1106,17,Male,Undergraduate,200,96.7,47.5,69.8,74.7,2.79,12.7,,25.7,High,None,54.1,Average
+Segun Bello,STU/2019/1107,25,Male,Undergraduate,100,54.3,32.4,50.5,54.5,2.91,10.3,76.0,56.1,Medium,1 Activity,41.7,Pass
+Fatima Mohammed,STU/2022/1108,21,Female,Undergraduate,300,63.9,49.8,31.2,46.3,1.85,,13.0,87.4,Low,1 Activity,41.6,Pass
+Bello Bakare,STU/2018/1109,18,Male,Postgraduate,300,83.8,25.2,83.9,91.5,2.93,36.2,54.1,53.1,Low,1 Activity,66.2,Good
+Tunde Nwachukwu,STU/2019/1110,18,Female,Undergraduate,100,73.7,79.4,17.6,69.2,3.27,0.1,54.7,39.1,Medium,None,49.5,Pass
+Loveth Ibrahim,STU/2018/1111,24,Female,Undergraduate,400,75.2,88.5,85.4,71.7,1.93,19.2,47.9,72.6,High,None,62.1,Good
+Ngozi Chukwu,STU/2021/1112,22,Male,HND,200,54.6,16.1,65.1,72.5,2.55,33.4,41.3,65.2,High,2+ Activities,47.3,Pass
+Sola Danjuma,STU/2022/1113,20,Male,Postgraduate,300,70.7,49.6,35.6,44.6,3.29,22.6,37.2,59.9,High,None,50.9,Average
+Chioma Onyekwere,STU/2018/1114,27,Male,HND,400,92.4,50.7,55.5,90.5,2.53,14.4,,69.5,Medium,2+ Activities,62.5,Good
+Tunde Bakare,STU/2020/1115,25,Male,Undergraduate,100,43.0,54.9,46.4,58.1,2.34,4.6,29.7,46.2,Medium,1 Activity,46.6,Pass
+Vivian Adeyemi,STU/2023/1116,22,Male,Undergraduate,100,59.4,76.0,71.2,79.0,3.7,24.4,,48.0,Medium,None,72.9,Good
+Dauda Ibrahim,STU/2018/1117,24,Female,HND,400,39.3,49.6,70.8,89.8,1.85,21.5,41.2,74.6,Medium,1 Activity,58.2,Average
+Chiamaka Onwudiwe,STU/2018/1118,16,Male,Undergraduate,300,81.7,56.4,64.2,66.4,2.02,1.8,42.8,40.7,Medium,2+ Activities,56.1,Average
+Musa Abubakar,STU/2022/1119,22,Male,Postgraduate,300,94.1,100.0,69.9,44.9,3.16,11.4,59.9,92.3,Medium,1 Activity,78.3,Excellent
+Sandra Suleiman,STU/2022/1120,21,Male,Undergraduate,400,68.7,56.0,52.7,22.6,3.76,4.4,42.6,84.6,Medium,2+ Activities,49.9,Pass
+Adaeze Anikulapo,STU/2019/1121,25,Female,Undergraduate,400,53.9,89.8,90.2,64.3,3.27,0.0,86.7,37.1,Low,None,75.7,Excellent
+Bello Bello,STU/2023/1122,29,Male,Undergraduate,500,54.4,67.0,79.5,69.3,2.8,4.2,51.5,89.5,Low,1 Activity,66.1,Good
+Ifeoma Fashola,STU/2018/1123,27,Male,Undergraduate,300,66.7,48.0,45.5,55.1,2.73,14.8,81.2,63.0,High,2+ Activities,52.1,Average
+Gbenga Nwachukwu,STU/2018/1124,24,Female,Undergraduate,200,66.6,45.0,71.2,67.3,3.91,18.6,36.0,87.7,High,2+ Activities,65.1,Good
+Aisha Chukwu,STU/2022/1125,16,Female,Undergraduate,200,88.4,57.9,69.5,72.3,3.77,11.4,35.4,62.7,Medium,1 Activity,62.8,Good
+Patience Lawal,STU/2020/1126,28,Male,HND,100,60.0,37.7,49.8,81.9,3.04,25.0,13.4,56.5,Low,1 Activity,45.9,Pass
+Musa Obi,STU/2022/1127,19,Female,Undergraduate,300,79.8,42.5,48.2,61.1,2.75,22.2,42.7,54.4,High,None,52.7,Average
+Tunde Ofili,STU/2020/1128,24,Male,Undergraduate,200,66.5,50.4,79.3,64.2,3.03,13.0,49.2,11.0,Medium,None,50.9,Average
+Stella Anikulapo,STU/2023/1129,19,Male,Postgraduate,500,58.6,63.3,54.7,62.0,2.35,12.0,56.9,78.5,Medium,None,55.0,Average
+Chukwuemeka Bakare,STU/2022/1130,25,Male,Undergraduate,300,66.1,90.9,60.2,65.6,2.86,,72.4,45.9,Medium,None,66.5,Good
+Ngozi Bakare,STU/2023/1131,18,Male,Undergraduate,300,78.1,49.3,83.0,56.3,2.56,13.9,70.6,79.2,Medium,None,59.5,Average
+Ngozi Obi,STU/2021/1132,24,Female,Postgraduate,200,88.5,66.3,100.0,56.2,2.91,,83.4,93.5,Medium,None,69.8,Good
+Fatima Bello,STU/2018/1133,28,Male,Undergraduate,100,67.5,28.7,44.5,57.3,2.59,11.6,32.8,48.4,High,2+ Activities,46.6,Pass
+Femi Garba,STU/2023/1134,17,Male,Postgraduate,100,50.3,77.1,50.6,67.7,3.47,19.3,55.8,47.3,Low,1 Activity,61.6,Good
+Fatima Bakare,STU/2020/1135,19,Female,Postgraduate,200,90.0,27.0,56.5,50.6,3.74,24.5,30.0,80.2,Low,1 Activity,54.2,Average
+Ike Okonkwo,STU/2021/1136,21,Female,HND,100,55.8,72.4,56.9,57.3,2.66,21.7,65.4,50.6,Low,2+ Activities,55.7,Average
+Tunde Aliyu,STU/2020/1137,17,Male,Undergraduate,300,76.7,56.5,62.5,95.7,2.27,16.7,100.0,86.3,Medium,None,68.1,Good
+Ibrahim Chukwu,STU/2019/1138,23,Female,Undergraduate,400,71.6,55.8,45.2,80.2,3.64,25.7,,46.2,Low,1 Activity,57.8,Average
+Yusuf Adeyemi,STU/2019/1139,23,Male,Undergraduate,400,69.1,52.6,29.7,48.7,3.17,17.4,,88.8,Low,1 Activity,42.0,Pass
+Ahmed Anikulapo,STU/2018/1140,16,Female,Undergraduate,300,63.2,34.6,90.1,79.7,2.67,13.3,81.2,53.9,Low,None,58.7,Average
+Kayode Adeleke,STU/2021/1141,27,Female,HND,100,83.2,35.5,67.2,75.7,4.24,,32.7,66.6,Low,1 Activity,59.5,Average
+Ike Onwudiwe,STU/2021/1142,18,Female,Undergraduate,400,10.0,73.1,46.6,63.2,2.49,19.8,,79.6,Medium,None,51.2,Average
+Femi Fashola,STU/2019/1143,25,Male,Undergraduate,400,92.5,58.2,63.7,53.0,1.21,24.4,46.0,70.2,Low,None,54.6,Average
+Anthonia Fashola,STU/2018/1144,24,Male,Postgraduate,100,55.6,52.5,91.7,51.0,2.36,,52.0,81.4,Medium,None,48.5,Pass
+Dauda Chukwu,STU/2023/1145,20,Male,Undergraduate,400,,66.0,39.2,68.8,4.46,7.1,45.2,30.9,Medium,2+ Activities,52.6,Average
+Ruth Adeleke,STU/2019/1146,21,Male,Undergraduate,200,,59.8,59.2,50.6,2.71,7.5,49.4,51.9,Low,1 Activity,49.9,Pass
+Adaeze Garba,STU/2021/1147,19,Male,Undergraduate,400,94.9,43.7,27.2,83.7,2.54,15.5,83.9,61.3,Medium,1 Activity,55.3,Average
+Ifeoma Fashola,STU/2020/1148,25,Female,HND,500,75.6,100.0,52.6,88.5,3.02,28.6,,44.7,High,1 Activity,74.2,Good
+Ibrahim Obi,STU/2021/1149,17,Male,Undergraduate,100,57.1,71.3,67.3,64.3,3.91,4.9,40.0,79.4,High,None,54.9,Average
+Adaeze Suleiman,STU/2018/1150,26,Male,HND,400,43.1,60.3,32.7,84.4,2.93,21.2,56.7,49.8,Low,1 Activity,49.5,Pass
+Blessing Ibrahim,STU/2021/1151,23,Female,Undergraduate,300,65.7,48.8,51.3,58.0,3.53,4.4,1.9,44.7,High,1 Activity,49.6,Pass
+Gbenga Okeke,STU/2022/1152,26,Male,Postgraduate,500,36.8,75.1,71.0,52.9,2.83,30.9,34.6,78.8,Medium,None,54.3,Average
+Anthonia Bello,STU/2021/1153,28,Female,Postgraduate,200,60.7,43.8,66.8,83.7,3.54,1.2,86.2,39.1,Low,1 Activity,58.7,Average
+Ike Ibrahim,STU/2022/1154,21,Male,Undergraduate,400,66.7,42.3,31.8,91.9,3.16,19.9,51.4,40.1,Low,None,54.5,Average
+Halima Lawal,STU/2019/1155,20,Male,Undergraduate,100,59.6,88.5,62.5,98.4,2.64,21.0,43.0,70.2,Medium,None,63.5,Good
+Tunde Adeyemi,STU/2023/1156,24,Male,Undergraduate,200,72.8,58.6,66.2,70.7,3.23,19.0,59.3,86.9,Medium,2+ Activities,64.7,Good
+Patience Adeyemi,STU/2022/1157,16,Male,Postgraduate,100,67.8,44.3,57.2,79.7,2.51,7.0,73.4,63.2,Medium,1 Activity,55.1,Average
+Adaeze Okafor,STU/2021/1158,20,Female,Undergraduate,500,66.1,58.1,76.8,70.3,1.76,5.5,88.2,27.7,Medium,1 Activity,52.9,Average
+Emeka Chukwu,STU/2023/1159,21,Male,Undergraduate,400,28.4,73.3,43.2,88.9,2.98,24.2,43.7,73.7,Low,1 Activity,55.6,Average
+Rasheed Onwudiwe,STU/2023/1160,20,Female,Undergraduate,400,48.7,69.2,63.2,72.4,1.84,22.4,44.3,48.1,Medium,1 Activity,57.5,Average
+Emeka Okafor,STU/2021/1161,21,Male,Undergraduate,500,83.6,75.5,31.7,78.7,3.54,22.3,49.4,82.4,Medium,1 Activity,67.7,Good
+Ike Anikulapo,STU/2021/1162,21,Male,Undergraduate,100,86.5,35.5,23.0,45.7,2.97,23.2,80.7,52.4,Medium,1 Activity,54.3,Average
+Mercy Fashola,STU/2018/1163,22,Female,Undergraduate,200,38.9,75.1,70.6,61.1,4.28,1.7,56.4,82.9,High,1 Activity,59.9,Average
+Grace Nwachukwu,STU/2019/1164,19,Male,Undergraduate,100,57.3,54.8,55.4,78.8,2.7,1.5,100.0,51.6,High,2+ Activities,55.3,Average
+Ngozi Ibrahim,STU/2022/1165,29,Female,HND,100,91.3,59.6,45.7,77.3,2.98,8.6,51.0,46.2,High,2+ Activities,59.3,Average
+Amina Okeke,STU/2020/1166,26,Female,Undergraduate,100,,79.8,33.7,80.3,1.68,10.2,,21.6,Medium,1 Activity,52.1,Average
+Blessing Fashola,STU/2022/1167,29,Female,Undergraduate,200,70.0,70.6,71.5,67.1,2.01,9.3,32.7,46.8,Medium,2+ Activities,62.7,Good
+Joy Lawal,STU/2021/1168,29,Female,HND,200,98.0,64.3,24.8,53.9,1.49,16.2,20.3,63.5,Medium,1 Activity,48.0,Pass
+Bello Fashola,STU/2020/1169,29,Male,Postgraduate,100,,22.3,74.9,64.0,3.97,22.9,52.5,62.0,Medium,1 Activity,57.6,Average
+Babatunde Bello,STU/2020/1170,23,Male,HND,100,62.9,57.2,64.0,65.8,2.59,11.6,83.5,72.2,Medium,None,60.5,Good
+Mary Mohammed,STU/2022/1171,22,Male,Undergraduate,100,69.2,43.9,25.8,69.1,4.19,7.5,43.1,84.9,High,1 Activity,52.9,Average
+Joy Garba,STU/2022/1172,24,Female,Undergraduate,500,100.0,70.8,57.5,48.5,0.59,20.5,39.6,60.6,Medium,2+ Activities,55.6,Average
+Chiamaka Abubakar,STU/2022/1173,22,Female,Undergraduate,400,80.0,75.8,100.0,60.5,4.39,11.7,80.6,61.4,Low,2+ Activities,75.5,Excellent
+Ike Garba,STU/2022/1174,18,Male,Postgraduate,500,72.3,52.6,78.8,63.5,2.94,14.9,72.6,82.3,High,2+ Activities,63.0,Good
+Yusuf Obi,STU/2019/1175,18,Female,Undergraduate,200,62.6,46.0,38.4,26.9,3.31,11.3,35.2,64.6,High,None,40.7,Pass
+Usman Garba,STU/2018/1176,23,Male,Undergraduate,200,81.7,86.0,69.3,79.2,2.04,16.7,33.7,41.5,Medium,1 Activity,70.8,Good
+Ifeoma Aliyu,STU/2018/1177,20,Female,Undergraduate,400,83.9,47.1,26.7,67.8,3.47,5.9,75.7,49.6,Medium,None,48.1,Pass
+Halima Mohammed,STU/2022/1178,19,Male,Undergraduate,200,,36.5,27.6,69.5,2.66,19.8,14.2,17.4,Low,None,47.1,Pass
+Sola Eze,STU/2018/1179,23,Female,Undergraduate,200,84.4,43.0,53.7,56.2,1.93,13.7,82.0,41.3,Medium,1 Activity,53.4,Average
+Vivian Eze,STU/2022/1180,21,Female,Undergraduate,100,69.3,48.0,66.0,75.0,1.91,7.9,72.3,26.2,Low,1 Activity,51.3,Average
+Abdul Garba,STU/2022/1181,17,Male,Undergraduate,100,72.4,42.5,71.2,50.9,1.9,18.2,0.0,67.0,Low,1 Activity,51.4,Average
+Wale Bello,STU/2022/1182,19,Male,Undergraduate,200,56.1,73.2,71.5,53.5,3.34,7.9,55.4,84.2,Medium,1 Activity,63.6,Good
+Mercy Bello,STU/2023/1183,27,Male,HND,200,64.8,18.4,64.9,75.7,2.43,8.2,5.5,41.2,Medium,None,52.8,Average
+Ike Nwachukwu,STU/2019/1184,26,Male,Postgraduate,300,53.5,42.1,22.7,71.1,1.52,4.4,24.9,41.9,Medium,None,32.6,Poor
+Ibrahim Nwachukwu,STU/2021/1185,19,Male,HND,100,52.6,57.1,53.8,43.3,3.33,0.4,42.4,78.9,High,2+ Activities,50.7,Average
+Babatunde Fashola,STU/2018/1186,21,Female,Postgraduate,100,78.8,61.8,74.4,91.8,1.04,18.3,23.3,51.0,Low,None,63.5,Good
+Amina Mohammed,STU/2018/1187,21,Female,Undergraduate,400,,88.5,63.9,52.1,4.2,,100.0,65.1,Medium,None,71.5,Good
+Femi Bakare,STU/2019/1188,16,Female,Undergraduate,100,48.6,85.8,58.6,62.7,4.79,10.4,76.6,74.9,Medium,2+ Activities,68.4,Good
+Rasheed Ibrahim,STU/2019/1189,29,Male,Undergraduate,200,100.0,29.2,61.6,94.7,1.82,7.6,89.2,45.8,Low,2+ Activities,64.0,Good
+Uche Anikulapo,STU/2022/1190,23,Female,Undergraduate,400,51.8,23.7,61.3,30.0,3.95,0.0,51.5,46.2,Medium,1 Activity,43.7,Pass
+Ibrahim Aliyu,STU/2022/1191,21,Female,Undergraduate,100,91.7,58.4,15.7,36.0,3.31,0.0,55.8,49.9,Medium,None,35.7,Poor
+Anthonia Mohammed,STU/2023/1192,18,Male,Undergraduate,100,45.4,45.9,78.1,72.5,2.55,19.8,,28.9,Medium,None,56.0,Average
+Chidinma Okeke,STU/2023/1193,29,Female,Undergraduate,200,80.2,36.5,52.8,22.9,2.59,0.0,,69.7,High,2+ Activities,54.6,Average
+Loveth Bakare,STU/2021/1194,24,Female,Undergraduate,200,67.5,58.3,69.2,30.3,3.59,4.8,70.3,72.0,Medium,2+ Activities,57.6,Average
+Loveth Okeke,STU/2018/1195,17,Male,Undergraduate,300,,62.2,8.9,85.0,2.96,16.3,32.2,61.6,High,1 Activity,46.3,Pass
+Bello Nwachukwu,STU/2019/1196,26,Male,Undergraduate,400,75.5,42.9,88.2,58.0,0.67,14.7,32.1,87.2,Medium,None,58.4,Average
+Segun Eze,STU/2021/1197,23,Male,Postgraduate,100,73.1,46.8,31.9,100.0,4.87,16.6,61.5,54.8,Low,None,63.7,Good
+Sandra Anikulapo,STU/2018/1198,25,Male,Undergraduate,300,57.4,44.3,100.0,47.4,3.39,14.1,64.3,72.4,Medium,None,61.3,Good
+Loveth Okonkwo,STU/2021/1199,18,Female,Undergraduate,300,56.6,50.6,97.4,59.6,2.95,11.1,30.1,69.7,Low,1 Activity,61.5,Good
+Musa Garba,STU/2021/1200,28,Female,Undergraduate,100,43.7,67.7,28.5,74.2,2.35,4.9,64.0,44.0,Medium,None,43.7,Pass
+Chukwuemeka Nwosu,STU/2022/1201,27,Female,Undergraduate,300,77.5,38.6,71.3,73.0,2.83,8.9,24.5,83.1,Medium,2+ Activities,55.6,Average
+Mercy Lawal,STU/2021/1202,20,Male,Undergraduate,200,49.4,46.5,34.7,60.7,4.14,11.7,55.3,62.6,Medium,None,49.7,Pass
+Ruth Fashola,STU/2022/1203,21,Male,Undergraduate,200,72.1,50.8,42.2,54.0,3.24,0.0,19.1,79.5,Low,1 Activity,52.6,Average
+Ahmed Ofili,STU/2018/1204,25,Female,Undergraduate,100,82.7,57.9,42.7,68.9,3.34,7.7,88.2,34.0,Medium,None,54.7,Average
+Sandra Okafor,STU/2023/1205,21,Female,Undergraduate,200,75.7,63.0,64.0,88.4,1.88,11.0,47.2,62.2,Low,1 Activity,58.9,Average
+Usman Adeyemi,STU/2018/1206,19,Male,HND,200,59.0,94.8,61.5,78.0,2.69,8.5,37.7,50.8,Medium,None,67.5,Good
+Dauda Danjuma,STU/2022/1207,18,Male,HND,400,88.4,68.3,31.0,54.2,3.05,11.3,26.4,43.0,High,2+ Activities,63.0,Good
+Ahmed Obi,STU/2023/1208,19,Female,Undergraduate,100,64.7,68.7,63.8,48.1,3.63,19.3,24.0,88.2,High,1 Activity,56.2,Average
+Segun Abubakar,STU/2020/1209,16,Male,Undergraduate,200,48.0,53.2,50.9,53.2,2.63,20.3,65.9,63.9,Low,None,50.6,Average
+Tunde Chukwu,STU/2023/1210,19,Male,Postgraduate,200,66.9,40.4,18.6,43.3,3.84,26.1,80.1,30.5,Medium,2+ Activities,41.4,Pass
+Musa Garba,STU/2021/1211,16,Female,Undergraduate,400,82.6,48.5,46.3,67.5,1.97,1.9,77.6,50.1,Medium,1 Activity,51.6,Average
+Fatima Fashola,STU/2018/1212,27,Male,Undergraduate,300,59.9,45.2,88.2,78.8,3.06,10.6,89.9,78.8,High,2+ Activities,64.5,Good
+Grace Nwosu,STU/2021/1213,16,Male,Undergraduate,300,87.8,65.1,47.0,63.8,2.91,23.8,98.7,42.9,Medium,2+ Activities,66.8,Good
+Aisha Mohammed,STU/2023/1214,25,Male,HND,400,58.1,28.3,18.3,94.2,1.64,0.0,78.9,40.9,Low,2+ Activities,37.1,Poor
+Mercy Abubakar,STU/2020/1215,29,Male,Undergraduate,400,60.6,68.7,71.3,95.2,2.96,4.6,42.4,57.1,Medium,None,57.3,Average
+Oluwaseun Lawal,STU/2021/1216,21,Female,Undergraduate,200,53.2,55.9,36.4,70.2,2.48,9.1,59.2,69.4,Medium,None,55.5,Average
+Ibrahim Okonkwo,STU/2020/1217,20,Male,Postgraduate,300,84.3,71.2,59.3,76.9,4.27,30.4,0.0,45.4,Medium,2+ Activities,63.3,Good
+Bello Nwosu,STU/2019/1218,29,Male,Undergraduate,400,71.0,45.0,51.6,49.7,2.63,6.2,70.9,67.8,High,1 Activity,52.2,Average
+Vivian Anikulapo,STU/2020/1219,26,Female,Undergraduate,500,54.4,41.8,90.2,58.9,3.32,,58.7,60.7,Low,None,60.4,Good
+Rasheed Adeyemi,STU/2018/1220,19,Female,HND,400,64.9,50.7,51.6,86.6,1.89,13.8,94.9,63.1,High,2+ Activities,54.7,Average
+Ahmed Okafor,STU/2023/1221,28,Female,Undergraduate,200,16.7,50.2,32.1,55.2,3.21,4.8,36.4,11.9,Low,None,34.9,Poor
+Chukwuemeka Eze,STU/2022/1222,26,Male,Undergraduate,100,,72.5,45.6,90.3,2.63,36.4,67.9,60.3,High,1 Activity,71.1,Good
+Chiamaka Suleiman,STU/2022/1223,18,Male,Undergraduate,200,,72.3,30.4,83.9,2.3,15.6,29.9,55.0,High,2+ Activities,57.5,Average
+Kayode Anikulapo,STU/2021/1224,16,Female,Undergraduate,400,28.7,92.3,50.8,77.8,5.0,17.0,52.2,67.8,Medium,2+ Activities,65.6,Good
+Kayode Nwachukwu,STU/2023/1225,21,Female,Undergraduate,200,45.8,49.1,90.4,45.1,2.68,18.3,14.1,46.9,Medium,None,51.9,Average
+Nkechi Suleiman,STU/2019/1226,17,Male,Undergraduate,200,64.4,0.0,80.0,59.7,2.81,17.7,88.9,52.6,Low,1 Activity,52.1,Average
+Emeka Aliyu,STU/2021/1227,23,Male,Undergraduate,400,48.3,50.6,95.8,76.0,3.81,31.2,81.3,70.7,Low,1 Activity,70.0,Good
+Nkechi Aliyu,STU/2020/1228,25,Male,Postgraduate,200,86.3,62.2,64.6,48.2,2.31,28.3,43.2,88.9,Low,1 Activity,63.6,Good
+Rasheed Onyekwere,STU/2022/1229,20,Female,Undergraduate,400,79.5,70.9,57.9,61.8,3.36,6.5,61.5,33.5,Low,None,58.4,Average
+Sandra Adeyemi,STU/2020/1230,22,Female,Undergraduate,200,78.5,63.5,35.0,77.8,3.46,30.1,56.0,70.3,Medium,1 Activity,62.3,Good
+Grace Eze,STU/2022/1231,25,Male,Undergraduate,200,25.1,49.1,60.4,55.3,3.22,8.4,39.7,84.4,Low,1 Activity,51.5,Average
+Sandra Nwosu,STU/2022/1232,27,Male,Postgraduate,200,62.5,88.9,52.4,50.6,5.0,16.6,58.1,73.9,High,1 Activity,69.0,Good
+Sandra Nwachukwu,STU/2022/1233,17,Female,Undergraduate,400,59.4,39.4,70.6,34.4,2.28,2.4,43.9,83.1,Medium,2+ Activities,53.6,Average
+Halima Anikulapo,STU/2023/1234,28,Female,Undergraduate,100,54.8,53.1,32.6,58.4,4.38,22.3,79.5,49.1,Medium,1 Activity,54.5,Average
+Ngozi Eze,STU/2018/1235,23,Male,Undergraduate,100,64.5,38.6,56.1,78.1,3.42,11.5,49.7,84.7,Medium,None,53.5,Average
+Gbemi Bello,STU/2023/1236,17,Female,Undergraduate,500,51.7,58.4,23.5,50.2,3.82,4.8,100.0,45.5,Medium,1 Activity,47.8,Pass
+Sola Eze,STU/2020/1237,19,Female,Undergraduate,100,75.9,86.6,61.8,65.3,3.31,23.5,53.1,61.1,Low,2+ Activities,68.4,Good
+Fatima Chukwu,STU/2023/1238,16,Male,Postgraduate,300,85.8,55.5,68.5,61.2,4.69,25.5,57.8,50.0,Medium,None,65.4,Good
+Usman Nwachukwu,STU/2021/1239,20,Female,Undergraduate,300,84.2,55.6,22.6,53.7,2.71,25.8,68.2,50.8,High,1 Activity,60.8,Good
+Amina Ibrahim,STU/2019/1240,24,Male,Undergraduate,200,69.5,27.5,28.2,79.2,3.45,1.8,75.9,25.6,Medium,None,47.0,Pass
+Abdul Okeke,STU/2021/1241,16,Female,Undergraduate,300,100.0,52.8,29.1,92.9,4.17,26.6,,20.6,Low,None,56.9,Average
+Chidinma Adeleke,STU/2023/1242,24,Female,Postgraduate,100,92.5,78.7,51.4,82.1,2.5,11.6,67.7,83.5,High,2+ Activities,67.4,Good
+Grace Mohammed,STU/2020/1243,26,Female,Undergraduate,300,70.2,53.5,27.1,53.2,3.9,30.4,59.6,24.0,Low,2+ Activities,58.1,Average
+Musa Adeyemi,STU/2019/1244,23,Female,Undergraduate,200,63.3,52.3,82.6,98.9,2.98,19.0,35.5,65.0,Medium,1 Activity,61.9,Good
+Usman Adeleke,STU/2021/1245,21,Male,Undergraduate,300,96.1,77.9,63.7,82.0,1.89,16.0,28.8,34.0,Medium,1 Activity,58.9,Average
+Grace Abubakar,STU/2019/1246,22,Female,Undergraduate,100,90.1,52.4,67.0,57.2,1.69,14.1,72.5,43.0,Medium,2+ Activities,55.8,Average
+Dauda Danjuma,STU/2020/1247,18,Female,Undergraduate,300,46.6,81.3,23.2,51.8,2.92,13.9,92.9,73.7,High,2+ Activities,50.9,Average
+Sola Eze,STU/2022/1248,29,Male,Undergraduate,100,91.5,34.9,80.9,84.1,3.89,,14.2,63.2,High,1 Activity,57.9,Average
+Biodun Suleiman,STU/2020/1249,16,Female,Undergraduate,200,69.2,70.2,68.0,68.0,1.13,5.5,19.1,57.5,Medium,1 Activity,47.1,Pass
+Ngozi Onyekwere,STU/2018/1250,20,Female,Undergraduate,100,56.5,87.6,41.4,50.5,3.18,11.1,18.9,82.9,Low,1 Activity,54.7,Average
+Femi Bello,STU/2019/1251,29,Male,Undergraduate,100,36.4,76.1,24.2,62.5,3.8,23.5,74.4,54.2,High,None,56.9,Average
+Mercy Bello,STU/2020/1252,27,Female,Undergraduate,400,67.2,24.4,53.5,58.1,1.85,2.8,76.5,84.6,Medium,1 Activity,43.7,Pass
+Babatunde Bello,STU/2022/1253,27,Female,Undergraduate,200,71.8,46.5,45.7,51.0,2.43,24.7,30.6,38.6,Low,2+ Activities,48.0,Pass
+Bello Danjuma,STU/2022/1254,17,Male,Postgraduate,500,100.0,53.6,46.5,82.2,3.52,15.1,100.0,36.2,Medium,2+ Activities,65.0,Good
+Sola Ibrahim,STU/2020/1255,29,Female,HND,500,89.2,76.2,40.9,78.3,3.76,20.3,,57.2,Low,2+ Activities,59.2,Average
+Chidinma Okeke,STU/2021/1256,20,Male,HND,300,61.5,34.0,69.4,79.3,4.44,20.7,90.9,60.1,Low,None,65.8,Good
+Wale Garba,STU/2020/1257,23,Male,HND,100,79.0,39.7,3.0,79.0,2.47,21.4,75.2,42.8,High,1 Activity,47.7,Pass
+Fatima Fashola,STU/2022/1258,26,Male,Undergraduate,200,86.9,29.1,83.6,49.4,2.27,14.2,31.0,54.5,Medium,None,54.8,Average
+Femi Lawal,STU/2020/1259,24,Female,Postgraduate,400,73.5,43.1,75.0,54.7,4.49,14.4,44.5,87.3,Low,None,63.2,Good
+Aisha Bakare,STU/2018/1260,17,Female,Undergraduate,200,61.4,35.5,59.2,89.8,2.32,21.2,33.2,52.1,Medium,2+ Activities,63.8,Good
+Bello Adeyemi,STU/2021/1261,27,Male,Undergraduate,100,62.4,86.8,52.1,66.8,3.46,5.7,21.4,21.3,High,1 Activity,53.9,Average
+Yusuf Chukwu,STU/2020/1262,18,Male,Undergraduate,300,78.9,46.3,76.7,40.0,4.96,,48.7,25.1,Low,2+ Activities,55.0,Average
+Amina Adeleke,STU/2022/1263,18,Female,Undergraduate,400,79.4,70.4,54.2,68.7,3.68,10.3,25.0,100.0,Medium,None,67.9,Good
+Sandra Onyekwere,STU/2020/1264,16,Male,Postgraduate,400,66.7,58.3,49.4,76.1,3.7,16.3,50.6,89.0,High,1 Activity,63.4,Good
+Emeka Nwosu,STU/2020/1265,23,Female,Undergraduate,100,24.9,58.1,77.8,73.9,4.15,29.4,100.0,51.3,Low,1 Activity,64.4,Good
+Anthonia Fashola,STU/2019/1266,21,Female,Undergraduate,300,48.8,47.4,96.9,49.1,3.47,14.4,72.4,76.2,Medium,None,58.9,Average
+Dauda Nwachukwu,STU/2020/1267,27,Male,HND,100,83.2,71.9,35.6,97.1,3.71,30.0,41.1,65.2,Low,None,63.1,Good
+Biodun Bakare,STU/2018/1268,28,Female,Undergraduate,100,33.6,60.8,63.5,39.5,2.69,18.1,,85.4,Medium,None,49.1,Pass
+Ike Obi,STU/2022/1269,23,Male,Undergraduate,400,93.3,59.7,33.3,66.9,4.04,10.4,45.0,38.6,High,1 Activity,51.4,Average
+Usman Obi,STU/2023/1270,26,Female,HND,100,90.7,47.3,65.0,94.5,3.37,23.2,100.0,39.1,Low,2+ Activities,71.6,Good
+Tunde Bakare,STU/2019/1271,24,Female,Undergraduate,200,72.7,50.3,39.4,75.1,1.67,12.1,27.8,86.4,High,2+ Activities,42.6,Pass
+Loveth Mohammed,STU/2023/1272,20,Female,Undergraduate,100,82.8,68.6,79.2,79.2,3.22,16.0,55.0,30.1,High,2+ Activities,64.6,Good
+Biodun Mohammed,STU/2020/1273,29,Male,Undergraduate,400,,62.1,53.0,47.1,1.05,3.3,66.6,61.4,Medium,2+ Activities,48.4,Pass
+Stella Nwosu,STU/2021/1274,27,Female,Undergraduate,400,69.9,60.2,55.9,70.9,3.64,1.9,85.4,59.1,Medium,2+ Activities,69.2,Good
+Sandra Ibrahim,STU/2018/1275,29,Male,HND,300,47.3,44.4,87.6,64.4,2.79,,46.7,75.7,Low,1 Activity,57.0,Average
+Abdul Adeleke,STU/2018/1276,18,Male,Undergraduate,400,89.4,93.0,40.3,45.8,4.71,22.8,30.9,62.8,High,1 Activity,66.1,Good
+Yusuf Nwachukwu,STU/2018/1277,20,Male,Undergraduate,100,97.3,49.4,68.7,79.7,3.44,,62.2,57.4,Medium,1 Activity,63.5,Good
+Uche Bello,STU/2019/1278,20,Female,Undergraduate,200,50.2,57.5,42.3,51.1,3.83,7.5,87.9,52.4,Medium,2+ Activities,56.7,Average
+Stella Okeke,STU/2020/1279,20,Female,Undergraduate,200,46.6,54.6,78.9,53.1,2.06,25.7,48.2,40.1,Medium,None,65.3,Good
+Ngozi Nwosu,STU/2018/1280,18,Female,HND,100,69.5,93.2,90.7,72.4,3.62,24.5,34.0,56.7,Medium,None,74.5,Good
+Gbenga Adeleke,STU/2020/1281,26,Female,Undergraduate,200,60.7,52.8,49.7,62.6,2.42,10.1,57.8,83.3,High,2+ Activities,52.0,Average
+Precious Chukwu,STU/2021/1282,29,Male,Undergraduate,500,74.6,51.1,11.1,67.9,3.98,,14.4,54.3,Medium,None,40.6,Pass
+Mary Chukwu,STU/2020/1283,25,Female,Undergraduate,100,93.7,60.1,41.2,61.5,1.99,21.6,49.5,88.1,High,2+ Activities,59.6,Average
+Biodun Danjuma,STU/2023/1284,29,Male,Undergraduate,200,31.6,45.5,100.0,89.0,3.1,23.1,84.5,74.6,Medium,1 Activity,62.4,Good
+Ahmed Onyekwere,STU/2020/1285,19,Female,HND,100,100.0,60.0,43.2,49.3,1.96,31.3,76.9,69.5,Low,None,52.9,Average
+Biodun Onyekwere,STU/2020/1286,24,Female,Undergraduate,100,64.7,100.0,90.4,57.1,3.11,,51.4,56.8,High,1 Activity,75.1,Excellent
+Lanre Mohammed,STU/2022/1287,28,Female,Undergraduate,500,81.2,63.4,42.9,73.2,4.82,0.0,,47.4,Medium,2+ Activities,61.7,Good
+Kayode Adeleke,STU/2023/1288,25,Female,Undergraduate,200,83.1,62.7,42.4,48.2,3.65,16.6,100.0,93.6,Medium,None,59.4,Average
+Blessing Aliyu,STU/2019/1289,24,Male,Postgraduate,200,85.2,45.1,70.6,47.5,2.97,,71.6,75.9,High,2+ Activities,60.7,Good
+Wale Nwosu,STU/2020/1290,17,Male,Undergraduate,400,73.1,88.8,68.2,67.3,0.78,15.2,18.3,57.2,Low,2+ Activities,54.3,Average
+Ruth Aliyu,STU/2018/1291,23,Female,HND,100,77.3,92.9,72.0,79.7,2.52,14.7,8.0,94.0,Medium,None,61.1,Good
+Tunde Anikulapo,STU/2022/1292,23,Male,Undergraduate,200,77.2,73.3,55.1,82.0,3.43,9.3,89.6,72.6,Low,None,66.8,Good
+Grace Lawal,STU/2020/1293,22,Male,HND,200,60.7,69.8,75.7,66.6,2.54,5.8,61.1,31.6,Medium,None,61.4,Good
+Ahmed Adeleke,STU/2022/1294,23,Male,Undergraduate,300,40.4,53.8,74.2,53.6,4.28,,95.9,51.5,High,None,57.5,Average
+Wale Adeleke,STU/2019/1295,29,Female,Undergraduate,500,50.1,65.0,78.0,69.7,3.06,11.3,21.5,74.5,High,None,56.9,Average
+Amina Mohammed,STU/2022/1296,18,Male,Undergraduate,400,70.1,43.0,42.5,74.6,3.97,12.9,51.0,90.2,Medium,1 Activity,52.1,Average
+Usman Bello,STU/2018/1297,28,Male,Undergraduate,200,57.8,37.7,75.7,69.5,3.18,14.8,,100.0,High,1 Activity,63.7,Good
+Halima Nwachukwu,STU/2020/1298,21,Female,HND,400,57.9,31.2,44.6,86.0,2.75,18.7,36.8,60.5,High,2+ Activities,59.2,Average
+Patience Garba,STU/2018/1299,16,Female,Postgraduate,100,100.0,65.4,51.9,47.8,2.58,11.5,80.4,72.3,Medium,None,62.2,Good
+Wale Mohammed,STU/2021/1300,22,Male,Undergraduate,100,87.5,33.2,51.4,53.2,2.09,24.2,51.9,47.8,Low,1 Activity,49.0,Pass
+Chioma Eze,STU/2022/1301,16,Male,Undergraduate,100,,49.0,35.0,83.6,3.99,13.7,,42.3,Medium,1 Activity,58.5,Average
+Stella Nwosu,STU/2022/1302,24,Male,Undergraduate,200,84.1,56.9,20.3,40.0,2.61,21.4,25.4,26.3,High,2+ Activities,42.1,Pass
+Mercy Garba,STU/2022/1303,16,Male,Postgraduate,300,64.4,75.9,79.5,55.8,3.47,11.6,61.3,67.8,High,1 Activity,66.6,Good
+Usman Abubakar,STU/2023/1304,16,Male,Undergraduate,300,74.0,47.6,41.0,52.6,2.53,,100.0,85.3,Medium,1 Activity,51.6,Average
+Usman Fashola,STU/2019/1305,22,Female,Undergraduate,500,79.9,78.0,49.6,38.4,2.03,,64.7,75.5,High,2+ Activities,56.1,Average
+Wale Onyekwere,STU/2023/1306,17,Female,Undergraduate,300,64.5,74.9,40.4,61.8,3.5,27.1,35.2,61.7,Low,None,60.9,Good
+Chidinma Nwosu,STU/2018/1307,29,Female,Undergraduate,300,59.7,38.7,49.9,77.7,2.33,8.4,89.9,84.5,Low,None,55.4,Average
+Fatima Anikulapo,STU/2021/1308,20,Male,Undergraduate,100,94.0,78.2,44.9,67.7,2.64,10.4,36.0,100.0,High,1 Activity,63.5,Good
+Uche Adeyemi,STU/2019/1309,23,Female,Undergraduate,100,83.1,52.9,80.6,78.6,1.88,12.0,98.0,43.4,Low,2+ Activities,64.5,Good
+Abdul Onyekwere,STU/2019/1310,23,Male,Undergraduate,300,31.4,49.0,43.2,85.3,2.56,33.8,,11.5,Low,None,44.6,Pass
+Rasheed Mohammed,STU/2020/1311,18,Female,HND,200,60.0,53.0,89.3,58.4,3.02,12.3,61.8,66.8,Medium,1 Activity,61.6,Good
+Fatima Onyekwere,STU/2021/1312,22,Female,Undergraduate,400,57.9,57.9,77.8,100.0,2.74,7.4,93.2,81.7,Medium,1 Activity,69.7,Good
+Dauda Nwosu,STU/2022/1313,18,Male,Undergraduate,100,60.8,50.5,45.5,59.1,3.74,24.4,,29.1,Medium,2+ Activities,51.9,Average
+Wale Okafor,STU/2023/1314,21,Female,Undergraduate,100,87.5,42.9,61.4,61.4,3.13,14.5,57.1,76.7,Low,None,56.1,Average
+Segun Okafor,STU/2022/1315,21,Male,Postgraduate,200,72.3,44.5,65.4,53.0,5.0,12.3,83.9,53.3,High,None,59.9,Average
+Dauda Ofili,STU/2020/1316,18,Female,Undergraduate,100,47.0,60.5,71.8,74.3,3.38,9.1,0.0,66.7,High,1 Activity,56.1,Average
+Anthonia Nwosu,STU/2023/1317,22,Male,Undergraduate,100,65.1,55.1,73.8,60.1,1.44,17.9,78.2,41.6,Medium,1 Activity,52.3,Average
+Emeka Okafor,STU/2022/1318,18,Male,Undergraduate,400,81.8,67.5,58.7,63.7,2.81,22.5,52.8,40.4,Medium,1 Activity,60.2,Good
+Ike Garba,STU/2018/1319,23,Female,Undergraduate,100,68.0,58.9,35.9,61.5,2.89,20.3,91.0,37.9,Medium,1 Activity,52.8,Average
+Aisha Okeke,STU/2022/1320,25,Male,Undergraduate,300,60.4,59.4,67.8,61.1,2.45,10.2,34.3,73.4,Medium,2+ Activities,49.6,Pass
+Adaeze Obi,STU/2023/1321,19,Female,Postgraduate,200,78.0,68.7,50.3,67.7,3.07,6.1,20.3,47.5,Medium,2+ Activities,66.5,Good
+Yusuf Aliyu,STU/2018/1322,28,Male,HND,100,100.0,83.5,0.0,57.3,2.42,0.0,41.4,65.4,Medium,2+ Activities,45.0,Pass
+Bello Okafor,STU/2020/1323,16,Female,Undergraduate,200,80.3,84.3,62.8,58.1,3.3,6.4,40.9,60.6,Medium,1 Activity,61.7,Good
+Gbenga Onwudiwe,STU/2020/1324,19,Female,Undergraduate,400,95.4,82.1,40.3,83.2,1.28,11.0,49.8,36.4,Low,2+ Activities,57.5,Average
+Dauda Adeleke,STU/2018/1325,29,Male,HND,200,61.6,73.7,45.8,60.0,4.03,13.5,43.3,61.5,Medium,None,55.5,Average
+Gbemi Okeke,STU/2023/1326,22,Male,Undergraduate,400,71.8,95.5,55.1,71.5,1.58,11.8,4.8,64.7,Medium,1 Activity,57.3,Average
+Uche Mohammed,STU/2023/1327,26,Male,Postgraduate,100,71.5,65.9,23.9,49.9,2.76,36.4,52.6,81.3,Medium,1 Activity,49.6,Pass
+Rasheed Nwosu,STU/2022/1328,19,Male,Undergraduate,400,,63.9,57.8,57.4,2.34,17.9,,89.9,High,2+ Activities,62.0,Good
+Babatunde Abubakar,STU/2020/1329,28,Male,HND,100,79.9,98.4,48.7,44.0,3.28,4.1,50.2,39.6,Medium,1 Activity,59.0,Average
+Precious Nwachukwu,STU/2020/1330,21,Female,Postgraduate,300,55.5,8.9,37.5,96.5,2.84,,62.2,67.1,High,2+ Activities,52.4,Average
+Mary Onwudiwe,STU/2018/1331,24,Female,HND,300,83.7,54.1,55.9,88.4,3.23,17.1,57.1,15.7,Low,2+ Activities,66.5,Good
+Aisha Obi,STU/2020/1332,16,Female,Undergraduate,500,42.7,80.5,21.2,75.1,4.0,5.6,20.5,77.0,Medium,1 Activity,51.4,Average
+Yusuf Lawal,STU/2022/1333,28,Female,Undergraduate,200,48.0,75.6,56.5,100.0,3.69,16.3,47.5,81.9,High,2+ Activities,69.7,Good
+Musa Bakare,STU/2020/1334,20,Female,HND,100,100.0,100.0,64.4,78.1,3.03,18.2,57.8,6.6,Medium,None,76.1,Excellent
+Amina Bakare,STU/2018/1335,26,Female,Undergraduate,100,62.8,59.9,61.1,62.1,3.41,,49.1,53.2,Medium,None,57.6,Average
+Stella Okeke,STU/2022/1336,22,Male,Undergraduate,400,85.1,50.2,70.8,71.3,4.76,0.0,17.7,42.1,Medium,2+ Activities,64.6,Good
+Rasheed Nwachukwu,STU/2021/1337,16,Female,Postgraduate,300,100.0,52.0,78.3,88.1,3.72,19.2,85.6,53.2,High,1 Activity,70.4,Good
+Dauda Nwosu,STU/2018/1338,29,Female,Postgraduate,400,,63.7,53.4,50.0,2.74,,30.7,49.2,Medium,1 Activity,54.1,Average
+Wale Okeke,STU/2021/1339,19,Female,HND,100,92.3,87.2,76.9,45.1,4.15,29.1,23.9,59.1,High,1 Activity,68.0,Good
+Gbenga Mohammed,STU/2020/1340,21,Male,Undergraduate,200,,87.4,53.3,71.9,3.35,4.2,56.0,79.7,High,None,67.8,Good
+Fatima Bello,STU/2022/1341,17,Male,Postgraduate,100,100.0,57.0,41.0,55.0,2.13,12.8,47.1,53.7,Medium,1 Activity,56.5,Average
+Ruth Fashola,STU/2020/1342,25,Male,Postgraduate,500,50.7,62.6,47.1,26.6,2.84,13.6,70.0,40.3,Medium,1 Activity,42.8,Pass
+Patience Obi,STU/2022/1343,20,Female,Undergraduate,300,98.1,47.0,60.3,43.9,1.67,19.4,76.8,56.0,Low,None,50.3,Average
+Musa Nwosu,STU/2019/1344,26,Female,Undergraduate,500,58.7,48.9,76.7,59.7,0.94,12.7,73.0,54.9,Medium,None,48.9,Pass
+Vivian Bakare,STU/2020/1345,25,Male,Undergraduate,200,91.0,76.8,55.0,65.8,2.15,8.3,55.0,58.3,Medium,1 Activity,63.9,Good
+Lanre Danjuma,STU/2020/1346,16,Female,Undergraduate,300,71.4,86.8,41.5,66.3,3.11,15.7,68.8,47.4,High,1 Activity,56.4,Average
+Anthonia Chukwu,STU/2020/1347,21,Male,HND,300,85.9,45.4,83.9,99.1,3.11,11.3,16.0,67.3,Medium,None,66.0,Good
+Dauda Mohammed,STU/2023/1348,21,Male,Undergraduate,200,72.9,62.4,26.3,61.5,1.73,18.5,82.4,85.9,High,1 Activity,54.9,Average
+Oluwaseun Chukwu,STU/2018/1349,28,Male,Postgraduate,400,38.9,53.6,41.7,69.7,0.86,7.5,44.9,34.6,Low,2+ Activities,42.3,Pass
+Oluwaseun Bello,STU/2023/1350,19,Female,HND,500,15.8,73.5,72.9,37.4,4.32,5.8,100.0,69.0,Medium,1 Activity,63.2,Good
+Gbemi Onwudiwe,STU/2022/1351,28,Female,Undergraduate,400,75.8,51.0,90.3,64.5,3.09,24.5,83.1,79.2,Medium,2+ Activities,60.0,Good
+Adaeze Fashola,STU/2022/1352,23,Male,Postgraduate,400,67.3,23.3,64.6,70.7,4.4,32.2,50.1,51.3,Medium,2+ Activities,61.6,Good
+Amina Okonkwo,STU/2022/1353,19,Female,Undergraduate,200,,76.1,60.0,41.6,4.35,28.6,55.5,85.0,High,None,64.8,Good
+Ifeoma Okonkwo,STU/2018/1354,23,Male,HND,200,67.5,52.5,49.2,49.1,3.66,13.4,84.6,58.8,Low,None,48.2,Pass
+Lanre Okeke,STU/2022/1355,28,Female,Undergraduate,500,100.0,54.4,66.0,73.3,3.05,22.4,,37.5,Low,1 Activity,55.2,Average
+Amina Okafor,STU/2023/1356,23,Female,HND,100,76.1,65.8,57.6,55.7,2.64,8.5,51.0,34.6,Medium,1 Activity,61.3,Good
+Loveth Lawal,STU/2023/1357,20,Female,Undergraduate,400,64.0,64.4,39.9,63.3,3.65,18.1,97.5,75.7,Medium,1 Activity,61.9,Good
+Patience Aliyu,STU/2020/1358,28,Male,Undergraduate,400,78.1,66.2,48.8,74.2,2.86,,76.1,73.9,High,None,63.5,Good
+Mary Ofili,STU/2021/1359,19,Female,Postgraduate,300,,28.7,37.7,99.6,2.47,24.1,34.1,91.3,High,1 Activity,56.8,Average
+Gbenga Nwachukwu,STU/2019/1360,27,Female,Undergraduate,500,73.7,68.0,55.3,61.2,1.11,23.0,62.9,73.4,Low,None,48.8,Pass
+Vivian Anikulapo,STU/2022/1361,28,Male,Undergraduate,200,,23.6,58.2,95.1,2.93,30.6,30.6,58.0,Medium,2+ Activities,55.3,Average
+Fatima Mohammed,STU/2018/1362,17,Female,Undergraduate,200,71.8,71.9,87.7,31.7,3.99,12.2,,69.6,Medium,None,67.3,Good
+Stella Danjuma,STU/2018/1363,26,Male,Postgraduate,100,63.4,78.1,43.1,67.5,4.13,26.6,63.3,61.4,High,2+ Activities,62.5,Good
+Oluwaseun Adeyemi,STU/2022/1364,18,Female,Undergraduate,200,51.8,33.4,51.4,59.3,3.05,18.1,67.7,53.3,High,None,55.3,Average
+Chiamaka Aliyu,STU/2021/1365,18,Male,Undergraduate,200,100.0,63.9,80.2,55.9,2.2,14.6,73.2,49.0,Medium,None,60.6,Good
+Wale Lawal,STU/2023/1366,19,Female,Undergraduate,200,52.5,77.0,91.1,76.2,3.81,,85.8,25.5,Medium,None,70.0,Good
+Dauda Eze,STU/2022/1367,19,Female,Undergraduate,400,72.1,49.9,64.5,61.4,2.99,27.6,25.2,45.2,Low,2+ Activities,57.7,Average
+Bello Ibrahim,STU/2018/1368,25,Male,Undergraduate,500,57.5,70.1,49.9,30.6,2.67,12.9,55.6,59.6,Medium,None,52.7,Average
+Gbenga Nwachukwu,STU/2019/1369,26,Male,Undergraduate,100,,7.9,45.5,38.0,1.69,13.4,33.7,5.9,Medium,1 Activity,34.3,Poor
+Kola Adeleke,STU/2021/1370,26,Male,Undergraduate,200,49.1,77.8,18.1,77.3,4.89,0.0,45.0,49.7,Medium,2+ Activities,59.2,Average
+Chidinma Bello,STU/2022/1371,20,Male,Undergraduate,500,87.1,58.5,36.4,37.2,3.66,12.8,36.1,78.4,Medium,1 Activity,54.0,Average
+Patience Onyekwere,STU/2019/1372,19,Male,Undergraduate,100,100.0,53.4,57.0,77.7,3.76,16.1,67.5,86.9,Medium,1 Activity,59.5,Average
+Chidinma Chukwu,STU/2022/1373,26,Female,HND,100,56.9,75.7,51.4,67.1,2.22,7.9,81.3,49.5,Medium,2+ Activities,63.9,Good
+Adaeze Fashola,STU/2021/1374,29,Male,Undergraduate,100,93.9,89.1,67.5,62.1,3.07,5.9,82.7,48.7,Medium,2+ Activities,64.2,Good
+Sola Bakare,STU/2018/1375,25,Male,Undergraduate,300,,66.7,51.1,63.6,2.93,0.0,27.4,45.6,Low,1 Activity,59.4,Average
+Musa Bello,STU/2023/1376,23,Female,Undergraduate,100,99.1,87.0,40.5,73.8,3.7,9.3,51.9,48.8,Low,1 Activity,63.2,Good
+Chiamaka Anikulapo,STU/2023/1377,21,Male,Undergraduate,500,100.0,30.0,61.8,45.0,4.22,25.4,26.7,82.9,Low,2+ Activities,56.3,Average
+Uche Okeke,STU/2021/1378,21,Female,Postgraduate,200,67.8,70.0,100.0,65.7,1.71,2.1,25.8,92.6,High,2+ Activities,64.8,Good
+Gbemi Danjuma,STU/2020/1379,23,Female,Undergraduate,300,44.6,55.6,48.7,45.6,2.03,20.3,38.5,26.2,Low,1 Activity,41.4,Pass
+Grace Chukwu,STU/2023/1380,22,Female,Undergraduate,100,89.1,43.8,57.8,67.8,3.58,21.0,63.6,43.8,High,2+ Activities,53.5,Average
+Oluwaseun Chukwu,STU/2022/1381,25,Female,Undergraduate,200,76.0,23.3,71.9,76.0,2.54,33.6,68.0,22.7,Low,None,55.2,Average
+Ahmed Okafor,STU/2019/1382,29,Female,Undergraduate,300,81.0,69.0,43.6,67.8,3.73,22.3,71.4,59.4,Medium,1 Activity,63.8,Good
+Yusuf Lawal,STU/2019/1383,26,Male,Undergraduate,400,65.9,73.8,80.5,75.3,2.66,21.6,69.8,50.2,High,None,72.6,Good
+Ahmed Bakare,STU/2023/1384,27,Male,Undergraduate,400,56.1,82.2,23.4,53.1,1.88,16.9,33.8,67.2,Medium,None,42.3,Pass
+Sandra Onyekwere,STU/2021/1385,25,Male,Undergraduate,300,92.9,79.2,46.8,63.9,1.42,14.0,84.6,73.3,Low,1 Activity,61.0,Good
+Precious Adeyemi,STU/2021/1386,28,Female,HND,500,77.8,44.1,48.8,61.0,3.44,20.8,75.1,71.0,Low,1 Activity,56.0,Average
+Yusuf Ofili,STU/2021/1387,23,Male,Undergraduate,400,46.0,81.2,58.0,59.8,3.46,24.0,44.7,27.1,High,None,58.8,Average
+Joy Okonkwo,STU/2019/1388,29,Female,Undergraduate,400,84.4,83.1,15.6,51.4,3.87,15.4,45.6,59.5,Medium,1 Activity,59.0,Average
+Usman Suleiman,STU/2018/1389,17,Female,HND,100,80.8,53.3,82.1,57.7,3.3,24.3,38.6,26.1,Medium,1 Activity,59.3,Average
+Ruth Adeyemi,STU/2019/1390,24,Female,Postgraduate,100,66.1,58.5,63.3,46.1,0.5,37.1,22.7,94.7,Medium,2+ Activities,51.9,Average
+Halima Onyekwere,STU/2018/1391,16,Female,Undergraduate,100,100.0,41.2,77.5,36.2,3.45,14.6,71.7,52.9,Medium,2+ Activities,64.4,Good
+Kayode Fashola,STU/2021/1392,23,Male,Postgraduate,300,60.9,84.7,87.3,53.1,1.69,14.8,75.6,32.7,Low,1 Activity,65.1,Good
+Anthonia Bello,STU/2020/1393,27,Female,HND,200,69.0,30.8,40.2,75.6,1.32,13.3,31.8,49.1,Medium,2+ Activities,39.3,Poor
+Tunde Adeyemi,STU/2019/1394,26,Female,Undergraduate,200,85.8,67.6,5.1,69.0,1.21,15.1,24.2,64.2,Medium,None,41.5,Pass
+Chukwuemeka Fashola,STU/2021/1395,27,Male,Undergraduate,400,73.4,47.3,77.9,43.6,1.13,23.8,31.6,74.7,Low,1 Activity,50.6,Average
+Dauda Ibrahim,STU/2019/1396,27,Male,Undergraduate,400,47.1,38.1,49.3,58.1,3.25,14.7,57.8,86.0,High,2+ Activities,54.6,Average
+Lanre Lawal,STU/2021/1397,19,Female,HND,500,75.3,24.3,32.3,76.8,2.34,15.5,20.5,61.3,High,1 Activity,44.5,Pass
+Amina Suleiman,STU/2019/1398,19,Female,Undergraduate,200,64.5,54.1,66.5,57.4,1.63,12.0,83.2,53.3,High,1 Activity,54.8,Average
+Chioma Nwosu,STU/2022/1399,20,Female,Undergraduate,300,87.4,35.2,100.0,40.9,3.02,17.9,81.7,73.7,Low,None,66.7,Good
+Ifeoma Mohammed,STU/2019/1400,23,Female,HND,200,74.7,59.0,52.8,100.0,2.0,10.0,65.6,73.2,Medium,None,58.3,Average
+Stella Aliyu,STU/2022/1401,20,Female,Undergraduate,100,73.7,89.8,74.0,62.2,3.88,4.2,75.2,62.4,High,1 Activity,75.3,Excellent
+Uche Adeyemi,STU/2018/1402,23,Male,Undergraduate,100,53.1,61.6,35.2,45.2,4.31,17.6,56.5,76.2,Low,2+ Activities,46.7,Pass
+Ibrahim Bakare,STU/2019/1403,25,Male,Undergraduate,200,67.9,94.0,21.3,67.9,2.8,29.8,66.6,47.8,Low,1 Activity,56.2,Average
+Tunde Okonkwo,STU/2018/1404,16,Male,Undergraduate,200,89.5,40.3,73.3,63.5,4.24,11.7,22.5,59.5,High,2+ Activities,56.2,Average
+Stella Nwachukwu,STU/2020/1405,27,Male,HND,400,58.0,34.9,65.9,38.8,4.24,5.7,89.8,19.3,Medium,2+ Activities,53.2,Average
+Patience Okonkwo,STU/2023/1406,25,Female,Undergraduate,100,71.4,39.5,45.7,66.6,3.08,29.3,42.8,87.8,Medium,None,57.1,Average
+Chidinma Bakare,STU/2023/1407,24,Female,Postgraduate,400,55.1,56.8,89.1,81.7,4.56,14.4,51.8,50.2,Medium,1 Activity,67.2,Good
+Chidinma Bello,STU/2022/1408,21,Female,Undergraduate,300,,100.0,19.7,61.0,2.44,21.6,,87.9,High,1 Activity,56.3,Average
+Precious Okeke,STU/2019/1409,18,Male,Undergraduate,200,70.5,28.1,30.4,30.0,1.24,8.2,49.5,46.9,Medium,1 Activity,29.2,Poor
+Oluwaseun Ofili,STU/2023/1410,28,Female,HND,200,75.1,69.2,44.1,70.8,1.6,14.1,73.5,66.0,High,None,62.4,Good
+Joy Fashola,STU/2018/1411,29,Female,Undergraduate,200,100.0,45.4,47.9,75.2,2.4,25.2,67.9,61.1,Medium,2+ Activities,59.2,Average
+Oluwaseun Bakare,STU/2023/1412,23,Female,Undergraduate,300,63.8,54.0,84.3,55.0,3.48,15.0,21.7,48.0,Medium,2+ Activities,57.3,Average
+Segun Okeke,STU/2023/1413,24,Female,Undergraduate,200,71.1,35.4,56.0,55.2,1.96,15.1,30.0,69.6,Medium,1 Activity,53.9,Average
+Ahmed Onyekwere,STU/2021/1414,21,Male,HND,100,49.5,73.8,51.1,100.0,2.39,2.1,100.0,85.5,Low,1 Activity,59.9,Average
+Vivian Ibrahim,STU/2023/1415,26,Male,Undergraduate,100,83.0,57.2,29.6,53.8,1.88,20.3,69.5,95.8,Medium,None,47.2,Pass
+Dauda Onwudiwe,STU/2018/1416,22,Male,Undergraduate,300,79.2,77.6,76.7,45.9,2.41,7.7,54.6,74.9,Medium,1 Activity,58.1,Average
+Halima Lawal,STU/2023/1417,16,Male,Undergraduate,500,98.8,61.2,32.3,65.4,4.21,23.0,41.6,35.8,High,2+ Activities,56.8,Average
+Ruth Lawal,STU/2019/1418,29,Male,Undergraduate,200,,23.2,29.5,74.8,3.32,15.6,63.0,31.9,Medium,2+ Activities,46.2,Pass
+Wale Suleiman,STU/2023/1419,20,Female,Postgraduate,400,78.3,77.7,47.0,74.1,2.48,16.3,65.4,82.8,Medium,None,58.1,Average
+Yusuf Bakare,STU/2020/1420,20,Female,Undergraduate,300,63.5,21.8,58.3,23.0,4.1,20.2,60.7,40.1,Medium,1 Activity,56.9,Average
+Mary Ofili,STU/2023/1421,25,Female,Undergraduate,500,75.7,24.3,40.6,53.8,3.02,17.0,81.7,72.3,High,1 Activity,45.4,Pass
+Kayode Obi,STU/2022/1422,29,Female,Undergraduate,400,70.0,41.5,69.1,84.6,3.12,27.7,33.3,62.7,Medium,None,54.0,Average
+Bello Aliyu,STU/2021/1423,19,Male,Undergraduate,300,89.2,41.7,49.3,70.6,4.03,26.5,30.0,86.4,Low,None,59.8,Average
+Chioma Mohammed,STU/2018/1424,21,Female,HND,300,86.9,83.1,76.1,44.0,2.69,4.3,81.1,70.2,High,1 Activity,64.5,Good
+Blessing Mohammed,STU/2023/1425,22,Male,Undergraduate,400,66.7,54.9,65.1,86.1,3.82,,100.0,59.4,Medium,1 Activity,68.4,Good
+Chidinma Mohammed,STU/2023/1426,24,Male,HND,200,45.7,80.5,90.8,81.4,3.76,20.7,76.1,100.0,Medium,None,70.6,Good
+Fatima Bello,STU/2019/1427,16,Male,Undergraduate,200,96.0,47.8,46.2,60.0,2.87,6.5,87.4,76.5,Medium,None,52.7,Average
+Lanre Adeyemi,STU/2019/1428,21,Male,Undergraduate,100,82.5,63.7,71.9,80.0,1.74,1.5,53.1,71.1,Medium,None,66.2,Good
+Gbenga Onwudiwe,STU/2022/1429,22,Male,HND,400,66.2,66.5,19.3,99.0,3.01,7.9,61.7,46.3,Medium,None,47.9,Pass
+Lanre Aliyu,STU/2021/1430,18,Male,Undergraduate,400,81.8,70.5,100.0,47.1,4.02,13.1,61.3,37.1,Low,1 Activity,69.7,Good
+Chidinma Onyekwere,STU/2018/1431,23,Male,Postgraduate,100,73.3,49.6,70.9,74.4,3.74,0.0,53.6,54.8,High,None,63.0,Good
+Nkechi Danjuma,STU/2018/1432,20,Female,HND,300,95.7,51.2,49.1,98.8,4.54,5.1,90.3,30.0,Low,None,68.6,Good
+Emeka Okafor,STU/2018/1433,24,Male,Undergraduate,200,37.3,52.6,49.8,76.1,2.56,0.0,82.9,53.6,Medium,2+ Activities,50.1,Average
+Halima Ibrahim,STU/2022/1434,20,Male,Undergraduate,100,64.9,28.3,50.1,52.2,3.7,23.2,45.0,76.0,Low,None,44.9,Pass
+Chioma Eze,STU/2022/1435,24,Male,Postgraduate,500,100.0,56.5,91.8,69.1,2.09,21.5,13.9,79.6,Medium,1 Activity,70.8,Good
+Tunde Bakare,STU/2023/1436,25,Female,Undergraduate,100,82.1,51.1,73.0,88.3,3.18,16.2,53.4,53.2,Low,2+ Activities,62.5,Good
+Biodun Eze,STU/2021/1437,19,Male,Undergraduate,100,100.0,68.4,46.1,47.7,3.99,14.8,26.1,100.0,Medium,1 Activity,66.7,Good
+Ruth Obi,STU/2018/1438,24,Male,Undergraduate,300,50.0,59.6,30.2,64.5,3.82,18.4,55.6,85.5,Medium,1 Activity,55.0,Average
+Precious Onyekwere,STU/2018/1439,20,Male,Undergraduate,400,91.3,82.1,78.9,60.9,3.09,6.0,28.1,59.4,Low,1 Activity,62.7,Good
+Chioma Bakare,STU/2023/1440,25,Male,Postgraduate,100,90.2,59.3,71.8,54.3,2.76,24.0,86.4,82.8,Medium,None,65.7,Good
+Babatunde Eze,STU/2021/1441,24,Male,Undergraduate,300,41.7,47.9,69.1,69.1,2.1,14.7,72.1,48.4,High,1 Activity,58.3,Average
+Gbenga Adeyemi,STU/2021/1442,18,Male,Undergraduate,300,66.7,59.0,53.3,63.3,2.8,21.3,71.5,65.1,Medium,1 Activity,57.9,Average
+Grace Ibrahim,STU/2021/1443,19,Male,Undergraduate,100,70.1,71.0,49.0,75.9,1.82,21.0,81.8,52.8,High,None,55.7,Average
+Dauda Adeyemi,STU/2019/1444,24,Male,Undergraduate,100,42.8,26.1,88.7,84.4,2.69,18.3,64.8,35.8,High,1 Activity,50.2,Average
+Aisha Nwachukwu,STU/2021/1445,25,Male,Undergraduate,300,67.1,45.1,90.6,43.4,1.37,16.5,68.7,70.7,High,2+ Activities,54.4,Average
+Aisha Nwosu,STU/2020/1446,26,Female,Postgraduate,200,87.7,45.5,67.8,66.1,1.81,15.9,90.9,59.9,High,None,61.8,Good
+Ahmed Suleiman,STU/2022/1447,21,Female,Undergraduate,500,65.0,65.4,74.4,64.1,3.77,13.5,51.6,61.4,Medium,1 Activity,59.1,Average
+Blessing Lawal,STU/2021/1448,17,Male,Postgraduate,400,76.4,67.5,59.7,68.5,3.67,17.9,70.1,59.5,High,1 Activity,67.3,Good
+Precious Danjuma,STU/2019/1449,22,Male,HND,500,76.5,59.8,27.6,64.7,2.74,15.6,28.7,42.0,High,2+ Activities,50.8,Average
+Stella Eze,STU/2020/1450,17,Female,Undergraduate,200,71.8,13.4,35.4,48.3,3.06,10.1,57.0,91.8,High,2+ Activities,47.7,Pass
+Patience Fashola,STU/2019/1451,26,Male,Undergraduate,500,59.3,28.3,77.9,89.7,3.18,18.9,100.0,65.0,Low,2+ Activities,52.9,Average
+Chioma Danjuma,STU/2019/1452,17,Male,Undergraduate,200,83.9,53.7,80.5,97.0,3.41,16.2,75.4,54.7,High,1 Activity,64.9,Good
+Abdul Okeke,STU/2023/1453,26,Female,Undergraduate,200,43.4,49.0,76.1,74.3,3.32,23.7,52.9,33.8,High,None,56.8,Average
+Vivian Onyekwere,STU/2019/1454,16,Male,HND,100,72.2,58.1,61.9,75.2,1.8,,61.6,88.1,High,None,63.8,Good
+Oluwaseun Adeleke,STU/2019/1455,26,Male,HND,100,96.9,49.6,76.8,67.2,0.8,14.3,54.5,78.3,Low,1 Activity,54.0,Average
+Fatima Bello,STU/2018/1456,26,Male,Undergraduate,300,63.9,85.6,53.8,81.5,2.08,8.2,60.8,60.0,Low,1 Activity,59.0,Average
+Sandra Eze,STU/2022/1457,27,Female,Undergraduate,200,58.9,16.7,67.4,23.5,2.86,9.9,45.0,34.3,High,2+ Activities,51.4,Average
+Sola Chukwu,STU/2023/1458,26,Male,HND,100,85.1,63.4,50.9,64.9,3.86,18.5,67.4,93.2,Medium,1 Activity,65.5,Good
+Vivian Onyekwere,STU/2023/1459,18,Female,HND,300,74.9,72.9,33.9,55.3,3.21,2.5,68.3,52.7,Medium,1 Activity,57.3,Average
+Rasheed Mohammed,STU/2018/1460,21,Female,Undergraduate,200,85.4,70.6,72.3,67.5,3.48,15.1,55.2,46.6,High,1 Activity,63.7,Good
+Ike Onwudiwe,STU/2020/1461,23,Male,Undergraduate,300,72.7,72.2,80.5,83.6,2.19,14.2,58.5,59.0,Low,None,69.0,Good
+Oluwaseun Lawal,STU/2018/1462,24,Male,Undergraduate,200,29.0,74.8,100.0,65.3,2.94,5.6,63.5,67.5,Medium,1 Activity,68.7,Good
+Mary Nwachukwu,STU/2023/1463,22,Male,HND,400,93.2,47.1,60.3,58.9,3.06,15.3,41.8,56.6,Medium,1 Activity,59.1,Average
+Segun Adeleke,STU/2020/1464,19,Male,Undergraduate,400,100.0,38.2,34.0,41.1,2.32,7.9,67.1,0.0,Medium,2+ Activities,44.7,Pass
+Chidinma Anikulapo,STU/2023/1465,21,Male,Undergraduate,200,95.1,21.4,48.4,63.1,2.04,31.6,74.5,65.0,Medium,1 Activity,54.8,Average
+Ibrahim Anikulapo,STU/2021/1466,20,Female,Undergraduate,200,10.0,51.5,52.3,76.4,2.8,23.6,91.6,78.5,Low,2+ Activities,46.5,Pass
+Ibrahim Chukwu,STU/2020/1467,23,Female,Undergraduate,200,80.1,44.0,58.0,50.7,3.6,14.5,63.0,42.2,Low,1 Activity,59.1,Average
+Biodun Eze,STU/2023/1468,16,Female,Undergraduate,400,63.6,78.9,64.4,30.9,2.19,10.5,41.1,91.2,Medium,None,50.3,Average
+Kayode Garba,STU/2018/1469,16,Male,HND,200,52.5,52.8,62.3,100.0,2.81,18.0,52.4,77.5,High,None,60.0,Good
+Anthonia Nwachukwu,STU/2023/1470,28,Female,Undergraduate,100,74.2,39.5,70.5,70.7,4.22,20.1,26.4,69.4,Medium,None,65.5,Good
+Ifeoma Onyekwere,STU/2018/1471,26,Female,Undergraduate,100,69.3,36.6,58.9,61.2,2.53,16.0,73.2,39.7,Low,1 Activity,56.0,Average
+Kayode Nwachukwu,STU/2020/1472,21,Female,Undergraduate,200,81.2,93.8,10.5,88.6,3.01,5.9,3.5,65.6,Low,None,47.6,Pass
+Nkechi Bello,STU/2018/1473,25,Male,Undergraduate,200,73.0,57.6,59.5,67.4,2.9,12.3,80.6,67.1,High,1 Activity,56.5,Average
+Chiamaka Obi,STU/2020/1474,27,Female,Undergraduate,400,51.8,43.9,56.7,87.6,2.83,14.6,83.6,58.4,High,2+ Activities,60.7,Good
+Usman Obi,STU/2019/1475,17,Male,Undergraduate,100,61.6,60.2,66.0,86.2,4.5,16.3,0.0,77.8,Medium,1 Activity,56.5,Average
+Ngozi Obi,STU/2022/1476,20,Male,Undergraduate,200,58.7,92.1,47.8,43.3,3.28,16.5,86.9,52.8,Low,2+ Activities,65.1,Good
+Dauda Chukwu,STU/2020/1477,16,Male,Undergraduate,400,41.1,51.0,59.5,72.8,1.59,19.8,80.7,54.6,Medium,None,52.2,Average
+Blessing Bakare,STU/2019/1478,22,Female,Undergraduate,400,47.3,70.4,66.1,94.3,4.38,24.7,47.7,46.7,High,1 Activity,73.5,Good
+Emeka Obi,STU/2019/1479,16,Female,Undergraduate,200,68.2,79.4,51.8,48.0,3.25,22.1,25.2,51.0,Medium,None,53.3,Average
+Patience Aliyu,STU/2019/1480,19,Male,HND,200,97.6,24.0,68.5,48.2,2.66,18.7,34.1,57.0,Medium,2+ Activities,50.3,Average
+Dauda Chukwu,STU/2019/1481,24,Male,HND,200,62.4,46.5,56.4,51.1,4.21,3.9,,56.3,Medium,None,56.3,Average
+Wale Adeyemi,STU/2020/1482,16,Male,Undergraduate,500,,77.1,58.1,80.1,2.3,,87.9,55.4,High,1 Activity,62.2,Good
+Lanre Nwosu,STU/2018/1483,19,Male,Undergraduate,100,50.7,45.4,0.0,69.8,4.54,20.6,43.8,78.5,Low,1 Activity,41.5,Pass
+Musa Eze,STU/2019/1484,21,Male,HND,500,72.5,65.5,32.1,32.1,3.08,12.0,77.6,90.1,High,1 Activity,54.3,Average
+Ifeoma Danjuma,STU/2021/1485,21,Male,Undergraduate,300,93.2,44.3,32.2,70.8,3.91,14.2,51.9,34.4,Medium,2+ Activities,48.8,Pass
+Segun Adeyemi,STU/2019/1486,27,Female,Postgraduate,300,100.0,50.0,59.3,60.7,5.0,14.5,56.4,89.6,Medium,None,71.3,Good
+Chiamaka Bakare,STU/2018/1487,28,Male,HND,100,77.1,47.8,80.4,63.1,3.16,10.5,15.7,73.5,Medium,1 Activity,59.4,Average
+Chukwuemeka Aliyu,STU/2018/1488,23,Male,Undergraduate,200,74.5,69.5,52.6,50.8,2.91,0.0,26.3,42.1,Medium,2+ Activities,49.1,Pass
+Kola Suleiman,STU/2022/1489,16,Male,Undergraduate,200,62.2,61.6,72.0,70.9,2.04,5.1,87.3,53.4,Medium,1 Activity,63.1,Good
+Tunde Aliyu,STU/2022/1490,22,Female,HND,100,65.2,59.8,68.0,82.9,2.89,6.7,51.1,65.7,Medium,1 Activity,65.1,Good
+Ifeoma Adeyemi,STU/2019/1491,16,Female,Undergraduate,300,83.3,100.0,57.8,54.1,2.07,0.0,62.5,26.9,Low,None,58.3,Average
+Biodun Fashola,STU/2019/1492,28,Female,Undergraduate,500,66.3,89.3,66.5,36.4,2.83,5.1,100.0,58.3,Medium,2+ Activities,70.5,Good
+Ifeoma Anikulapo,STU/2023/1493,29,Male,Undergraduate,300,69.1,22.3,59.9,59.8,5.0,23.1,51.8,70.5,Medium,2+ Activities,67.0,Good
+Mercy Onwudiwe,STU/2023/1494,22,Female,Undergraduate,400,71.5,50.0,52.2,77.9,3.11,17.9,50.4,45.1,Low,1 Activity,57.4,Average
+Anthonia Chukwu,STU/2022/1495,18,Male,Undergraduate,100,61.4,100.0,62.8,57.8,2.5,6.2,85.2,30.4,High,2+ Activities,67.3,Good
+Bello Danjuma,STU/2019/1496,26,Female,Postgraduate,200,70.7,47.7,83.9,39.5,2.81,8.5,55.3,64.0,Low,1 Activity,60.4,Good
+Chidinma Okeke,STU/2023/1497,23,Female,HND,100,35.7,95.6,64.5,78.0,2.63,23.8,63.0,100.0,Medium,None,60.5,Good
+Kayode Danjuma,STU/2021/1498,18,Female,Undergraduate,300,81.9,50.3,59.4,89.1,3.94,23.6,79.9,45.7,Low,None,66.1,Good
+Halima Adeleke,STU/2020/1499,29,Female,Undergraduate,500,100.0,53.8,37.5,65.3,2.92,14.6,55.0,46.3,Medium,1 Activity,52.7,Average
+Mary Anikulapo,STU/2022/1500,29,Female,Undergraduate,300,,73.5,83.3,37.7,4.45,23.4,74.7,56.0,Medium,1 Activity,63.2,Good
